@@ -1,87 +1,106 @@
-"""BigQuery 分析用スクリプト
+"""BigQuery (vetstechtokyo) 分析用スクリプト
 
-BigQuery に接続してクエリを実行し、pandas DataFrame で分析するための雛形。
+認証済みの bq コマンドをそのまま使う方式。
+`gcloud auth login` が済んでいる環境なら追加の認証は一切不要。
 
-事前準備:
-    1. 依存ライブラリのインストール
-        pip install -r requirements.txt
-
-    2. 認証 (ADC: Application Default Credentials)
-        gcloud auth application-default login
-        # またはサービスアカウントを使う場合:
-        # export GOOGLE_APPLICATION_CREDENTIALS=/path/to/key.json
-
-    3. 接続先の設定 (環境変数で上書き可能)
-        export BQ_PROJECT_ID=your-project-id
-        export BQ_DATASET=your_dataset
+接続先・ルールの正本: bigquery-access リポジトリの DATA_DICTIONARY.md / HANDOFF.md
 
 実行:
-    python analysis/bigquery_analysis.py
+    python analysis/bigquery_analysis.py            # 接続テスト + データセット一覧
+    python analysis/bigquery_analysis.py query.sql  # SQLファイルを実行してCSV保存
 """
 
-import os
+import io
+import subprocess
+import sys
+from pathlib import Path
 
 import pandas as pd
-from google.cloud import bigquery
 
 # ---------------------------------------------------------------------------
-# 設定
+# 接続先（固定・正本は bigquery-access/DATA_DICTIONARY.md）
 # ---------------------------------------------------------------------------
-PROJECT_ID = os.environ.get("BQ_PROJECT_ID", "your-project-id")
-DATASET = os.environ.get("BQ_DATASET", "your_dataset")
+PROJECT_ID = "vetstechtokyo"
+LOCATION = "asia-northeast1"
+
+# テスト系病院（集計から必ず除外する）
+TEST_HOSPITAL_IDS = (1, 2, 10, 17)
+
+# SQL内で使う除外条件のスニペット
+EXCLUDE_TEST_HOSPITALS = f"hospital_id NOT IN {TEST_HOSPITAL_IDS}"
+
+RESULTS_DIR = Path(__file__).parent / "results"
 
 
-def get_client() -> bigquery.Client:
-    """BigQuery クライアントを生成する (認証は ADC を利用)。"""
-    return bigquery.Client(project=PROJECT_ID)
+def bq(*args: str) -> str:
+    """bq コマンドを実行して標準出力を返す。"""
+    cmd = ["bq", f"--location={LOCATION}", f"--project_id={PROJECT_ID}", *args]
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"bq 失敗:\n{result.stderr}")
+    return result.stdout
 
 
-def run_query(client: bigquery.Client, sql: str) -> pd.DataFrame:
-    """SQL を実行して DataFrame で返す。"""
-    return client.query(sql).to_dataframe()
+def run_query(sql: str, max_rows: int = 1000) -> pd.DataFrame:
+    """SQL を実行して DataFrame で返す。
+
+    ルール（DATA_DICTIONARY.md §4）:
+    - 日本語カラム名はバッククォート必須（例: t.`診療日`）
+    - テスト病院 (1,2,10,17) は除外する
+    - PIIカラム（氏名・住所・電話・メール）は取得しない
+    """
+    out = bq(
+        "query",
+        "--use_legacy_sql=false",
+        "--format=csv",
+        f"--max_rows={max_rows}",
+        sql,
+    )
+    return pd.read_csv(io.StringIO(out))
 
 
-def list_tables(client: bigquery.Client, dataset: str = DATASET) -> list[str]:
-    """データセット内のテーブル一覧を返す。"""
-    return [t.table_id for t in client.list_tables(dataset)]
+def dry_run(sql: str) -> str:
+    """スキャン量を事前確認する（1GB超えそうなクエリは実行前に必ず使う）。"""
+    return bq("query", "--use_legacy_sql=false", "--dry_run", sql)
 
 
-def preview_table(
-    client: bigquery.Client, table: str, limit: int = 10, dataset: str = DATASET
-) -> pd.DataFrame:
-    """テーブルの先頭 N 行をプレビューする。"""
-    sql = f"SELECT * FROM `{PROJECT_ID}.{dataset}.{table}` LIMIT {limit}"
-    return run_query(client, sql)
+def run_query_file(sql_path: str, max_rows: int = 1000) -> Path:
+    """SQLファイルを実行し、結果を analysis/results/ にCSV保存してパスを返す。"""
+    sql = Path(sql_path).read_text()
+    df = run_query(sql, max_rows=max_rows)
+    RESULTS_DIR.mkdir(exist_ok=True)
+    out_path = RESULTS_DIR / (Path(sql_path).stem + ".csv")
+    df.to_csv(out_path, index=False)
+    print(f"{len(df)}行 → {out_path}")
+    return out_path
 
 
-def summarize_table(
-    client: bigquery.Client, table: str, dataset: str = DATASET
-) -> pd.DataFrame:
-    """行数などの基本サマリーを取得する。"""
-    sql = f"SELECT COUNT(*) AS row_count FROM `{PROJECT_ID}.{dataset}.{table}`"
-    return run_query(client, sql)
+def list_datasets() -> str:
+    """データセット一覧。"""
+    return bq("ls")
+
+
+def list_tables(dataset: str) -> str:
+    """データセット内のテーブル一覧（例: dataform / raw）。"""
+    return bq("ls", "--max_results=1000", f"{PROJECT_ID}:{dataset}")
+
+
+def show_schema(dataset: str, table: str) -> str:
+    """テーブルのスキーマを表示。"""
+    return bq("show", "--schema", "--format=prettyjson", f"{PROJECT_ID}:{dataset}.{table}")
 
 
 def main() -> None:
-    client = get_client()
-    print(f"接続先プロジェクト: {client.project}")
-
-    print(f"\nデータセット `{DATASET}` のテーブル一覧:")
-    tables = list_tables(client)
-    for name in tables:
-        print(f"  - {name}")
-
-    if not tables:
-        print("  (テーブルがありません)")
+    if len(sys.argv) > 1:
+        run_query_file(sys.argv[1])
         return
 
-    # 最初のテーブルをプレビュー
-    table = tables[0]
-    print(f"\nテーブル `{table}` のプレビュー:")
-    print(preview_table(client, table))
+    # 接続テスト
+    print("接続テスト:")
+    print(run_query("SELECT 1 AS ok"))
 
-    print(f"\nテーブル `{table}` のサマリー:")
-    print(summarize_table(client, table))
+    print(f"\nデータセット一覧 ({PROJECT_ID}):")
+    print(list_datasets())
 
 
 if __name__ == "__main__":

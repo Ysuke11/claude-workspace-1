@@ -1,27 +1,32 @@
-# BigQuery 分析
+# BigQuery 分析（vetstechtokyo）
 
-BigQuery に接続してデータ分析を行うためのスクリプト置き場。
+接続先・データ構造・クエリルールの**正本は [`bigquery-access`](https://github.com/Ysuke11/bigquery-access) リポジトリ**
+（`DATA_DICTIONARY.md` / `HANDOFF.md`）。このフォルダは分析スクリプトと結果の置き場。
 
-## セットアップ
+## 接続情報（確定事項）
 
-```bash
-pip install -r ../requirements.txt
-
-# 認証 (ADC)
-gcloud auth application-default login
-# サービスアカウントを使う場合:
-# export GOOGLE_APPLICATION_CREDENTIALS=/path/to/key.json
-
-# 接続先の設定
-export BQ_PROJECT_ID=your-project-id
-export BQ_DATASET=your_dataset
-```
+| 項目 | 値 |
+|------|-----|
+| プロジェクト | `vetstechtokyo` |
+| ロケーション | `asia-northeast1` |
+| 認証 | `gcloud auth login`（認証済みのMacならそのまま動く。追加認証不要） |
+| 最重要データセット | `dataform`（マート層）、`raw`（生データ） |
 
 ## 実行
 
 ```bash
-python bigquery_analysis.py
+# 接続テスト + データセット一覧
+python analysis/bigquery_analysis.py
+
+# SQLファイルを実行して analysis/results/ にCSV保存
+python analysis/bigquery_analysis.py analysis/queries/xxx.sql
 ```
 
-テーブル一覧の表示、先頭行のプレビュー、行数サマリーの取得を行います。
-分析を追加する場合は `run_query()` に SQL を渡して DataFrame として受け取ってください。
+## 毎回守るルール（DATA_DICTIONARY.md §4）
+
+1. `--location=asia-northeast1` 必須（スクリプトが自動付与）
+2. 日本語カラム名はバッククォート必須（例: `` t.`診療日` ``）
+3. テスト病院（hospital_id 1,2,10,17）は集計から除外
+4. スキャン1GB超えそうなら `dry_run()` で事前確認
+5. PIIカラム（氏名・住所・電話・メール）は取得しない
+6. 大きい結果はCSV保存し、会話には要約だけ
