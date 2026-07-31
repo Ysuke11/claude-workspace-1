@@ -2,8 +2,8 @@ name: Collect AI News
 
 on:
   schedule:
-    # 毎日 22:00 UTC = 翌朝 7:00 JST に実行
-    - cron: "0 22 * * *"
+    # 毎日 23:00 UTC = 翌朝 8:00 JST に実行
+    - cron: "0 23 * * *"
   workflow_dispatch: {}
 
 permissions:
