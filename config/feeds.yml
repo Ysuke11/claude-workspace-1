@@ -79,6 +79,44 @@ feeds:
     lang: ja
     category: news
 
+  # ---- 世界のAI著名人の発信・動向 (Google News) ----
+  # X(Twitter)の投稿は公式APIなしでは直接取得できないため、
+  # 著名人の発言・発信を報じたニュース記事経由でカバーする
+  - name: Sam Altman / OpenAI経営陣 (Google News)
+    source: 著名人の発信
+    type: google_news
+    query: '"Sam Altman"'
+    category: leaders
+    max_items: 15
+
+  - name: Dario Amodei / Anthropic経営陣 (Google News)
+    source: 著名人の発信
+    type: google_news
+    query: '"Dario Amodei" OR "Anthropic CEO"'
+    category: leaders
+    max_items: 15
+
+  - name: AI研究リーダー (Google News)
+    source: 著名人の発信
+    type: google_news
+    query: '"Demis Hassabis" OR "Yann LeCun" OR "Ilya Sutskever" OR "Andrej Karpathy"'
+    category: leaders
+    max_items: 15
+
+  - name: テック企業トップのAI発言 (Google News)
+    source: 著名人の発信
+    type: google_news
+    query: '"Elon Musk" AI OR "Jensen Huang" OR "Mark Zuckerberg" AI OR "Satya Nadella" AI'
+    category: leaders
+    max_items: 15
+
+  - name: AI著名人 (Google News 日本語)
+    source: 著名人の発信
+    type: google_news
+    query: サム・アルトマン OR ダリオ・アモデイ OR デミス・ハサビス
+    lang: ja
+    category: leaders
+
 # 収集設定
 settings:
   # この時間（時間単位）より古い記事は日次ダイジェストに含めない
