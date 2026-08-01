@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import json
 import sys
+import time
 import urllib.parse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -33,7 +34,19 @@ NEWS_MD_DIR = REPO_ROOT / "news"
 SEEN_PATH = DATA_DIR / "seen.json"
 
 JST = timezone(timedelta(hours=9))
-USER_AGENT = "ai-news-collector/1.0 (+https://github.com/Ysuke11/claude-workspace-1)"
+# Google NewsはボットらしいUAに503を返すため、ブラウザ相当のUAで要求する
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
+REQUEST_HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
+    "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+}
+# 一時的な失敗（レート制限・スロットリング）で再試行するステータス
+RETRY_STATUSES = {429, 500, 502, 503, 504}
+MAX_ATTEMPTS = 4
 
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
 
@@ -85,13 +98,33 @@ def clean_summary(entry) -> str:
     return text[:300]
 
 
+def fetch_with_retry(url: str) -> requests.Response:
+    """一時的な失敗を指数バックオフで再試行しつつフィードを取得する。"""
+    last_error: Exception | None = None
+    for attempt in range(MAX_ATTEMPTS):
+        if attempt:
+            time.sleep(2**attempt)  # 2s, 4s, 8s
+        try:
+            resp = requests.get(url, headers=REQUEST_HEADERS, timeout=30)
+        except requests.RequestException as exc:
+            last_error = exc
+            continue
+        if resp.status_code in RETRY_STATUSES:
+            last_error = requests.HTTPError(
+                f"{resp.status_code} {resp.reason} (retried {attempt + 1}回)", response=resp
+            )
+            continue
+        resp.raise_for_status()
+        return resp
+    raise last_error  # type: ignore[misc]
+
+
 def fetch_feed(feed: dict, settings: dict, seen: set[str], now: datetime) -> list[dict]:
     url = feed_url(feed)
     max_items = feed.get("max_items", settings.get("default_max_items", 10))
     max_age = timedelta(hours=settings.get("max_age_hours", 48))
 
-    resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
-    resp.raise_for_status()
+    resp = fetch_with_retry(url)
     parsed = feedparser.parse(resp.content)
 
     articles = []
