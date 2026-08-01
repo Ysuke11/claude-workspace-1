@@ -1,0 +1,258 @@
+# AIニュース収集対象のフィード定義
+#
+# type:
+#   rss         - 通常のRSS/Atomフィード
+#   google_news - Google NewsのRSS検索（公式RSSがない企業・テーマ用）
+#
+# category: レポート上の扱いを決める。使い方系(howto/usecase)を主軸とし、
+#   企業動向(official/news/leaders/media/research)は補足として扱う。
+#   howto    - 使い方・プロンプト・機能解説（レポートの主役）
+#   usecase  - 業務での活用事例・導入事例（レポートの主役）
+#   official - 各社の公式発表
+#   news     - 企業・業界の報道
+#   leaders  - 著名人の発言
+#   media    - テックメディアの一般記事
+#   research - 論文・研究
+#
+# 各フィードの取得に失敗しても他のフィードの収集は継続されます。
+
+feeds:
+  # ---- 公式ブログ / ニュース (RSS) ----
+  - name: OpenAI News
+    source: OpenAI
+    type: rss
+    url: https://openai.com/news/rss.xml
+    category: official
+
+  - name: Google DeepMind Blog
+    source: Google DeepMind
+    type: rss
+    url: https://deepmind.google/blog/rss.xml
+    category: official
+
+  - name: Google AI Blog
+    source: Google
+    type: rss
+    url: https://blog.google/technology/ai/rss/
+    category: official
+
+  - name: Hugging Face Blog
+    source: Hugging Face
+    type: rss
+    url: https://huggingface.co/blog/feed.xml
+    category: official
+
+  - name: Microsoft Research Blog
+    source: Microsoft
+    type: rss
+    url: https://www.microsoft.com/en-us/research/feed/
+    category: official
+
+  # 注意: Anthropic と Meta は公式RSSを提供していない（2026-08時点で
+  # www.anthropic.com/rss.xml は404、ai.meta.com/blog/rss.xml は400）。
+  # 両社の情報は下の Google News 検索とテックメディアのRSSでカバーする。
+
+  # ---- 主要テックメディア (RSS) ----
+  # 公式発表の解説と、著名人のインタビュー・発言をカバーする。
+  # Google Newsと違いGitHub ActionsのIPからも安定して取得できる。
+  - name: TechCrunch AI
+    source: メディア
+    type: rss
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: media
+    max_items: 15
+
+  - name: VentureBeat AI
+    source: メディア
+    type: rss
+    url: https://venturebeat.com/category/ai/feed/
+    category: media
+    max_items: 15
+
+  - name: The Verge AI
+    source: メディア
+    type: rss
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: media
+    max_items: 15
+
+  - name: Ars Technica AI
+    source: メディア
+    type: rss
+    url: https://arstechnica.com/ai/feed/
+    category: media
+
+  - name: MIT Technology Review AI
+    source: メディア
+    type: rss
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    category: media
+
+  # ---- 研究論文 ----
+  - name: arXiv cs.AI
+    source: arXiv
+    type: rss
+    url: https://rss.arxiv.org/rss/cs.AI
+    category: research
+    max_items: 15
+
+  # ---- Google News 検索 (公式RSSがない企業・補完用) ----
+  # Anthropicは公式RSSを提供していないため、Google News経由で収集する
+  - name: Anthropic (Google News)
+    source: Anthropic
+    type: google_news
+    query: Anthropic OR Claude AI
+    category: news
+
+  - name: OpenAI (Google News)
+    source: OpenAI
+    type: google_news
+    query: OpenAI OR ChatGPT
+    category: news
+
+  - name: xAI (Google News)
+    source: xAI
+    type: google_news
+    query: xAI Grok
+    category: news
+
+  - name: AI業界全般 (Google News 日本語)
+    source: AI業界
+    type: google_news
+    query: 生成AI OR 大規模言語モデル
+    lang: ja
+    category: news
+
+  # ---- 世界のAI著名人の発信・動向 (Google News) ----
+  # X(Twitter)の投稿は公式APIなしでは直接取得できないため、
+  # 著名人の発言・発信を報じたニュース記事経由でカバーする
+  - name: Sam Altman / OpenAI経営陣 (Google News)
+    source: 著名人の発信
+    type: google_news
+    query: '"Sam Altman"'
+    category: leaders
+    max_items: 15
+
+  - name: Dario Amodei / Anthropic経営陣 (Google News)
+    source: 著名人の発信
+    type: google_news
+    query: '"Dario Amodei" OR "Anthropic CEO"'
+    category: leaders
+    max_items: 15
+
+  - name: AI研究リーダー (Google News)
+    source: 著名人の発信
+    type: google_news
+    query: '"Demis Hassabis" OR "Yann LeCun" OR "Ilya Sutskever" OR "Andrej Karpathy"'
+    category: leaders
+    max_items: 15
+
+  - name: テック企業トップのAI発言 (Google News)
+    source: 著名人の発信
+    type: google_news
+    query: '"Elon Musk" AI OR "Jensen Huang" OR "Mark Zuckerberg" AI OR "Satya Nadella" AI'
+    category: leaders
+    max_items: 15
+
+  - name: AI著名人 (Google News 日本語)
+    source: 著名人の発信
+    type: google_news
+    query: サム・アルトマン OR ダリオ・アモデイ OR デミス・ハサビス
+    lang: ja
+    category: leaders
+
+  # ============================================================
+  # 使い方・活用事例（レポートの主軸）
+  # ============================================================
+
+  # ---- 使い方・ハウツー系メディア (RSS) ----
+  - name: How-To Geek AI
+    source: 使い方
+    type: rss
+    url: https://www.howtogeek.com/feed/
+    category: howto
+    max_items: 20
+
+  - name: XDA Developers
+    source: 使い方
+    type: rss
+    url: https://www.xda-developers.com/feed/
+    category: howto
+    max_items: 20
+
+  - name: ZDNET AI
+    source: 使い方
+    type: rss
+    url: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+    category: howto
+    max_items: 20
+
+  - name: Lifehacker
+    source: 使い方
+    type: rss
+    url: https://lifehacker.com/feed/rss
+    category: howto
+    max_items: 20
+
+  - name: Tom's Guide AI
+    source: 使い方
+    type: rss
+    url: https://www.tomsguide.com/feeds/tag/artificial-intelligence
+    category: howto
+    max_items: 20
+
+  # ---- 使い方 (Google News 検索) ----
+  - name: ChatGPT・Claudeの使い方 (Google News 日本語)
+    source: 使い方
+    type: google_news
+    query: ChatGPT 使い方 OR Claude 使い方 OR Gemini 使い方
+    lang: ja
+    category: howto
+    max_items: 20
+
+  - name: プロンプト・活用術 (Google News 日本語)
+    source: 使い方
+    type: google_news
+    query: プロンプト 生成AI OR AI 活用術 OR AI 業務効率化
+    lang: ja
+    category: howto
+    max_items: 20
+
+  - name: AI How-To / Tips (Google News)
+    source: 使い方
+    type: google_news
+    query: '"how to use" ChatGPT OR "AI prompt" tips OR "AI workflow"'
+    category: howto
+    max_items: 20
+
+  - name: AIエージェント・コーディング活用 (Google News)
+    source: 使い方
+    type: google_news
+    query: '"Claude Code" OR "AI agent" workflow OR "vibe coding"'
+    category: howto
+    max_items: 20
+
+  # ---- 業務での活用事例 ----
+  - name: AI導入・活用事例 (Google News 日本語)
+    source: 活用事例
+    type: google_news
+    query: 生成AI 導入事例 OR AI 活用事例 企業
+    lang: ja
+    category: usecase
+    max_items: 20
+
+  - name: Enterprise AI use cases (Google News)
+    source: 活用事例
+    type: google_news
+    query: '"AI use case" enterprise OR "AI adoption" productivity'
+    category: usecase
+    max_items: 15
+
+# 収集設定
+settings:
+  # この時間（時間単位）より古い記事は日次ダイジェストに含めない
+  max_age_hours: 48
+  # 1フィードあたりのデフォルト最大取得件数
+  default_max_items: 10
+  # 重複排除用に記憶しておくURL数の上限
+  seen_urls_limit: 5000
