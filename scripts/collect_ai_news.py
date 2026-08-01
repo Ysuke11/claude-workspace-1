@@ -16,6 +16,7 @@ GitHub Actions (.github/workflows/collect-ai-news.yml) から毎日実行され�
 from __future__ import annotations
 
 import json
+import re
 import sys
 import time
 import urllib.parse
@@ -49,6 +50,16 @@ RETRY_STATUSES = {429, 500, 502, 503, 504}
 MAX_ATTEMPTS = 4
 
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
+
+# 総合メディアのフィードからAI関連記事だけを拾うための判定パターン。
+# 単語境界を見ないと "AirTag" や "aired" が "ai" に誤ヒットするため \b で囲む。
+AI_PATTERN = re.compile(
+    r"\b(ai|a\.i\.|chatgpt|openai|claude|anthropic|gemini|copilot|llm|llms"
+    r"|gpt|gpt-\d|grok|perplexity|midjourney|sora|deepmind|prompts?"
+    r"|machine learning|generative)\b"
+    r"|生成ai|プロンプト|大規模言語モデル|チャットgpt",
+    re.IGNORECASE,
+)
 
 
 def load_config() -> dict:
@@ -91,8 +102,6 @@ def entry_datetime(entry) -> datetime | None:
 def clean_summary(entry) -> str:
     summary = getattr(entry, "summary", "") or ""
     # HTMLタグを雑に除去（表示用の短い抜粋なので厳密でなくてよい）
-    import re
-
     text = re.sub(r"<[^>]+>", " ", summary)
     text = re.sub(r"\s+", " ", text).strip()
     return text[:300]
@@ -119,10 +128,21 @@ def fetch_with_retry(url: str) -> requests.Response:
     raise last_error  # type: ignore[misc]
 
 
+def is_ai_related(title: str, summary: str) -> bool:
+    """AI以外の記事も流れてくる総合メディア向けの絞り込み。
+
+    誤検出を避けるため、判定はタイトルのみを対象にする（要約に "AI" が
+    一度出るだけの無関係な記事を拾わないため）。
+    """
+    return bool(AI_PATTERN.search(title))
+
+
 def fetch_feed(feed: dict, settings: dict, seen: set[str], now: datetime) -> list[dict]:
     url = feed_url(feed)
     max_items = feed.get("max_items", settings.get("default_max_items", 10))
     max_age = timedelta(hours=settings.get("max_age_hours", 48))
+    # 総合メディアのフィードはAI関連記事だけに絞る
+    ai_only = feed.get("ai_filter", feed.get("category") == "howto")
 
     resp = fetch_with_retry(url)
     parsed = feedparser.parse(resp.content)
@@ -135,6 +155,8 @@ def fetch_feed(feed: dict, settings: dict, seen: set[str], now: datetime) -> lis
             continue
         published = entry_datetime(entry)
         if published and now - published > max_age:
+            continue
+        if ai_only and not is_ai_related(title, clean_summary(entry)):
             continue
         articles.append(
             {
@@ -221,8 +243,11 @@ def write_markdown(articles: list[dict], errors: list[str], today: str, now_jst:
         f"> 収集日時: {now_jst.strftime('%Y-%m-%d %H:%M')} JST / 新着 {len(articles)} 件",
         "",
     ]
-    # 主要企業を先頭に、それ以外は名前順
-    priority = ["OpenAI", "Anthropic", "Google DeepMind", "Google", "Meta", "Microsoft", "xAI"]
+    # 使い方・活用事例を先頭に、続いて主要企業、それ以外は名前順
+    priority = [
+        "使い方", "活用事例",
+        "OpenAI", "Anthropic", "Google DeepMind", "Google", "Meta", "Microsoft", "xAI",
+    ]
     ordered = sorted(by_source, key=lambda s: (priority.index(s) if s in priority else 99, s))
     for source in ordered:
         lines.append(f"## {source}")
