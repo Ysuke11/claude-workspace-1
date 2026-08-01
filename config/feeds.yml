@@ -38,11 +38,45 @@ feeds:
     url: https://www.microsoft.com/en-us/research/feed/
     category: official
 
-  - name: Meta AI Blog
-    source: Meta
+  # 注意: Anthropic と Meta は公式RSSを提供していない（2026-08時点で
+  # www.anthropic.com/rss.xml は404、ai.meta.com/blog/rss.xml は400）。
+  # 両社の情報は下の Google News 検索とテックメディアのRSSでカバーする。
+
+  # ---- 主要テックメディア (RSS) ----
+  # 公式発表の解説と、著名人のインタビュー・発言をカバーする。
+  # Google Newsと違いGitHub ActionsのIPからも安定して取得できる。
+  - name: TechCrunch AI
+    source: メディア
     type: rss
-    url: https://ai.meta.com/blog/rss/
-    category: official
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: media
+    max_items: 15
+
+  - name: VentureBeat AI
+    source: メディア
+    type: rss
+    url: https://venturebeat.com/category/ai/feed/
+    category: media
+    max_items: 15
+
+  - name: The Verge AI
+    source: メディア
+    type: rss
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: media
+    max_items: 15
+
+  - name: Ars Technica AI
+    source: メディア
+    type: rss
+    url: https://arstechnica.com/ai/feed/
+    category: media
+
+  - name: MIT Technology Review AI
+    source: メディア
+    type: rss
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    category: media
 
   # ---- 研究論文 ----
   - name: arXiv cs.AI
