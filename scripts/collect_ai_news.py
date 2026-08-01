@@ -50,6 +50,13 @@ MAX_ATTEMPTS = 4
 
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
 
+# 総合メディアのフィードからAI関連記事だけを拾うためのキーワード
+AI_KEYWORDS = (
+    "ai ", " ai", "a.i.", "chatgpt", "openai", "claude", "anthropic", "gemini",
+    "copilot", "llm", "gpt", "grok", "perplexity", "midjourney", "prompt",
+    "machine learning", "生成ai", "プロンプト", "大規模言語モデル",
+)
+
 
 def load_config() -> dict:
     with open(CONFIG_PATH, encoding="utf-8") as f:
@@ -119,10 +126,18 @@ def fetch_with_retry(url: str) -> requests.Response:
     raise last_error  # type: ignore[misc]
 
 
+def is_ai_related(title: str, summary: str) -> bool:
+    """AI以外の記事も流れてくる総合メディア向けの絞り込み。"""
+    text = f"{title} {summary}".lower()
+    return any(kw in text for kw in AI_KEYWORDS)
+
+
 def fetch_feed(feed: dict, settings: dict, seen: set[str], now: datetime) -> list[dict]:
     url = feed_url(feed)
     max_items = feed.get("max_items", settings.get("default_max_items", 10))
     max_age = timedelta(hours=settings.get("max_age_hours", 48))
+    # 総合メディアのフィードはAI関連記事だけに絞る
+    ai_only = feed.get("ai_filter", feed.get("category") == "howto")
 
     resp = fetch_with_retry(url)
     parsed = feedparser.parse(resp.content)
@@ -135,6 +150,8 @@ def fetch_feed(feed: dict, settings: dict, seen: set[str], now: datetime) -> lis
             continue
         published = entry_datetime(entry)
         if published and now - published > max_age:
+            continue
+        if ai_only and not is_ai_related(title, clean_summary(entry)):
             continue
         articles.append(
             {
@@ -221,8 +238,11 @@ def write_markdown(articles: list[dict], errors: list[str], today: str, now_jst:
         f"> 収集日時: {now_jst.strftime('%Y-%m-%d %H:%M')} JST / 新着 {len(articles)} 件",
         "",
     ]
-    # 主要企業を先頭に、それ以外は名前順
-    priority = ["OpenAI", "Anthropic", "Google DeepMind", "Google", "Meta", "Microsoft", "xAI"]
+    # 使い方・活用事例を先頭に、続いて主要企業、それ以外は名前順
+    priority = [
+        "使い方", "活用事例",
+        "OpenAI", "Anthropic", "Google DeepMind", "Google", "Meta", "Microsoft", "xAI",
+    ]
     ordered = sorted(by_source, key=lambda s: (priority.index(s) if s in priority else 99, s))
     for source in ordered:
         lines.append(f"## {source}")

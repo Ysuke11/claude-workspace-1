@@ -4,6 +4,16 @@
 #   rss         - 通常のRSS/Atomフィード
 #   google_news - Google NewsのRSS検索（公式RSSがない企業・テーマ用）
 #
+# category: レポート上の扱いを決める。使い方系(howto/usecase)を主軸とし、
+#   企業動向(official/news/leaders/media/research)は補足として扱う。
+#   howto    - 使い方・プロンプト・機能解説（レポートの主役）
+#   usecase  - 業務での活用事例・導入事例（レポートの主役）
+#   official - 各社の公式発表
+#   news     - 企業・業界の報道
+#   leaders  - 著名人の発言
+#   media    - テックメディアの一般記事
+#   research - 論文・研究
+#
 # 各フィードの取得に失敗しても他のフィードの収集は継続されます。
 
 feeds:
@@ -150,6 +160,93 @@ feeds:
     query: サム・アルトマン OR ダリオ・アモデイ OR デミス・ハサビス
     lang: ja
     category: leaders
+
+  # ============================================================
+  # 使い方・活用事例（レポートの主軸）
+  # ============================================================
+
+  # ---- 使い方・ハウツー系メディア (RSS) ----
+  - name: How-To Geek AI
+    source: 使い方
+    type: rss
+    url: https://www.howtogeek.com/feed/
+    category: howto
+    max_items: 20
+
+  - name: XDA Developers
+    source: 使い方
+    type: rss
+    url: https://www.xda-developers.com/feed/
+    category: howto
+    max_items: 20
+
+  - name: ZDNET AI
+    source: 使い方
+    type: rss
+    url: https://www.zdnet.com/topic/artificial-intelligence/rss.xml
+    category: howto
+    max_items: 20
+
+  - name: Lifehacker
+    source: 使い方
+    type: rss
+    url: https://lifehacker.com/feed/rss
+    category: howto
+    max_items: 20
+
+  - name: Tom's Guide AI
+    source: 使い方
+    type: rss
+    url: https://www.tomsguide.com/feeds/tag/artificial-intelligence
+    category: howto
+    max_items: 20
+
+  # ---- 使い方 (Google News 検索) ----
+  - name: ChatGPT・Claudeの使い方 (Google News 日本語)
+    source: 使い方
+    type: google_news
+    query: ChatGPT 使い方 OR Claude 使い方 OR Gemini 使い方
+    lang: ja
+    category: howto
+    max_items: 20
+
+  - name: プロンプト・活用術 (Google News 日本語)
+    source: 使い方
+    type: google_news
+    query: プロンプト 生成AI OR AI 活用術 OR AI 業務効率化
+    lang: ja
+    category: howto
+    max_items: 20
+
+  - name: AI How-To / Tips (Google News)
+    source: 使い方
+    type: google_news
+    query: '"how to use" ChatGPT OR "AI prompt" tips OR "AI workflow"'
+    category: howto
+    max_items: 20
+
+  - name: AIエージェント・コーディング活用 (Google News)
+    source: 使い方
+    type: google_news
+    query: '"Claude Code" OR "AI agent" workflow OR "vibe coding"'
+    category: howto
+    max_items: 20
+
+  # ---- 業務での活用事例 ----
+  - name: AI導入・活用事例 (Google News 日本語)
+    source: 活用事例
+    type: google_news
+    query: 生成AI 導入事例 OR AI 活用事例 企業
+    lang: ja
+    category: usecase
+    max_items: 20
+
+  - name: Enterprise AI use cases (Google News)
+    source: 活用事例
+    type: google_news
+    query: '"AI use case" enterprise OR "AI adoption" productivity'
+    category: usecase
+    max_items: 15
 
 # 収集設定
 settings:
