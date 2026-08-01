@@ -38,19 +38,9 @@ feeds:
     url: https://www.microsoft.com/en-us/research/feed/
     category: official
 
-  # Anthropic公式。Google Newsが不安定なため一次ソースとして最優先で参照する
-  - name: Anthropic News
-    source: Anthropic
-    type: rss
-    url: https://www.anthropic.com/rss.xml
-    category: official
-    max_items: 15
-
-  - name: Meta AI Blog
-    source: Meta
-    type: rss
-    url: https://ai.meta.com/blog/rss.xml
-    category: official
+  # 注意: Anthropic と Meta は公式RSSを提供していない（2026-08時点で
+  # www.anthropic.com/rss.xml は404、ai.meta.com/blog/rss.xml は400）。
+  # 両社の情報は下の Google News 検索とテックメディアのRSSでカバーする。
 
   # ---- 主要テックメディア (RSS) ----
   # 公式発表の解説と、著名人のインタビュー・発言をカバーする。
