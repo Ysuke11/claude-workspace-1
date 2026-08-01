@@ -16,6 +16,7 @@ GitHub Actions (.github/workflows/collect-ai-news.yml) から毎日実行され�
 from __future__ import annotations
 
 import json
+import re
 import sys
 import time
 import urllib.parse
@@ -50,11 +51,14 @@ MAX_ATTEMPTS = 4
 
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
 
-# 総合メディアのフィードからAI関連記事だけを拾うためのキーワード
-AI_KEYWORDS = (
-    "ai ", " ai", "a.i.", "chatgpt", "openai", "claude", "anthropic", "gemini",
-    "copilot", "llm", "gpt", "grok", "perplexity", "midjourney", "prompt",
-    "machine learning", "生成ai", "プロンプト", "大規模言語モデル",
+# 総合メディアのフィードからAI関連記事だけを拾うための判定パターン。
+# 単語境界を見ないと "AirTag" や "aired" が "ai" に誤ヒットするため \b で囲む。
+AI_PATTERN = re.compile(
+    r"\b(ai|a\.i\.|chatgpt|openai|claude|anthropic|gemini|copilot|llm|llms"
+    r"|gpt|gpt-\d|grok|perplexity|midjourney|sora|deepmind|prompts?"
+    r"|machine learning|generative)\b"
+    r"|生成ai|プロンプト|大規模言語モデル|チャットgpt",
+    re.IGNORECASE,
 )
 
 
@@ -98,8 +102,6 @@ def entry_datetime(entry) -> datetime | None:
 def clean_summary(entry) -> str:
     summary = getattr(entry, "summary", "") or ""
     # HTMLタグを雑に除去（表示用の短い抜粋なので厳密でなくてよい）
-    import re
-
     text = re.sub(r"<[^>]+>", " ", summary)
     text = re.sub(r"\s+", " ", text).strip()
     return text[:300]
@@ -127,9 +129,12 @@ def fetch_with_retry(url: str) -> requests.Response:
 
 
 def is_ai_related(title: str, summary: str) -> bool:
-    """AI以外の記事も流れてくる総合メディア向けの絞り込み。"""
-    text = f"{title} {summary}".lower()
-    return any(kw in text for kw in AI_KEYWORDS)
+    """AI以外の記事も流れてくる総合メディア向けの絞り込み。
+
+    誤検出を避けるため、判定はタイトルのみを対象にする（要約に "AI" が
+    一度出るだけの無関係な記事を拾わないため）。
+    """
+    return bool(AI_PATTERN.search(title))
 
 
 def fetch_feed(feed: dict, settings: dict, seen: set[str], now: datetime) -> list[dict]:
