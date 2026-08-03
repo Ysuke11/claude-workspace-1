@@ -1,0 +1,1064 @@
+[
+ {
+  "title": "How we built a realtime system for responsive voice AI in six months",
+  "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+  "source": "OpenAI",
+  "feed": "OpenAI News",
+  "category": "official",
+  "published": "2026-08-03T07:00:00+00:00",
+  "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
+ },
+ {
+  "title": "Orchard: An open framework for scalable agentic AI",
+  "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+  "source": "Microsoft",
+  "feed": "Microsoft Research Blog",
+  "category": "official",
+  "published": "2026-08-03T16:00:00+00:00",
+  "summary": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure. The post Orchard: An open framework for scalable a"
+ },
+ {
+  "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+  "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-08-03T23:19:50+00:00",
+  "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
+ },
+ {
+  "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+  "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-08-03T20:00:00+00:00",
+  "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
+ },
+ {
+  "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+  "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-08-03T19:28:57+00:00",
+  "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
+ },
+ {
+  "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+  "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-08-03T19:09:56+00:00",
+  "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
+ },
+ {
+  "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+  "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-08-03T18:43:43+00:00",
+  "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
+ },
+ {
+  "title": "Congress’ favorite AI tool? ChatGPT",
+  "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-08-03T16:40:55+00:00",
+  "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications."
+ },
+ {
+  "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+  "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-08-03T10:00:00+00:00",
+  "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
+ },
+ {
+  "title": "Europe’s AI labeling and transparency rules are now in effect",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-08-03T17:38:45+00:00",
+  "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting wi"
+ },
+ {
+  "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-08-03T11:01:11+00:00",
+  "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, wi"
+ },
+ {
+  "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+  "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+  "source": "メディア",
+  "feed": "Ars Technica AI",
+  "category": "media",
+  "published": "2026-08-03T22:11:39+00:00",
+  "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities."
+ },
+ {
+  "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+  "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+  "source": "メディア",
+  "feed": "Ars Technica AI",
+  "category": "media",
+  "published": "2026-08-03T19:00:50+00:00",
+  "summary": "Top scores increased by 5x."
+ },
+ {
+  "title": "Trump’s AI protectionism has come for robotics",
+  "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+  "source": "メディア",
+  "feed": "MIT Technology Review AI",
+  "category": "media",
+  "published": "2026-08-03T18:43:30+00:00",
+  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s "
+ },
+ {
+  "title": "Here’s why AI agents lie and cheat to reach their goals",
+  "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+  "source": "メディア",
+  "feed": "MIT Technology Review AI",
+  "category": "media",
+  "published": "2026-08-03T08:30:05+00:00",
+  "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage"
+ },
+ {
+  "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+  "url": "https://arxiv.org/abs/2607.28629",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers "
+ },
+ {
+  "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+  "url": "https://arxiv.org/abs/2607.28631",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose and implement a rigorous"
+ },
+ {
+  "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+  "url": "https://arxiv.org/abs/2607.28632",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28632v1 Announce Type: new Abstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for "
+ },
+ {
+  "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+  "url": "https://arxiv.org/abs/2607.28642",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28642v1 Announce Type: new Abstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error anchoring. We argue that under bounded context windows, the core bottleneck is not trajectory compress"
+ },
+ {
+  "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+  "url": "https://arxiv.org/abs/2607.28657",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28657v1 Announce Type: new Abstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reformu"
+ },
+ {
+  "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+  "url": "https://arxiv.org/abs/2607.28659",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28659v1 Announce Type: new Abstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across multiple domains. Recently, generative recommendation (GR) has emerged. It first learns semantic identifiers (SIDs) from item"
+ },
+ {
+  "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+  "url": "https://arxiv.org/abs/2607.28662",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28662v1 Announce Type: new Abstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabularies fracture across documents, the same person surfaces under several name variants, relationships duplicate, and distinct i"
+ },
+ {
+  "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+  "url": "https://arxiv.org/abs/2607.28674",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28674v1 Announce Type: new Abstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpretability methods rely on output-level signals or collapse processing depth into a single trajectory"
+ },
+ {
+  "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+  "url": "https://arxiv.org/abs/2607.28677",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28677v1 Announce Type: new Abstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for symptom assessment and clinical decision support in diagnostic and treatment guidan"
+ },
+ {
+  "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+  "url": "https://arxiv.org/abs/2607.28678",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28678v1 Announce Type: new Abstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally grounded reasoning. However, existing agentic memory approaches often discard fine-grained dentity c"
+ },
+ {
+  "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
+  "url": "https://arxiv.org/abs/2607.28679",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28679v1 Announce Type: new Abstract: Multi-agent planning problems arise in a variety of engineering applications, such as multi-robot wildfire fighting and unmanned aerial inspection in factories. A particular challenge is the existence of spatio-temporal (i.e., when and/or where an agen"
+ },
+ {
+  "title": "Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery",
+  "url": "https://arxiv.org/abs/2607.28684",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28684v1 Announce Type: new Abstract: Existing benchmarks for scientific equation discovery are largely composed of well-known equations available in the public domain, making it difficult to determine whether a model is discovering laws from data or merely recalling answers from its train"
+ },
+ {
+  "title": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
+  "url": "https://arxiv.org/abs/2607.28685",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28685v1 Announce Type: new Abstract: Agent-safety benchmarks measure different behaviors, and their scores get quoted interchangeably as an agent's safety. We treat four of them (R-Judge, InjecAgent, AgentHarm, AgentDojo) as measurements to be validated, running each under its official im"
+ },
+ {
+  "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+  "url": "https://arxiv.org/abs/2607.28692",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28692v1 Announce Type: new Abstract: Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits their applicability to o"
+ },
+ {
+  "title": "EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses",
+  "url": "https://arxiv.org/abs/2607.28788",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "arXiv:2607.28788v1 Announce Type: new Abstract: Clinical diagnosis at hospital admission must be made rapidly from limited, incomplete evidence. Existing diagnosis-prediction benchmarks are poorly suited to this setting: they restrict prediction to closed code sets, exclude free-text notes, and supe"
+ },
+ {
+  "title": "Chinese AI Firm Siphoned American AI Knowledge From Anthropic Claude By Using Millions Of Prompts - Forbes",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbmpWbVZqamdIelVCc05rU1NVbHJLUXhNY3lUZElGYWtyejMwR1VmS2RrcFVFa1dHTHp5QWNhTkpoR2NRYk5nX3ZJOUpUZXQ5UmY4M0NRSmNNdFVXSWdaal8tRXE5aEpCTXRsdkVLXzhSUnZvZ0hGcC1rNVI3bmxUZHNYYTBMYnYyQUpHd1pES25zRXg1ZU9sejQzbnpIUzdDWlRhZk1UOWZyZlJXNEc5QVdORFJJZHcyaG03YWtXYnc5Ty00b3Fjb2h5eGYxSEJmT2p4YjhDa2ZhVHRITFlEOUNIWlduaVl6ekpZQ2x5MWx0eWxmUVIwT3gzNUk?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-08-03T07:15:00+00:00",
+  "summary": "Chinese AI Firm Siphoned American AI Knowledge From Anthropic Claude By Using Millions Of Prompts &nbsp;&nbsp; Forbes"
+ },
+ {
+  "title": "Anthropic Announces Expansion In India, AI Agent Claude Now More Accessible - NDTV",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY2NoSjhiSVNkUXVXWi1yRjlOeGFidVVHd1haQk05amNVRHBYcGVXYmRSNmsxaVBRckdaZktDelBxVkJtWFd1VjNwWHVMY3Q4eE5nZ0h1TjVMWU9ITEIwRTNEcEVrQVJsdS1EcXR3bXE1WWpQWEphR2F0X3VockdsWFVKTDNwcEtGSEZmd1NBYXhma2p2ZUUybVZPYWZvbnRxVUwtM0hxNHpNVUtrQ1g4eVR5ckVoQdIBvgFBVV95cUxPNktJNE1CNlljVFVMbUdVQ3RfQWcwNWxLZG1nT2JuR1NxQnhRbkV1TEpmXy0zdU1YWVdiSE83TXVHTzBkdVBvcl9pYlQya0V3cTJTeW5ZRnlsRUlmSC0xc2dfMW5OSzA3UXlBUHVoUVpCektILXY0cXJrZGtXcktnSm1yVXFIbW1Tc1NQWjBnTzJyWUszeC1GUVAzT0ExenBzM1dJS3VlLU1FaWZZMDdEN1FSSl82emxzb3JjdmNR?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-08-03T12:55:43+00:00",
+  "summary": "Anthropic Announces Expansion In India, AI Agent Claude Now More Accessible &nbsp;&nbsp; NDTV"
+ },
+ {
+  "title": "Alibaba's new AI claims to match Claude, upping the US-China AI race - Euronews",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTjl0bmpiQ3MxWlZhT0VkaktyWGJOMWE3YXB5a0RuWTRuX0lxUWFWSUF4YldHQWdwa3hIRzFKQ2haM0dZME5TaEt1QUpBUmd4SkcydDlfVFkzSUxMMkZvcWZrVnVHSnl6akI0Z3N2RkFTRjVNdUJsNUwyUTRDQWVQUVM3OW9BNG42UXFFU1pDNGN4WlVSQWdQNE9yNFBGazBoT2J2dlRBVkduYmFqTVNOSWQ3VlMtTEFjRWRTMi1DZw?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-08-03T08:32:41+00:00",
+  "summary": "Alibaba's new AI claims to match Claude, upping the US-China AI race &nbsp;&nbsp; Euronews"
+ },
+ {
+  "title": "Anthropic: AI Issues Result of Security Gaps, Not Model Issues - Dark Reading",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTFrSjc0c2JmeFRTeW1QNDU2cnVUTU1QV1Q3a0NldDl2TFNId3lkQnZOb19UbWdDV2RKaHpPYWtGYWZWcUJ4X1FCTU5NUUJaSmNyMnZHZHhUREYtNlQ4T3l2V3VEUFRTTDRFZ2RJY0Yyc0F0MjdPUHp4RTBRZ1hHY2p5eTNDZw?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-08-03T20:54:44+00:00",
+  "summary": "Anthropic: AI Issues Result of Security Gaps, Not Model Issues &nbsp;&nbsp; Dark Reading"
+ },
+ {
+  "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-08-03T21:57:58+00:00",
+  "summary": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing &nbsp;&nbsp; Reuters"
+ },
+ {
+  "title": "Anthropic’s AI models accidentally hacked three companies - Computerworld",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFNiUXFuNkh4Y21wZ1F1d0pIb3FNZFppbVMtSGJicHZRcU5DSE5XMGdwWmdNWnIwVkhfNnBoMWpPVlFManBEM3hWSEJWSHVOb0ZzQmJ5RTlTT0hRNWhpRzZMYWpxNEkzX1hFazdGNHk0NWVIdDk5b2xHczExbmNzR2NUYlNfUmw4ODdnNmRqR1FidFplLTZRbG5lYmdYbUhLdVQ3TmxSTkloV2c?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-08-03T16:39:30+00:00",
+  "summary": "Anthropic’s AI models accidentally hacked three companies &nbsp;&nbsp; Computerworld"
+ },
+ {
+  "title": "Anthropic Will Review Trump’s AI Security Framework - Barron's",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMVVYRU05TnJ1cTFFVngxdjlrMUVQOVBhaGRHOTNMUjVGREtjTnNPR1AwOHY5VnFTT2xLSXFVOVpqSDROTW5rSEprMi1ha255VF83T0dtbVFOSkdRNjc2ZThtRUphdHJmOXdDc0FZSWxEbVBRbEE3WTBHS1J2dzhNanFlSHpzc2o3bTkyaGtlNllWVWM?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-08-03T19:17:00+00:00",
+  "summary": "Anthropic Will Review Trump’s AI Security Framework &nbsp;&nbsp; Barron's"
+ },
+ {
+  "title": "AI labs can't keep their stars - axios.com",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbzJzNDdaQkw0bk9zWWZJQkZCVFZ4S19rS1pQamRnVVI4a3RXV1hPVTFiUmJhTFF4aVQzbklheFFQMmRuTFlrT3lXZmc3WUhoaUZxZE5WdWljUEEzdzV2b0plY0hVMmp5STFDVkdmT1MyMkVtYWRsVVBoRUtiMFAtd3FR?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-08-03T09:13:58+00:00",
+  "summary": "AI labs can't keep their stars &nbsp;&nbsp; axios.com"
+ },
+ {
+  "title": "Authors weigh in on $1.5 billion Anthropic AI copyright settlement - wgcu.org",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1NxTXFXZXNSV1ZCdk85d1FEQkJ0TV9ZM1A1N0lDNEE4YnZuTTBGYmxvd3lFUG5mN1hRZTZMNGJpNUI0T0NqUlpZX3hkeUZpSXkwbG53UFZUOG1uTWc3SzJ0SGRONTR1QllWQ1hab1htakZieXZqdDBkUFlZVG1WWjBBbnN1U1QwdkswUWhzeTloajlPVm9zS2dkQTQtYzJmUFRLRlh3MnZFNmJVampGNWVrMm85dWFpMGc?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-08-03T16:33:00+00:00",
+  "summary": "Authors weigh in on $1.5 billion Anthropic AI copyright settlement &nbsp;&nbsp; wgcu.org"
+ },
+ {
+  "title": "Creator of test at the heart of rogue AI hacks warns ‘there have likely been more’ - NBC News",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN3RmNDdqNER6SVdJaTFqZW1WaHpvNDJZLUhxS3A4RFJBZjVjdS10YzhFRTFDQW94Ykd2ZjQ0VUhCUXBTNUJCTnpyQVJTUk1xWlVrMGxFeEZ6UG1UVUp3ZXRZSk5KZWpmRnp1em95MDMtV2tBSUNRMk15SU10aU5rMFEtQTJIZEZlS24yLW1maHVCaTBTOWFFY3FyaTNNNkl2eTJ6R2lRUjVYUmtPZlcwZg?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-08-03T16:30:12+00:00",
+  "summary": "Creator of test at the heart of rogue AI hacks warns ‘there have likely been more’ &nbsp;&nbsp; NBC News"
+ },
+ {
+  "title": "OpenAI CEO goes viral for more strange ChatGPT parenting advice - SFGATE",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xSk95d29HOHFpUFFCSTR6R1lELUhvR01seE85MEEtcVQ0dUU4bDVPcmdVTGxpcUc3Um41REU2aXhvN0xyVkJ1bzk0NzMyQjJQY2s0YkhmMVZ0dUpwWWRjR05oTTN6ZC10UWxobzlVTkh6MlMtMHNoRTZSMVBZUQ?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T22:42:15+00:00",
+  "summary": "OpenAI CEO goes viral for more strange ChatGPT parenting advice &nbsp;&nbsp; SFGATE"
+ },
+ {
+  "title": "Sam Altman’s Parenting Strategy Sounds Low Key Horrifying - Futurism",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYzl6b2JSYjBhSHJtZGZzV2J3eXVFZlNVaGtRZnFIQlpkSlktazVid1BBbnlySFpvY3A1MHJKQ3U3cGFhWUF2cGJtNnY3VmhLMFphcmc3NWc3YXpmOFFHZHpwTW9vUF84dEpHWGNXeUlYSHpWZEU2NkE3NHFfSzFCTlU2V3RNMHFONlM0MDZB?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T14:30:00+00:00",
+  "summary": "Sam Altman’s Parenting Strategy Sounds Low Key Horrifying &nbsp;&nbsp; Futurism"
+ },
+ {
+  "title": "Apple vs. OpenAI: How Siri AI Stacks Up Against the New ChatGPT - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnhfUXdoLVpyUHB6VUhXbzY1OUJtOHQ5b2NadGh4c3pKNWpOVGlSajQzeVcxVVIwQWtkQnZaM3hjUTFCQy1Va2xjcldnNFFseklPaHphZ2JtcmRZN0Q4ZzBWeUlGcFlmb0hXQmxiLVVEd0haSldmbGlScnhkaV9tdldEOVk3T2x1VGRXUHJmaW1jeGpfOWs5aGRaYXdZNzB1MDhYcVVWcw?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T09:30:04+00:00",
+  "summary": "Apple vs. OpenAI: How Siri AI Stacks Up Against the New ChatGPT &nbsp;&nbsp; Bloomberg.com"
+ },
+ {
+  "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1BLdlA5cWZ3WDdqdXQ2MTQyTGd6c2E4UDNlekpkSWpKbUtsVVdNMEY0dlNFX3dELUJrSmFPQXBmR0RHcHNyc2IyRzFoREFBQW1kdUtyeVFLLU56TEdTc0U4TUR3SEl3Mi10dlZRYnRXZVE5a05keU81aVlyNVdyMDFwTDlTRzIteVFfWE1mV21CZ9IBlwFBVV95cUxQLXNHTThFYzNpRmtCa2dHSjJnSU9MMEpJay1KbE55N21ES1U1ejJNT055X2pHb1lhcjUzT2RHbzRGRVlyOFExRUtyNG1xelhiWXV4SHdUUUhpTlBXUUFKUXRKeGNaR19TSndjRmV4ZDNybW4zcUxJbGgzeEtuaUxUWDc0Z0dXU2NzRGRXbERKdHI4VmdRYWRV?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T11:00:01+00:00",
+  "summary": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation &nbsp;&nbsp; CNBC"
+ },
+ {
+  "title": "OpenAI's 'Astra' solves 10 long-standing math problems - The Rundown AI",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlVUWkxlWm43NWZnb1U3QTg0aGxOLUFkVjA2cG5vV29HMW9vR2xtMjdqWkczbGxJU3hVVlVZcGllbk9NTkxRSTZERG53OEhlY1dVaHYtdjJkUFRHNS03SGhhejR6YlVDd0ZjY05lVWhKemY0OGxYQ1JKOThJakw0RU1pcGs?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T09:03:37+00:00",
+  "summary": "OpenAI's 'Astra' solves 10 long-standing math problems &nbsp;&nbsp; The Rundown AI"
+ },
+ {
+  "title": "Chat, what’s the public’s favorite AI lab? - The Argument",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2bDVkUERnVVQ0TE5tOGlWUlNNZnNyNGctdjI3aEVUU01jSGZDeV9rcDJRUTVuMWZ2VnRiWjVpZktzUlB2NTAwZVNYa191S1M1N255VTNyWFNxX0xTTzVyVHg4QndMVnZMbk1ZTlpLVGN1YkQzZUE?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T10:01:56+00:00",
+  "summary": "Chat, what’s the public’s favorite AI lab? &nbsp;&nbsp; The Argument"
+ },
+ {
+  "title": "OpenAI Offers ChatGPT Go to Revolut Retail Customers - PYMNTS.com",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDlrMFZJbkxCRzlQV2RSVGR5NWxkeG1ZSllrSmdxOUJpajBWX2dmMXNHbU04d2Z5T2dnNjEyNFVLempOYjJJM3VYXzRMdGtPYl9TY3hTUkF6WE9tQy1pTG1rMXNuS0UwMmcwTGt1RUVHODlsWjdrZWF1a0txTWJpVy1LOThqdUNjZTc3UzU2Qmh4b3ZoSEU4UmpfZmFjWVF5azVPd2xiWTRkeUtqY2pv?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T18:43:16+00:00",
+  "summary": "OpenAI Offers ChatGPT Go to Revolut Retail Customers &nbsp;&nbsp; PYMNTS.com"
+ },
+ {
+  "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems - BleepingComputer",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMERpaDJDNEF4R25neXZ3azhNYzI0ZkoyU0ItbGpla0hhY2llZy1yR3JLZkJPX1dfaGFrVzhNNnRKc0haRmhRS01DbWptRllUVERCSi13VWlZWWgyNlpBd2JFbS1jeWlsQTNXeWVSOU1IaHBhV29ucjMwUmdoYnVWdkhOTVBKT3MyMC00TjhUX1U5Q0pCRkRZWUFCbVQtREdGZDdTeXV5VF9HZy12U1g2WE1CNmc2Yi1jdHBqeXc1NExTeXd2Ul9HS3gzTUNaa2ZsXzl4OUo5WTFBeVprM2ctUFRra21nblVp0gHuAUFVX3lxTFAtZERLdFFXMlpkNXgxRGctRkFFV1NxcEEzV2RmYmNRTFBHQ2pDMW1MN2hmRlAyVjFrZUd6Z09rWjdWejJ5WGNEZmI4ZXJLRXRxdWtOQW5VeHBDOHQ4bndMNTBXSmdiNFRnelU0X2RaYk1Eak96cS1FaWs5N0ZqR05KOFh5S0g1VEdON1A0NTkxRFNOTHBOLWpCMHZvem00Wkp4aUl5UDhtQlBhdE1oZEdpdHFqUWxqblZYZy1TWWZFNG5WT3FIamQyM2lzdE1ISW9rSG5ZNXNhNGp0UjRnNlhPdXVveHgtWWwtd2dLaGc?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-08-02T22:31:41+00:00",
+  "summary": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems &nbsp;&nbsp; BleepingComputer"
+ },
+ {
+  "title": "How we built a realtime system for responsive voice AI in six months - OpenAI",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T20:44:49+00:00",
+  "summary": "How we built a realtime system for responsive voice AI in six months &nbsp;&nbsp; OpenAI"
+ },
+ {
+  "title": "Court document in Asato case reveals xAI/Grok sexual prompts - Computer Weekly",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb190RHBoX0xneGZZd1RTTFV1XzNKMTh2VDZTaWlDanBBeDRLOGpsY2FIQW1UVHRvbVU4emhmaEI4OEtaQUhqWTJjell6MGFVX1Jyd3AyMURTV0cxc0pWZkpUVzE2LVFTR0wydE5KV1J1aEhUUnNyLU8xMVVlaE55cU54eVhzMWhIMnJtZ0pDbFI4TVZUSTV0U3lXVXFnWGo2NzZFR3hSVjF4QQ?oc=5",
+  "source": "xAI",
+  "feed": "xAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T10:25:55+00:00",
+  "summary": "Court document in Asato case reveals xAI/Grok sexual prompts &nbsp;&nbsp; Computer Weekly"
+ },
+ {
+  "title": "xAI Loses Bid to Block Minnesota’s First-in-the-Nation AI Deepfake Ban - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLXE1VWJtNHFWZkgyOHNUbzdMSEhRWktVZmktbW9MLU1mOXE0T2ltczUxMFd4RklqMWhHVWhZOXVZb04tM1F5dnFEdnJXMFgtdHN5RVFTcW1adWlNaWpiR2hOa1c5bnlBYUlCZEJYX3g2dkhlMG5QZWx4bVNoS1JXYjF1QXdCV3c3QWE1SlJaUEFhRGxtaXp3d1VzVEpWR3pkeDkycGZFck9COVVleXMySnhhR25NbzdueTF3ZVdFU25WNmRoclRQcmY0dGhGUQ?oc=5",
+  "source": "xAI",
+  "feed": "xAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T18:06:05+00:00",
+  "summary": "xAI Loses Bid to Block Minnesota’s First-in-the-Nation AI Deepfake Ban &nbsp;&nbsp; Benzinga"
+ },
+ {
+  "title": "Elon Musk AI growth chart shows sharp 2026 breakout, Grok 4.5 tops benchmarks - The Cryptonomist",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRGU4a3FMLW1TR09wWmJ1Vkg2TUd5WE9yQ2g0Nl8wdlNiVzV3V2FaV2pSWTJRNHM5UXBwXzNkOGNNUWxSbVBaZk5NeVBNb1czM004X2NNeXM5Z01hVHp4MkxMZTB3NW5NNVE?oc=5",
+  "source": "xAI",
+  "feed": "xAI (Google News)",
+  "category": "news",
+  "published": "2026-08-03T07:32:30+00:00",
+  "summary": "Elon Musk AI growth chart shows sharp 2026 breakout, Grok 4.5 tops benchmarks &nbsp;&nbsp; The Cryptonomist"
+ },
+ {
+  "title": "【インタビュー】全社員が「当たり前に」生成AIを使う会社へ。住友化学が挑む「AIネイティブカンパニー」への道 - aismiley.co.jp",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iTjFaU1l0Tnh0djFfZWZvSEJqYWw2WUhpTV91VjBSczhRWVhiSGFjT3ZGOUhXQy04T2FwYkppc1N2Nm5LRjhpOFMzQnUtVVRzOUl2N2RITGdTZ3dJRTFfRUIyWFFDT1hwZmc?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-08-03T21:14:51+00:00",
+  "summary": "【インタビュー】全社員が「当たり前に」生成AIを使う会社へ。住友化学が挑む「AIネイティブカンパニー」への道 &nbsp;&nbsp; aismiley.co.jp"
+ },
+ {
+  "title": "AI時代のSEOやデータ分析がわかる「生成AI×マーケティング フォーラム 2026」講師の必読記事7選【8/27開催】 - Web担当者Forum",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tc1FPMmp4ZmJmT1BOSjZPdXRGS2JGTmlLRy1tVTBuV09pU094bE44dmd5UDlseXF5WjRuUFdQVGRjaDlWXzZrN1N2djVES1pZVFJqeE4wVndiOTA?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-08-03T22:04:00+00:00",
+  "summary": "AI時代のSEOやデータ分析がわかる「生成AI×マーケティング フォーラム 2026」講師の必読記事7選【8/27開催】 &nbsp;&nbsp; Web担当者Forum"
+ },
+ {
+  "title": "サツドラが切り開くOMO戦略と生成AI活用--DXは「熱意とインハウス」で加速する - ZDNET Japan",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hVWMtV3N2N2p0VUltYzNWeHdjTUMtR3B5WWd4eWxNanB5bm1LLVlvNVJrckxpUXNqaUhrRDRoRmlwT0R4Nl9yYzZBVnVQWjJmcURN?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-08-03T22:00:00+00:00",
+  "summary": "サツドラが切り開くOMO戦略と生成AI活用--DXは「熱意とインハウス」で加速する &nbsp;&nbsp; ZDNET Japan"
+ },
+ {
+  "title": "児童の画像加工「性的ディープフェイク」被害１２３件 生成ＡＩ悪用、上期倍に―警察庁 - 時事ドットコム",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PWFFfUXZReVhydXpZQlFfVXZoN3JvRVJYY2VUTFZHRGVtYUl1T3M4R290M1hrbmZtWmxHaWVieVVwM3FlZXRSN1RYTVVBMHV5MktPQkU3SVpNb2ZSMk13VnJRYw?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-08-03T08:46:00+00:00",
+  "summary": "児童の画像加工「性的ディープフェイク」被害１２３件 生成ＡＩ悪用、上期倍に―警察庁 &nbsp;&nbsp; 時事ドットコム"
+ },
+ {
+  "title": "三井倉庫ＨＤ 生成ＡＩ出荷検品アプリを開発・導入 - カーゴニュースオンライン",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DUzI2V0hnZTA3eUdBZDZJcDRMYy1uMVpFZC1FbkpORmZQQmw2bHVrQ1BxaXk1Q2FtcjVDODI5bUVmY3RGbFd1cmR3QkVkRFZHemJqWmxkSmhiRGhtenlr?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-08-03T21:01:47+00:00",
+  "summary": "三井倉庫ＨＤ 生成ＡＩ出荷検品アプリを開発・導入 &nbsp;&nbsp; カーゴニュースオンライン"
+ },
+ {
+  "title": "生成AI学習の新手法「Explorative Modeling」を米研究チーム発表、データ効率は6.2倍 - ビジネス+IT",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUY3F2Rzh3TkplWUdxOGkxUWpkdy1CV1R6MkZOSjBNWU1EMTZzcjlVRFU3a2h1djJ5QTA0WVJPX2xjTVMtQjdUdmlZckRnNHBkMG1r?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-08-03T04:58:00+00:00",
+  "summary": "生成AI学習の新手法「Explorative Modeling」を米研究チーム発表、データ効率は6.2倍 &nbsp;&nbsp; ビジネス+IT"
+ },
+ {
+  "title": "生成AIで児童画像の性的加工、上半期123件 前年の倍に、警察庁 [AIの時代] - 朝日新聞",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CdU4wZ1V6MW1zd01Vc0ZvTF9zWk5RUV82Q0syZVlOMVQyTmNRdzJQaTE4ZGpLVzBUQVdGMm5PMjRTQ3ZBdUtJTlpyYXJKU2pRb3NkU1FnVld1YXF4bUZOUlVRZHJER1k?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-08-03T05:00:00+00:00",
+  "summary": "生成AIで児童画像の性的加工、上半期123件 前年の倍に、警察庁 [AIの時代] &nbsp;&nbsp; 朝日新聞"
+ },
+ {
+  "title": "石黒教授を再現した生成AIアンドロイドと対話体験 大阪大学石黒研究室が「ジェミノイドサロン」を開催 - ロボスタ",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oY2g1Y2phMXhPSWhQazcxVkVVQm5WUUxRb3dTU25DMkRvVWxGZG1vY0JMVmdsWG1ZU0IyemUwdWROcUF6bm9fTURvYmtEb2lsSTZfS2xuYUN0S3YybWV3aXBZOWM?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-08-03T09:00:03+00:00",
+  "summary": "石黒教授を再現した生成AIアンドロイドと対話体験 大阪大学石黒研究室が「ジェミノイドサロン」を開催 &nbsp;&nbsp; ロボスタ"
+ },
+ {
+  "title": "Polimill、自治体向け生成AI「QommonsAI」の研修を3自治体で実施 業務効率化と実務活用へ - 教育家庭新聞社",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zV0dXbFc5UlpVUzhqVm1SQThkQ1V5azFqODhaa205eGdRVHdNYkw2Sl9SRDkyQzE5T3FiYmxHYk9selBaUVJGdFlmVWtNSy1DeXJR?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-08-03T22:02:36+00:00",
+  "summary": "Polimill、自治体向け生成AI「QommonsAI」の研修を3自治体で実施 業務効率化と実務活用へ &nbsp;&nbsp; 教育家庭新聞社"
+ },
+ {
+  "title": "京王電鉄、生成AIが身だしなみ指導 職員の意識向上に活用 - 日本経済新聞",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14ZVZ4N1BvOTB0SzRNR1N4T0NiVDVFREJTLURISFJfcElkQkc5WmZFem1WRDlIMWJlamUyMlo1NTNBVnljMjZjOV9NUy1fbmJ3RDA1WUFHdWlyd3QyYzZnNklPc2o3VTRHUndDNA?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-08-03T09:33:49+00:00",
+  "summary": "京王電鉄、生成AIが身だしなみ指導 職員の意識向上に活用 &nbsp;&nbsp; 日本経済新聞"
+ },
+ {
+  "title": "GOP AGs warn OpenAI's Altman to preserve records in AI agent hacking probe - Fox Business",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYW0yNHVOd0haUi1IV044NjE0b1hTdHFveXRGR1pWSzRTMWQ1VElaSU9fdjJmZ1NtOXU0UEVCcldNa2NCTy1WLThtd2ViSmZfc2xkX2lTMmdCWFYzSWMzZVlMa290VjVHWVktdXIyVXBNVHFMel8yZlN2MF9LUTZkX2VMMTQyV1dWcll2U2lGRXBPSE1PVkFLUTFVLTBsSC0zMVU2N2RHQVPSAa4BQVVfeXFMUEJSMlJnSjh5YXdNRmpUUVFoTVBjWHRKdk9BTWdWM0ZTTDRwdzF5c1RzTGdNeWcwMEJxTndid243eUpFaHRremJtMXdvUnBCQzl6MUhWTzNYVlVjV3hpTWRteGxvRXhFQ21HTFg2UkVGel9FcmVWNGlvb2JIOVRBWEJycHNrYkRGdG1kczhQR0dZNW82NlI4LTU2V2ZQbERmalZpWXQxWWc1dlJuZ2Nn?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T17:38:00+00:00",
+  "summary": "GOP AGs warn OpenAI's Altman to preserve records in AI agent hacking probe &nbsp;&nbsp; Fox Business"
+ },
+ {
+  "title": "Sam Altman reveals the investing advice billionaire Peter Thiel gave him that helped him amass a $3.3 billion net worth without OpenAI equity - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0xCZDJMWGFldzZZdDN4SjNQWmtxVXI2bkxjWVk5ZlpOMWRhaG0tOGlrNk44QzRzQkZiY0xHOUhwUTVfQWY5NlhXUXFlU2F1Q01WMXdwQUFubUtvbndJY0dGa1V3d0d0NG90SEo2SUNJY0tPaDkwblkxX1ppWV9QQVZVeFV5MmpvRm1HMFNydGNvUU9nUkUxdElQNXl4Skp0dGc?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T15:08:11+00:00",
+  "summary": "Sam Altman reveals the investing advice billionaire Peter Thiel gave him that helped him amass a $3.3 billion net worth without OpenAI equity &nbsp;&nbsp; Yahoo Finance"
+ },
+ {
+  "title": "What Is Congress’s Favorite AI Tool? - Gizmodo",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JZGt5bFZkVW14Rzdta2NFdGNWcHAyQWNWWFdPZl8tQUpBYXgxSXN1Vnh6b2lEY2R6TFJFVnNQd1Zxb0QwaENOU1Jvd01hbEtBT2xlZ21kcGVSTXVYTFhnYUtMdHpwSGdxczJwRl9neVRTWUk?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T20:56:32+00:00",
+  "summary": "What Is Congress’s Favorite AI Tool? &nbsp;&nbsp; Gizmodo"
+ },
+ {
+  "title": "Sam Altman reveals the investing advice billionaire Peter Thiel gave him that's led to a $3.3 billion net worth - Fortune",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUHBKVVhwSGNQem9fSTJhZW5VNDF3VG82OW5pQkQ2YlM2ek40SjBheVRLTXBsRlJBcmY2S0RZeGI1Wk8wQUNCMDExSTkxbTQxNkM2aGNoYkFyanRyY18telk5X1RiOXViZHdFc0l5ZVJrelhKSHc5TWpzN2NWRVRDMW9QeTZaeGMzWGRQdFRyVkhmVUE5aWR3MkN6QmJvVC1yd3puVDQzeHpibWp4ZGFFQmRmUHd4YVFIVVNESXdRR3dPbFZ3bFlnekVQbVR1b2ZW?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T15:08:00+00:00",
+  "summary": "Sam Altman reveals the investing advice billionaire Peter Thiel gave him that's led to a $3.3 billion net worth &nbsp;&nbsp; Fortune"
+ },
+ {
+  "title": "Don’t believe Sam Altman, we’re not in the AI Singularity - Asia Times",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1pXdFJhWTFNcXdkeGhodkMxc2hENVJsejF4VldNNS1DNGpTTWlZRzBlY0QycWJ1b1h2VUJxTnRQNE1qejkxdG0yTjlEbVYzZXZQbWZ5R2FBX1QwenVqLWwxMS1keC1rU0hEVlB6eXd1R3dicEtDZUVEX3Nhd0R2RzJoWjZkZ1ZQaEJnM1ZB?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T15:42:53+00:00",
+  "summary": "Don’t believe Sam Altman, we’re not in the AI Singularity &nbsp;&nbsp; Asia Times"
+ },
+ {
+  "title": "OpenAI CEO Sam Altman Meets with Lawmakers on Capitol Hill - The Daily News | Texas' Oldest Newspaper",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc05mNU9vOExuRkpLM3NMbmR6a0NvalFrT3FIdHVpR0Z1X0QxajFBcGhCaW5TWmRvYmRXTXU1OEZzM1BXUWkxdVkxNUxDOUk4NVVRT1l3aGVnUnplb0tYUkM3cmRSc0NEQWp6a0xvVFBRbktkUFhiS1AxN0FfaFFmZndVeTYzdWJoMWhWemZLcWNxdjNkTm4xTU53ckRLOTJSN3NUSS1PcmpXM3BVQW0ycHRBYkhZQ3lIMGhYYS1nYTB3Wkk3TFdtbHNUazlIQXpjTWR6VUhSbFRnZUdnOHo1M1pRZVFNUTZv?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T21:55:50+00:00",
+  "summary": "OpenAI CEO Sam Altman Meets with Lawmakers on Capitol Hill &nbsp;&nbsp; The Daily News | Texas' Oldest Newspaper"
+ },
+ {
+  "title": "OpenAI’s Sam Altman Shared a ChatGPT Parenting Idea. The Backlash Was Brutal and Hilarious - inc.com",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcEg1N2haa016aE1CUlRwZUhMaVUtMjYwSmlpOUFTWmVDNFVTZkJuanpiMHpMV2hBNGRFVjhJSUtIOWFfTHE3bnBVWC1WN1QwcTRNMFNLbTNZUTZtQjl4ekZtRmtHdW1aX2dpdTc1R3FyRlJxT3lTMmkwRGItMjUtT0tRbVBnbkh3a09nN1F2eUVpbjRlUHkwbHFmcFY3elp0MFFxLVlqbWd3Wi11MFFRdDAzVzh2V1RfWTFDeFdXSGk1V1prd2pmeTRn?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T22:19:08+00:00",
+  "summary": "OpenAI’s Sam Altman Shared a ChatGPT Parenting Idea. The Backlash Was Brutal and Hilarious &nbsp;&nbsp; inc.com"
+ },
+ {
+  "title": "Altman goes viral for saying ChatGPT can help parents understand their own kids - SFGATE",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoYVluOGZyQUhaWU5OV1ZkVWFjckt2Rm5RaElOQzVFM2VTMDJmYzhMRjhaN3lGSHFnVzY0SUIxZ0dkaUhuT0U0NTRiZTZiS1dUTzc0bGF4WUdBVUNpOWFmbkpUMWJIOXJqOWRjb3dIcUNuNTZIR3I0MzlYT3Y?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T21:50:38+00:00",
+  "summary": "Altman goes viral for saying ChatGPT can help parents understand their own kids &nbsp;&nbsp; SFGATE"
+ },
+ {
+  "title": "US House Committee Asks Sam Altman to Brief Lawmakers on OpenAI AI Agent Attack - mezha.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04Z1lmRnloVTI2WTA3dTJadXpOR1o5bi1JeXFTQ1ZLYnhjc19EOGVLcGZrenBsTnNMRlNuOFRNNV9uampmZl9xMkdPbTVEZ3lrdXVBOWs3TWpSUzFJWGdRZGdoX3NxcVE?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T22:01:35+00:00",
+  "summary": "US House Committee Asks Sam Altman to Brief Lawmakers on OpenAI AI Agent Attack &nbsp;&nbsp; mezha.net"
+ },
+ {
+  "title": "Sam Altman’s big idea for parents: more ChatGPT - unherd.com",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQjdlLUdoVlBLaHlsem92ZnVDZDR6bWN6Ql9wUm9yWXVaZmRXNXl6NTZJZ0dHUnFwTVRZcEFGXzlmOFEtbUo4VXc4R2FicFVaZVc1d0wxRXhhaHdPUDYwWHZmaDVaRW5pZ0NPZTJCZEVqOWVBcFNRNGxWN3hIUmg1aTliX1FWM3FaQkNBUXBn?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T15:10:03+00:00",
+  "summary": "Sam Altman’s big idea for parents: more ChatGPT &nbsp;&nbsp; unherd.com"
+ },
+ {
+  "title": "Sam Altman Is Under Fire For This Wild ChatGPT Parenting Suggestion - tech.yahoo.com",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUEtcmVLdjN0M181YnNUTzFwMzlYUmtlbVVZcVBNZUxfTnhWVlcxTzZnSHE2YW5sckZWaWJqdTVfUG1wZGJXbFFPTlFqT2RfUDJ0NDV2WTN4aEN2S0I2am80OHNNSVBtM3FqTHJDUTVCbU9ycTZPNjBxeFh1WTVaTVhnTmQwRnNiWDhhVQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T20:44:57+00:00",
+  "summary": "Sam Altman Is Under Fire For This Wild ChatGPT Parenting Suggestion &nbsp;&nbsp; tech.yahoo.com"
+ },
+ {
+  "title": "Sam Altman’s AI Parenting Idea Using ChatGPT Gets Ratioed Hard on Social Media - Android Headlines",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOck1tZ01YNWN2TnNFQ0ZWSHZiY0NRV01vYzNXY3VkTTZXYkxBaUxEUE1zTU9yMmZ5YjVRVnlHTVp6RFRwamF2cVp3d09HZW1pNDJxd1dDOV9yRGI1Tkk2Y2VZQ2FTbXc5eXVxaFY0aFhUcFd3OVFxNWdETkJoYkJ6RnZOd2RHWXF6NzRBMHVCQ1ZUNld6SzE0eHVR?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T15:59:30+00:00",
+  "summary": "Sam Altman’s AI Parenting Idea Using ChatGPT Gets Ratioed Hard on Social Media &nbsp;&nbsp; Android Headlines"
+ },
+ {
+  "title": "Sam Altman on AI's Future and Human Agency - StartupHub.ai",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZld5Wi0zYno5RFluUEtsQXVZYnZMbFZFbnVfMWlpdWgzNzl1MVFuNkp1MVlZNnNlSzVpM2NIbkF4eXFmTzNoZ2xkVzNnQnN6VzRBSGVDbnJDX2RwRWs0MXlqa2VBT092TTJBazFSTkZsUnBwc2t1S01hZGxkaVdsQjc3NHpkZnR3ajF2UDQ4a1FxN2U1T21pVzlMN0FzQVd4VS1ydHZQVkE?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T09:50:28+00:00",
+  "summary": "Sam Altman on AI's Future and Human Agency &nbsp;&nbsp; StartupHub.ai"
+ },
+ {
+  "title": "US House panel seeks briefing on OpenAI's AI agent security breach - yahoo.com",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnp1WHdDWWxVbWdidG50LXZucmFKLWphazBxOElkcG5tWXVnQno0bzl0LWxfcTRob2tVTHhHdV9SWENkTWRaa3A5dnRVd0R2bW5VWUwxdkdRNkd5YmtVWTZ6ZzJHNGtRZTQ5bHpsdEM1aldGQjVtVXpHbXVpd1pIME10RC0zWDhmM1dyTFVra3ZpM2M?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T21:30:41+00:00",
+  "summary": "US House panel seeks briefing on OpenAI's AI agent security breach &nbsp;&nbsp; yahoo.com"
+ },
+ {
+  "title": "Report agrees with Anthropic CEO Dario Amodei’s complaint to the US government on Chinese AI models - timesofindia.indiatimes.com",
+  "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOdFI5T2J6RXRZd1NEOEZwTUxmcGxyWUNZZmZsMUdLSnpsSl9DXzcxbWhtZ0N6aFRyTlI3bk9zUDVPR0VMWXNPOTJwY2Q1MzBIcGxKeUp6a2xkLTBHSXN4aWVlQlRQaE1fdEZzVGhFcHZHUWF0UThVdWdqbTFCYXRlU0UwOGFyUUItSHJtVXJURkxCNHhjYmZibGhtb1hMNjFCSlFhMklFdm9MMThNMUgxdGZUeUJlSzlCTVBPeDBya1FKdWtGaHJyOHE0TWdMSVhxNzZnRHFydmJQMEVKUEh3ai1FVlJoZW5KX216NzVGYm03bVhucmZoYi14TlBEM2RZNXozRXFsX2hsNFZtYlI4ajRQaXVGU2czaV9NR2E0cklPQWFHZjRXaXVicWN1TzJZelBUWGhkdm1tWTFyX1daTzFBM2FidTBnd0JzNGx3anp4OUhGRkM3ZWk1cjhlbXYxNlRQTEFJdVBMdE5rQTFpd2t0RDZwX3VzX2pKb25hbk9XU0ltLXNiNVpVTF92ZUtQY05EdWVMWkx0Nk92NEhYREJQMUtNa3RvR0dUSG9nb2HSAbYDQVVfeXFMUGRkMEp3QldxQWR0ZVhSNExQQUtpUGxkNnVQTGdFdXRRNkdLM0JQTzdzVlBRdl9HX2V3ZlFRM3h6cFctTkNLUjRMd280OWxheW5iQkxISWZqNU9feEdTeDJQaFRCXzhzYlRMSzdTZUo4S3FQa1BuS2MzcnJzMmVuMmczUUE1dHJ3dHZEdG1JWkI2S01SS1JNMzhjNWktdXFqSmswMnp4NzRqemJMd2NaS2Y0NFl2dGFUaVQ5Z1hUWWQzWk5DTzhVYzNFR2F4MU1YREtUMDR6bk5lbjdpekptX1JOTDdfM2JOcFdwQ211ckR2MUhOSS01N285VkRGczhscUpmU0pqUVltMUo3UnJHVUdNS2xaWXdKY1FXclRSZ1VFMUY4S24tb29ERmd2YlJzYUZ4TmRQZzY3SV81eXc2djBMdFNzX0VZSlkxZ0VVN2R3djNSUTE3LWloazRqM1ZZM2NUUnFXM2JoZXAyU0oxek00d0x5alZkLTNTMlU0WFpVRHVqbU1lM25IR0k0YUlYUC1vVkFjT091UHZPcXVqWGZrQWFsYWtzU1ZQUE5CeE40VURleWZ3?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T04:51:00+00:00",
+  "summary": "Report agrees with Anthropic CEO Dario Amodei’s complaint to the US government on Chinese AI models &nbsp;&nbsp; timesofindia.indiatimes.com"
+ },
+ {
+  "title": "Anthropic's model breakout another wake-up call for banks - americanbanker.com",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUG1jYlFTS0VOdEVnc2ZFZXlpVk1EMndwSFFhZkZybnJzd0E0ZlFDZEJxZlNBek5FYU5HRjN4TzlCbkFvbWhiZ2tLeVR5S21vdGNOdEtidDh6RVFmb3ZHTkRMMXA0SVFKbWIwdGRPVzdRZDhJRWFYN0JXejV6Mm5aUE96YWxMT2hQWVZzOHVVckFfR0U2M1U4?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T18:46:00+00:00",
+  "summary": "Anthropic's model breakout another wake-up call for banks &nbsp;&nbsp; americanbanker.com"
+ },
+ {
+  "title": "5W AI ranks leading AI founders - marketingreport.one",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSHFFTkRKYjZUY1V4OUFJSmJoQ296Z2YyZXctMVVBYURYTzJMM0RQTE8zcUhxRTAtVW4ySy1IbW5hRGxxY1NyUGpyU012VUZkaFFFamR5Mm40a1JYOXRhRmF4SzNfc3M4V3lKSjRBWG9CZ2hESzVlOENtRWh6UWliN3h1TW9ad2E4?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T07:58:54+00:00",
+  "summary": "5W AI ranks leading AI founders &nbsp;&nbsp; marketingreport.one"
+ },
+ {
+  "title": "Elon Musk: Anthropic CEO Dario Amodei dug his own grave by telling everyone that Mythos is super scary - timesofindia.indiatimes.com",
+  "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQYWkxcG1zZGVtQVpvNDZFRUc3Wm5GdjMyTWRtX08tVVg2QnRQZTdZbUhSemo0UHFrOGNRTEQ0ZFFfSTdHVE56TXdKUlI0S2FhU3FiSGotU3hUeDlLeVh2NnlhR0NnYi1RUWpJdXU4U3NPNzdjQXZjcXJHZE42LUVFZk5qWTRPY0N4QWVPdDNIN2FEVEhRTTFoaUxLUTNsX2hPQjVoc1hQS3R2eEV3R2FaSThmUnFMeVVqeGo2V2VjcVdLLWFHdlJDNUpIZXdkSnlsbDNLdWxPcUtzRTNlbXBGTnZXdWd2WEwwOVFJQy1XQUFsdGF6b1ppN3czbWRXZmFJcjV5WjlRbkNSbDdtdmJqdERpTXNJRjRFQ2hraWJpVDBRQXp3X0V2TU8zRUlveTRPUjZMMklEWnN1dGZmcUEzRkRMU0h2RVJTLTBfOERQb2NNSDJmeTB0Mm1pR0p0bEx0TnVoMUJLTTlXV3BQUWxZSkw4TVDSAfoCQVVfeXFMTW9BLUY4WDNhYkVjTmhfcW5QeTA0ZXE5cGZhRDFQU0ZaSFlSMWR3MlZvNzYwUlVvSTh5d2ZiUHdYenR0dmtTQ2dJMGl3N2t5OHg3bkRCRWVNM1o5ZVlyTlpPWThTY3FNaTRWNlA1eDJZVFVUX0o3Z1FYSWFhaHU4YVA3VXV2UnFSX3JYY1dPeDVIQVZzYTRya2IyMkVNTmp5Nk5KOVhYd0wtWldSdjdtTjk2S3FBQ3E5Ujh6bU1BbHczR0M0N0FKYlpNUUp1VTNnYk4tX0RueHVlUjBkRE1iMG40UTU1ZDI4T0FFMjd5dG9VY2dwQmtNNF9YcHFzZjJJNVlGbFMtZmFiLWRjSG1QX3JBVzZjaUdfdk5ueUV2SkNNS1NlZW5ReE9vM2RuOHFhZ25BSFU5aEd0dUZNeFVfVXJRZWFjOF9oem1uS0Z4MmlheDJubGJMU0hoYVFkWWlaMG8zM0U2RUwyUWY2MU5wZTZETDF2QUhaTnFB?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T11:56:00+00:00",
+  "summary": "Elon Musk: Anthropic CEO Dario Amodei dug his own grave by telling everyone that Mythos is super scary &nbsp;&nbsp; timesofindia.indiatimes.com"
+ },
+ {
+  "title": "Andrej Karpathy’s ‘Lord of the Rings’ experiment shows how testing of AI models have changed and what the - timesofindia.indiatimes.com",
+  "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNLW1BRWdCVU05ZWk4QTUzVUNBZk4teVpSRkR4RWRobm9ETkFZU3pwRm43QWdUUmwtajVpNGJGREdldzgya2FFRWQxZWlJXzlYMHBiRkJOWXhNUTROZVIzWG5VZ1RWVmFtM3ZVaFFpZkgwVXduS21WNGNmc2x4TTNPMWo4ME5UY0tobTVuclc0LVZBQUg3VVlRQWFQMjFKbU8tN3FuYWRjODRJbkVYblVZeHpTcWtHN2kxUFRHYTZLYXp5dHF0OThQMXQ3RW1EellUUWhvdGpER1RyMDhJdzl0RjhxNTYwM3owYXlYUWhDRUxlenlZakhqdDRGMEtqb2pPa2dDZzI1UmhBNGVPWUVnM280YjBhNkNoc3VN0gGgAkFVX3lxTE1tYUt3MGpNa2hpdExveGk2anVrQVFGUHJWWXZPcHhUMFpSNDBnbXB0a190S2J2eUV0UDY5LUZfZHBxWVM3UlhsVVcwNFF2RXRLTDRHaDlLbWY2dFZLTTM5SnRxY1FhR0FrdEN0UXVWdVk4MjFkVXRpWGFWbmd4cWJKWUt4T211WFotby1jRkdZU1otNjJlRVBoaGV5dnFmaWI1QzdjSTE2aXBLODdKNnA1WFBPNXc0WFNFUFhPYzNFcldzYzZqY1UzcGRFeC1VLUFBZlN5dmRrbktSMlMwcnlJWW1kOHlvQ0lrcHdfWjd3U0RFTU5WbDlmaGNGRXBXbEFnVmRtSGJYLWtsSktlM3Ywc0N4OTE0dGltbTZJRFZ2Ng?oc=5",
+  "source": "著名人の発信",
+  "feed": "AI研究リーダー (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T12:20:00+00:00",
+  "summary": "Andrej Karpathy’s ‘Lord of the Rings’ experiment shows how testing of AI models have changed and what the &nbsp;&nbsp; timesofindia.indiatimes.com"
+ },
+ {
+  "title": "Harry and Meghan blast Elon Musk, Big Tech over 'predatory' AI features - USA Today",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWENsVWkzaDB1MjRJdWdmQ0J2Z3h3MXEtOUlvbWVQSFF6UWdkX3F0RFFVWGdKRjRfb2F4bGJSX0hpb0x5dzZhel9wSkZ2RWp6eV9rYTVhNHN1blIwWE1BWTRYWFpiOHhHV3dTTWdEbGp4dEtEc1ZmUUlhQXRwYUFwSE9LZkgycjk5WlQzU1RpV3hWMzdYNmdoaFV6MXFFTTdVUWVKQlEzdldQQ25DY3JMdmhWcXl0U01icnhHM292RXpnb2N0NUdfdGxnUFg?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T17:56:00+00:00",
+  "summary": "Harry and Meghan blast Elon Musk, Big Tech over 'predatory' AI features &nbsp;&nbsp; USA Today"
+ },
+ {
+  "title": "Elon Musk is looking for trades workers to build AI data centers — and his famous 3-bullet-point requirement applies - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkF5eWUyVlI3YzZzZ1MzUTFaUEJ0dmpsSHUzQWtibElJNXR2X2RFWVItcTNkbkVqQW9uQ0JlZF92akdIRVc0WFBYYkVfNnFfaUhQR3IxdTNfUE1yeWYwWmJ4My13RWVDVUNOLTdwZXNxcnNaelphUFNOODJTUFktY0VVRmVWTV9zcHJLZjBHeUpQUGxDS3dIVi03MHQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T16:54:42+00:00",
+  "summary": "Elon Musk is looking for trades workers to build AI data centers — and his famous 3-bullet-point requirement applies &nbsp;&nbsp; Yahoo Finance"
+ },
+ {
+  "title": "Elon Musk's SpaceX aims to shake off AI spending fears, stock slump in first-ever earnings report - New York Post",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObXREcGQ2dzZpV3hjVHhsNUNsQ2RFLVVBRmFPaVZDOXdGS1RnWmVSS0dfMVBPbUFlaV9JaElIM00telJ5MmhjOG0xZ2FoUXlDbmg4RWYwQWdtLURSY21uVU9XT01TbWYya2ltMS1uWS1VWEtxZU41Yno0Wk9CVUhJWEF1RUw0bWJITXVnNjZ0U2ZFWXRfYzU3bDVRWVZMd2Q3em9rOUdYbVA0SXdzblp1SDA4bDlVMEFzbUp5LVJFSzFhYVZEcUFDdGc0T2duZVRy?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T16:56:00+00:00",
+  "summary": "Elon Musk's SpaceX aims to shake off AI spending fears, stock slump in first-ever earnings report &nbsp;&nbsp; New York Post"
+ },
+ {
+  "title": "Elon Musk Says AI Is A 'Supersonic Tsunami.' Wall Street Is Worried About The Bill - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSU5uV0dNeEw4YWxlM0ZndmdpLTF2cEh4Tlh0dDR5ell6TEJwTlVGZmpSU3BQdk5vNGlZdlhqR2NQLV84Tkoya3RHN0lpWFVkNHp0X2ctNktKaWc1ZUJmMHNUWld5YlpjQUdWbllGZk5BUjRDUklOYWRCd0x5amtmR25YOGdiM0hXSnV0VEt3QV9fTXJsbDB6cHdNaDNHeUgxank5aGUzRnFyeW5jVVQ2U2NnRWZ3aGJYcHJpOWpUemZFR1NBdFY0TXBDVmk?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T16:58:19+00:00",
+  "summary": "Elon Musk Says AI Is A 'Supersonic Tsunami.' Wall Street Is Worried About The Bill &nbsp;&nbsp; Benzinga"
+ },
+ {
+  "title": "SpaceX Eyes Louisiana Spaceport As Musk Seeks AI Talent. SPCX Stock Surges. - Investor's Business Daily",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclJyUFBtUzdXUjM0ZUxkZW5yZk5WNFRqMnpZWEZ2bWpxVDFkelRsbVBqeEhVQXVMUGdsRC1jQlhVUUtKM2x5NmxOU1h1cUI0Ni1telRZcDEwVjl6MkFfdUJDVUVGRVkwdHZTaWJ0R0oycDNObl9oQjQwQXhab1FIZnl5Q3FmRWpZTlZlQ3ZBVkd3Y1JpUHpONUhvNGtaZ2dNSmhDSkxxOEw0S3d5clZrOVRhTVdwUm9QRHlMc2tzRQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T20:17:00+00:00",
+  "summary": "SpaceX Eyes Louisiana Spaceport As Musk Seeks AI Talent. SPCX Stock Surges. &nbsp;&nbsp; Investor's Business Daily"
+ },
+ {
+  "title": "No One Knows What the Hell Elon Musk’s AI Graph Means - Gizmodo",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMjdYc2I5NjE4WVFoaFJ2LW5nS3h3c25GOGVtUXpaNXR5RzZ1VWRrUDV4RUNXUXRGSFhMOXNfU1Y5THhXWUJ2cUV6cU5IOWRxV1ZYZUVycDBaemM?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T18:10:07+00:00",
+  "summary": "No One Knows What the Hell Elon Musk’s AI Graph Means &nbsp;&nbsp; Gizmodo"
+ },
+ {
+  "title": "SpaceX's first results put Musk's AI spending under Wall Street microscope - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2tWMmRRZ3hJZjRfNjNjS1NjMEo4M0JHV3BObDg5UV9sZ09obWdiczN3MHR5Zmh3U1ZjUzZQbGJHSmJoajZkMzM5Y3dPLW1hQ2VNdm5FamY0TkFoVlRJUzRyTDU1ZGRacl9xSmJmdG9hN0hGYkRDZFVUeU9NeGk1ZnN2T3RKbDZFRTBiSG5UaHktQUM0RUprZ1VSV3U5WkFjajlVU2tMZ0VtaEttSzdhYjJncENPRlp4ZFpTa3gtcW9haVZ1WnNB?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T12:10:19+00:00",
+  "summary": "SpaceX's first results put Musk's AI spending under Wall Street microscope &nbsp;&nbsp; Reuters"
+ },
+ {
+  "title": "Elon Musk joins race to hire the best plumbers and engineers: All you need is 3 bullet points and a résumé - Fortune",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU1RFdDhrQ0VJNXpiRG1xNHJUZWtFME9hZENueXhWMEhGa2FhbjdsakZMRkRaclVHSHVJYWtBQm1nUzQxZnhwdWZpRkMzb0dNWkQ0OVhmNkx2QTNhOGQzbHNBS0hNUXJZLU1nclpPS2VybzQ2QnN3NW5NR3JlLVAyYXMtUFNXVHNHUkxwM2hxRzZPcVhWcS0zMEZ6Wjd6T3h5aWpIYk9UVm41UXVib1B4OEstcnJnWDBNdXNIZEs4NUxsbWVkblg3ZjJteXVkeGY2NFBMZ1UwZUloeGlDTXhndGpETFJMc3p1OV9jMkNPM3RRT05VSWFaemxQU0Uza0E?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T10:57:00+00:00",
+  "summary": "Elon Musk joins race to hire the best plumbers and engineers: All you need is 3 bullet points and a résumé &nbsp;&nbsp; Fortune"
+ },
+ {
+  "title": "Prince Harry and Meghan’s charitable arm urges Congress to act on AI deepfakes: ‘More bills are sitting, waiting’ - The Hill",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXU1XzAxd0Rxdy1rUHFnb05EazNtaXA1X292dGVwVDZ3d185VTZ5S0FpbE5JQS1GM1ZfN1U2TUdNSWlzWDR3N1JvM1FNVTJCLThIUkxJeG14b0QtbHlnOHZ1dFpLMlIza1pDcUx1SlNwV01iWW8tV25rZFRvcnY4YzJVaDR4WVVOU0NoSEN6UUk2SUhv0gGaAUFVX3lxTFB1SG1mdFRMbUxmaFh3alpMT2Z6cGhZRXRlaDNDRW9VRE82MGlUNVRmamlRSzJwdGNpZi1LUjVPZDdISDBTejhnOEpMTVA4VTJncDd6VVpUY0Y3UkM2ZVZXdktxRUtGNzFtYTg3X0NYMjVBRi1lT3VfWUpmUkxlU0NvYUN3Y3htaFhrVElkRXkxSE04T3BCcDJSZmc?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T17:11:00+00:00",
+  "summary": "Prince Harry and Meghan’s charitable arm urges Congress to act on AI deepfakes: ‘More bills are sitting, waiting’ &nbsp;&nbsp; The Hill"
+ },
+ {
+  "title": "Why the US-China AI race needs Elon Musk - ThinkChina",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ud3NoRm9BTUZ3bXZFckxWUzJFbXV6VVI3NTR6M0hNeHYwVEl4a2ZyQnFKZUtwdVJoR2V2X3pnUXF4N25NYkZpVnRvYW5HZEZUcmdKbEdNam1zWXRpOU85OWNWbk5YM21ZRFZqRkMyeDEzWU8wYkxrQnhacWpTQQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T06:43:13+00:00",
+  "summary": "Why the US-China AI race needs Elon Musk &nbsp;&nbsp; ThinkChina"
+ },
+ {
+  "title": "Minnesota's first-of-its-kind ban on AI \"nudification\" tech takes effect despite challenges - CBS News",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazF5NnRJaU1kMW50NHgtVzhmcGQybE9GTWFId1ktLXZJcEREVjVuMGs4dmtWeEYyM19IVFBMYlZCUkFSZGZyVHZabnN0S0VGZ2RfYXAxZWpJZ0lVbUNHeEhGZVo1VHlRWGZOeHBQa1FudTJzaGR1QUVDcTJGOVU4VHhNMWVKeTUtUjRRNFExTUtCTG0ySFZQNEZKdEk0SEpCVmQzQ1RnTDhDcmlsVnFpMzRFbERENlpKYVFHTXp6SUVpNWJ3d21uTg?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T10:51:00+00:00",
+  "summary": "Minnesota's first-of-its-kind ban on AI \"nudification\" tech takes effect despite challenges &nbsp;&nbsp; CBS News"
+ },
+ {
+  "title": "Elon Musk's AI Data Centers Need So Much Power He's Buying Gas Turbine Companies -- Who Else Benefits? - The Motley Fool",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWtqY0JTUm0yaU1lT2IyNXpDNEt3S1pzbFpaT2ZLeks3ZWIzWGgyWXkzU2hsWTFzaXFfa1cwRk9BOVdoLWZnLUsyNzk5NmNuSkpYNDRCMWVWRldlazlBMmkydk9aNTZrb3lXSDJGdnNoTmp5bmFhVjg5RDZUcnFCVFZwbEp6M2s2WUZlWjJTZWVPaU1aOFk0?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T03:45:00+00:00",
+  "summary": "Elon Musk's AI Data Centers Need So Much Power He's Buying Gas Turbine Companies -- Who Else Benefits? &nbsp;&nbsp; The Motley Fool"
+ },
+ {
+  "title": "SpaceX Could Burn Through Billions More as Elon Musk Ramps Up AI Spending With Tesla: Analyst Says Free C - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNNVFQaXN3UmRGUW42dGtYb29KN0JCT3QzYVhuQ3BaSGdzR1FZZ0lDRHBMeExxTEVfSDFDSnBBQ0pSTFE1cTlGNkRzeEY4ZEtCX0lpRWJKLVJYanM4OEdIYkhvNXotTEc5RlhCWlJMWUc0YzVyUWkyVHZ3b0hNQnI3bXlzQmlER1pmVi0wZ3VpMWZXRE5Pelk3T0VudFNLQks4N0UwZk14S1JvWUFiQThaYXI0eEd2STU2MndKbEotZUdyRFJZV0w0Z3VkYlF3a3ludXB6RTBzbUE5dnd5OFdpQS1kQ2NlQ2tsb3J3REp3a3BlRC1ULUNrbDRGQ3hrWkxzblFhWVpiZk11Nk9hR2NMdC1xeWhFN2p0YUJaMW1n?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T13:34:38+00:00",
+  "summary": "SpaceX Could Burn Through Billions More as Elon Musk Ramps Up AI Spending With Tesla: Analyst Says Free C &nbsp;&nbsp; Benzinga"
+ },
+ {
+  "title": "Elon Musk Follows DeepSeek Amid AI Competition - GuruFocus",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPalE2cktJRXFiMkpVSjJUalE5eGcyRncyR0dDV1dNMi1wZmttZzFKM1VwaS16cERDZU1GU2FKUC1sUUN6WGx6bnNYa3ZrMV9FS1Q3VjBpQm4tdTh1ZUJvRFo1dGZ0bW9BWURJX3Q3RUtCVkFTUllVQV8xV3RIOEl1V2R5OE15LVdFSFRKdWNR?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T03:50:00+00:00",
+  "summary": "Elon Musk Follows DeepSeek Amid AI Competition &nbsp;&nbsp; GuruFocus"
+ },
+ {
+  "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29lNXQtb24tUVBfNVp6WEU1V2RBSnc1WHpRdDNiU1NQNEg4NEdiU2hsWVUyazhMQmtXYkxxenhUZjBISE5vY2ZrQ0dhV3BsUkh4ZjhyRlJDV240bmNhWUtQdDR6TUNBcDBoTVZBRXBHR3pWa0ZNRmhGOERKTnpwMHNiOUZjOUx6TU5DaVNKQnM2dE9ZYTBySjRKVTBtZUVuWldYeEV0dUxYUdIBrwFBVV95cUxNU1hJMFNsRW9TTzRPXzJid0VQa0JzR3lJVGFvaUJWWVo5ZDk4SUdGdy0zcFFzMG9aeEVHaWRhcDJEVTJDS2RITjJubDJwUVRvLTBwOG9MNDk4Q2x6SDFtVlhkNWQxTnY2em51ZEFaUFlCZlJWT1NzQnNiTE1vc0lsUTYyMjJBOXl6Nk1oRU5WNDFOT3V5YkdsS1FTVFNwRFQ5U1Zfa3A3UWhyQmNtUmg4?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-08-03T12:00:01+00:00",
+  "summary": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report &nbsp;&nbsp; CNBC"
+ },
+ {
+  "title": "This Gemini feature convinced me I don't need Gmail, Calendar, or Keep anymore",
+  "url": "https://www.howtogeek.com/this-gemini-feature-convinced-me-i-dont-need-gmail-calendar-or-keep-anymore/",
+  "source": "使い方",
+  "feed": "How-To Geek AI",
+  "category": "howto",
+  "published": "2026-08-03T19:45:13+00:00",
+  "summary": "Experience a new era of productivity as Google's Gemini seamlessly integrates with your favorite apps, rendering others unnecessary."
+ },
+ {
+  "title": "My Obsidian vault is now the shared memory for Claude Code, Codex, and my local LLM",
+  "url": "https://www.xda-developers.com/my-obsidian-vault-is-shared-memory-for-claude-code-codex-and-local-llm/",
+  "source": "使い方",
+  "feed": "XDA Developers",
+  "category": "howto",
+  "published": "2026-08-03T19:30:10+00:00",
+  "summary": "My vault is the shared brain for every AI tool I open"
+ },
+ {
+  "title": "AI is both a cyber weapon and a massive target, CrowdStrike warns",
+  "url": "https://www.zdnet.com/article/ai-is-cyber-weapon-and-massive-target-crowdstrike-warns/",
+  "source": "使い方",
+  "feed": "ZDNET AI",
+  "category": "howto",
+  "published": "2026-08-03T17:52:06+00:00",
+  "summary": "The same AI tools triggering suspicious alerts are being attacked by cybercriminals in droves."
+ },
+ {
+  "title": "AI shopping searches surged 200% in one year - and it's a top priority for commerce leaders now",
+  "url": "https://www.zdnet.com/article/ai-shopping-searches-surging-commerce-leaders-top-priority/",
+  "source": "使い方",
+  "feed": "ZDNET AI",
+  "category": "howto",
+  "published": "2026-08-03T16:12:16+00:00",
+  "summary": "Eighty-six percent of commerce leaders believe AI is raising the bar for customer expectations."
+ },
+ {
+  "title": "How to keep your conversations with ChatGPT, Gemini, Copilot or Claude as private as possible",
+  "url": "https://www.zdnet.com/article/how-to-keep-ai-conversations-private-chatgpt-gemini-copilot-claude/",
+  "source": "使い方",
+  "feed": "ZDNET AI",
+  "category": "howto",
+  "published": "2026-08-03T14:45:00+00:00",
+  "summary": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several major chatbots."
+ },
+ {
+  "title": "How Google used AI agents to find and fix 1,072 Chrome security bugs - in 60 days",
+  "url": "https://www.zdnet.com/article/google-used-ai-to-fix-1072-chrome-security-bugs-in-60-days/",
+  "source": "使い方",
+  "feed": "ZDNET AI",
+  "category": "howto",
+  "published": "2026-08-03T12:29:00+00:00",
+  "summary": "With 3.5 billion active users to protect, Google is relying on Gemini to find Chrome security bugs fast - and before attackers do."
+ },
+ {
+  "title": "「秒進分歩」のAI時代。生き残る企業と個人の条件。｜AI博覧会 Summer 2026｜8/26-27 - aismiley.co.jp",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2MVc5UXV2Rkp6Ui1FNGlDa1QyRmRJblpueGxCR1QxcGd0SllYREVSRDJCb3BJTTk5UnFXRlJfV0NqNFk0aF85MVgyVUI5cjRCYzZnV04xZ1FHcHJjOU1rLTZCMzJYcElRTXc?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T09:14:01+00:00",
+  "summary": "「秒進分歩」のAI時代。生き残る企業と個人の条件。｜AI博覧会 Summer 2026｜8/26-27 &nbsp;&nbsp; aismiley.co.jp"
+ },
+ {
+  "title": "生成AI利用率、情シスよりも高いのはあの職種だった - kn.itmedia.co.jp",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04UHZfdnBEQko4QTBTc1lmeWQwZFl1VTJxTU5NMjNaWjhMN3FUd214QXA1Si1rMW1KV0JnN0xjWlhLcGJtREN5QjFBcS1ZYVRmYmpQbEFwQ2ZQMkIxOHdPdjhiaUhUZnkz?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-02T22:00:00+00:00",
+  "summary": "生成AI利用率、情シスよりも高いのはあの職種だった &nbsp;&nbsp; kn.itmedia.co.jp"
+ },
+ {
+  "title": "生成AIで知財マッチング実証、支援機関向けセミナー開催 - J-Net21[中小企業ビジネス支援サイト]",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtMU5ZMk00cVRkcTZBcFU4YnNrYWRqZm9KNFhkSkRwZTJzUkZxS1ZxamMwOE50Z3hVOVkySGQtWm5XRlpGRG93UG5qMEVWMmh5S3VJTzNDdjhCWmRHNzdJT2g5VQ?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T06:52:27+00:00",
+  "summary": "生成AIで知財マッチング実証、支援機関向けセミナー開催 &nbsp;&nbsp; J-Net21[中小企業ビジネス支援サイト]"
+ },
+ {
+  "title": "LGWAN対応の自治体向けAIサービス「JAPAN AI 行政」提供開始 - Newscast.jp",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EZlBxNFpnaEZOckptTldZd1JISVNPRW4wd3VRMUp0b0Q1RnpjUDlJdDdLWmhnWVBZRmRQa2oxZU5WSnVqMmZhOFV5T04xakE?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T04:00:00+00:00",
+  "summary": "LGWAN対応の自治体向けAIサービス「JAPAN AI 行政」提供開始 &nbsp;&nbsp; Newscast.jp"
+ },
+ {
+  "title": "PFN、防衛装備庁の生成AI実証を受託 「PLaMo 3.0 Prime」で自衛隊の作戦計画立案を支援 - ledge.ai",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hWWdtSDNETkFNVnNUcm5FaFhhUDI4YkhGYWwwNmNjZGlNei0tOE5qRmZkSm9UMnVQVXJZaC1RT0YyTHdubUw0WjRiU2NtMUg4UzY0YjR1ajJnbVhLeF9hdFRZdWtBQ3ZK?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T06:04:06+00:00",
+  "summary": "PFN、防衛装備庁の生成AI実証を受託 「PLaMo 3.0 Prime」で自衛隊の作戦計画立案を支援 &nbsp;&nbsp; ledge.ai"
+ },
+ {
+  "title": "生成AI × コンタクトセンターサミット2026、８月26日、都内で開催！ - 時事ドットコム",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sblloQXBRZGVISkQ3R2FEeEpPTWQ4aHJ2ZFUzNlhvM0hZVDBpdk5Yb0NZbm1NZXZRb010MV85N2RjbzgzN1hGMnBTSzVEc2ZKQi0ybHJXbUtYNmQzeUV1ekZUUmNmNWlHdm40?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T08:46:00+00:00",
+  "summary": "生成AI × コンタクトセンターサミット2026、８月26日、都内で開催！ &nbsp;&nbsp; 時事ドットコム"
+ },
+ {
+  "title": "「AI博覧会 Summer 2026」カンファレンス 第2弾スピーカーを発表！ チームみらい党首 安野貴博氏が「AI時代のDX戦略」を解説。 デジタル庁のガバメントAI、経営・製造・営業のAI活用事例も公開 - aismiley.co.jp",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmMlNhWEJJTkNQWklqWVpvRlNwckFTUlpIN25RWjJUS1pXVEZxMUlqQV9fNEY1bG5jOUdFelp1WERJMk10dFFHcGdHOFZyTUVBUm9ia3kwQ2R0b2dFVkRuMFV3?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T04:23:33+00:00",
+  "summary": "「AI博覧会 Summer 2026」カンファレンス 第2弾スピーカーを発表！ チームみらい党首 安野貴博氏が「AI時代のDX戦略」を解説。 デジタル庁のガバメントAI、経営・製造・営業のAI活用事例も公開 &nbsp;&nbsp; aismiley.co.jp"
+ },
+ {
+  "title": "生成AIパスポート、団体受験の申込・支払方法をリニューアル - PR TIMES",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVTldSTmVQWWNjOEx3VDgtaC1tY1BZV2F4dndsRVFseTk4U0dSb0VMMzB2SU1GNVFRZ1UwOGtqb1BDMlFXZW1RZ05oVG8yTWNSNjU5OFNZX1d5elY1LUdsZWNING8xdjJwbGc?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T02:00:03+00:00",
+  "summary": "生成AIパスポート、団体受験の申込・支払方法をリニューアル &nbsp;&nbsp; PR TIMES"
+ },
+ {
+  "title": "AI時代に生存できるビジネスパーソンへ。社会人向けプログラミングスクールSiiD、新コース「Claude Codeエンジニアリング」を新設 - PR TIMES",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqX3V4dVRrcml1VW9tYUpjRnhqOXhFSXlnWC1kdGJPbzNaQk03UnpFY1JLVm5aNE5yWDZ4QUFQczhZdEVjV19HTjJ4VUF0b2M4dEtEb3VUQ3ZFZkpTMjNEUEp1TzJLOEcxVUE?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T23:00:02+00:00",
+  "summary": "AI時代に生存できるビジネスパーソンへ。社会人向けプログラミングスクールSiiD、新コース「Claude Codeエンジニアリング」を新設 &nbsp;&nbsp; PR TIMES"
+ },
+ {
+  "title": "Final Aim、手描きスケッチ起点の生成AI時代のクリエイティブ支援プロダクト「Final Design 1st Sketch」を提供開始 - PR TIMES",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aXdsV2djVmVvaE91RmJNTkVoM2VBcVZuc1RaSS1pMXUwU1hjSVFNWllRVlJJRUZCSjNPWTlmZGUyUUxobXQ0ZlowZElsc3hDc0pLWU54MnZ2S1Z0SU1NTW1wWVQyOU1ZNmc?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T02:30:02+00:00",
+  "summary": "Final Aim、手描きスケッチ起点の生成AI時代のクリエイティブ支援プロダクト「Final Design 1st Sketch」を提供開始 &nbsp;&nbsp; PR TIMES"
+ },
+ {
+  "title": "「Claude Opus 5」公開で世代交代──\"5世代\"で逆転したAI活用の常識を、全54ページで完全図解。Renewer、『Claude 5世代 マスターガイド』を無料公開 - PR TIMES",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iQWVqUjFtSldIU3B3UFBzN1VHRTlNV2s0U2hlblR5TlBPcC1CbmhRZVBjYnp0WmhzdHkxOE9uYUtLSU41MElIbnR4aEFOVHNid2pNMkMyc0dLNWs3aWl3VFlxNEhpVkxXb1E?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T01:00:03+00:00",
+  "summary": "「Claude Opus 5」公開で世代交代──\"5世代\"で逆転したAI活用の常識を、全54ページで完全図解。Renewer、『Claude 5世代 マスターガイド』を無料公開 &nbsp;&nbsp; PR TIMES"
+ },
+ {
+  "title": "NTTソルマーレ AIラボ長で国内最大級のAIコミュニティを運営する山門氏が語る、AI時代のリーダー像。9月17日大阪開催【フェローズ主催】 - valuepress",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81WDB3dUlza3p2WlVxWWJqSjBuS2lLUW9wT004M2Z1NWFkMWJKbno2MjMxM0RDcFZnTU5PMVZ2Y3RLM2Z1N0tTNDlCY1VHcGY4ZGl4VEp6OXc4UUk?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T00:00:00+00:00",
+  "summary": "NTTソルマーレ AIラボ長で国内最大級のAIコミュニティを運営する山門氏が語る、AI時代のリーダー像。9月17日大阪開催【フェローズ主催】 &nbsp;&nbsp; valuepress"
+ },
+ {
+  "title": "株式会社HALUXとセールスボンドがAI活用支援で業務提携を発表しウェビナー開催 - ニュースメディアVOIX",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YV24tRXNMYXlqVDRMdmMzT3kzUngxZU1rMElwNW1KWnBwcXctS3NGLXlBeUt4Y2owUDRTSGFHWVRlWjdUN0hodHhicXNNUGxEYVYwMU5oMjVWTlh5VmJXdHJoRzFXd0xrVG1aWmp6Ti0xWFZhTHo1THZn?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T04:25:05+00:00",
+  "summary": "株式会社HALUXとセールスボンドがAI活用支援で業務提携を発表しウェビナー開催 &nbsp;&nbsp; ニュースメディアVOIX"
+ },
+ {
+  "title": "No.2 -「AIといえば、assie ，」AI活用したブランディング支援。 - 西日本新聞me",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53YXN1T1lTeXNwUjdfY2E2UkExbG1mZmxxMGZZbE14ZWJRTUJ0VFEwbEQ3Tl90Z0wzVGNhUmpsWGtGUS1FdVZKUWpacTJ1OGtXYVhXMnVR?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-02T00:51:00+00:00",
+  "summary": "No.2 -「AIといえば、assie ，」AI活用したブランディング支援。 &nbsp;&nbsp; 西日本新聞me"
+ },
+ {
+  "title": "電通総研が提供開始する生成AI活用の新データカタログ「DdataGallery」の魅力 - ニュースメディアVOIX",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91eTUwNEU0ai0tOFRWcjdUdzRXWHlyT1Z5OVJEeVdMc3J4LWZqekZOeU9LdnZFWF8tVGQ1R1N5dm1PUUFfOFZUSlEtUGFxRm9EVkhOM2t5MklfRTBRVVEyb0hIUWlmRnFnYVE?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T05:55:50+00:00",
+  "summary": "電通総研が提供開始する生成AI活用の新データカタログ「DdataGallery」の魅力 &nbsp;&nbsp; ニュースメディアVOIX"
+ },
+ {
+  "title": "あしプロダクションが提供するAI活用による企業ブランディング支援の新スタイル - ニュースメディアVOIX",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14RFUxYWV2T1ZGQnYwTl9YRzRCb0hYdHdHZjNSWGdtZ2hwRVBDeXBXUTd4UzY3T29WdnFoSFN3Ykh2aWI1eXR3RVJEenduMGxKdGxpSWRFbkk1RFNPSmxlRUxaMVo2aWtf?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-08-03T05:12:56+00:00",
+  "summary": "あしプロダクションが提供するAI活用による企業ブランディング支援の新スタイル &nbsp;&nbsp; ニュースメディアVOIX"
+ }
+]
