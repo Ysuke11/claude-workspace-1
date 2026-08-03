@@ -12,6 +12,7 @@
 
 from __future__ import annotations
 
+import os
 import sys
 from dataclasses import dataclass, field
 from typing import Any
@@ -38,6 +39,9 @@ class AgentResult:
 
 
 def _log(message: str) -> None:
+    """進捗を標準エラーに流す。SHOSHIN_QUIET=1 で抑制できる（テスト・cron 用）。"""
+    if os.environ.get("SHOSHIN_QUIET"):
+        return
     print(message, file=sys.stderr, flush=True)
 
 

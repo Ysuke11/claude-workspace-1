@@ -129,3 +129,15 @@ python scripts/run_shoshin_agent.py --max-turns 15 --effort medium
 
 病院名・商圏・前提条件は [`config/shoshin.yml`](config/shoshin.yml) の `business` に書くと
 プロンプトへ渡ります。分析対象のデータセットを絞りたい場合は `bigquery.allowed_datasets` に列挙してください。
+
+## テスト
+
+BigQuery と Claude API の両方をモックしているため、認証なしで実行できます。
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+SQL 安全ガード（通すべきものを通し、弾くべきものを弾く）、自律ループの制御フロー、
+レポート生成をカバーしています。Push と Pull Request では
+[`.github/workflows/test.yml`](.github/workflows/test.yml) が自動で実行します。
