@@ -1,0 +1,3 @@
+anthropic>=0.69.0
+google-cloud-bigquery>=3.25.0
+PyYAML>=6.0
