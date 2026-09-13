@@ -1,0 +1,776 @@
+[
+ {
+  "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+  "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-12T20:19:16+00:00",
+  "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+ },
+ {
+  "title": "Anthropic CEO outlines plan to slow AI development",
+  "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-12T19:34:44+00:00",
+  "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+ },
+ {
+  "title": "OpenAI’s rogue AI tried to hack another company in May",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-12T21:41:36+00:00",
+  "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems d"
+ },
+ {
+  "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-12T21:16:28+00:00",
+  "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was be"
+ },
+ {
+  "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-12T16:23:40+00:00",
+  "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon "
+ },
+ {
+  "title": "Trump is giving data centers a pass to pollute",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-12T14:41:27+00:00",
+  "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a"
+ },
+ {
+  "title": "OpenAI just wants to win",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-12T11:00:00+00:00",
+  "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. In"
+ },
+ {
+  "title": "I spent $4,000 on a robot dog from China",
+  "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+  "source": "メディア",
+  "feed": "Ars Technica AI",
+  "category": "media",
+  "published": "2026-09-12T11:00:53+00:00",
+  "summary": "Unitree might be the world’s most important robotics company."
+ },
+ {
+  "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+  "url": "https://arxiv.org/abs/2609.10584",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its deterministic policy m"
+ },
+ {
+  "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+  "url": "https://arxiv.org/abs/2609.10629",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, trans"
+ },
+ {
+  "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+  "url": "https://arxiv.org/abs/2609.10654",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across "
+ },
+ {
+  "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+  "url": "https://arxiv.org/abs/2609.10656",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid p"
+ },
+ {
+  "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+  "url": "https://arxiv.org/abs/2609.10657",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs "
+ },
+ {
+  "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+  "url": "https://arxiv.org/abs/2609.10712",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoints using supervised fine-tuning and reinforcement l"
+ },
+ {
+  "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+  "url": "https://arxiv.org/abs/2609.10724",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and dependencies on people within shared workflows, especially as technical, human, and "
+ },
+ {
+  "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+  "url": "https://arxiv.org/abs/2609.10728",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard response is to hardcode each calculator as a validated function, one at a time. We t"
+ },
+ {
+  "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+  "url": "https://arxiv.org/abs/2609.10824",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10824v1 Announce Type: new Abstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task examples, tra"
+ },
+ {
+  "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
+  "url": "https://arxiv.org/abs/2609.10873",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10873v1 Announce Type: new Abstract: Independent evaluation can reject harmful policy updates yet also prevent useful continual learning. We argue that update admission must be assessed through both error control and retained learning opportunities at a stated interaction budget. We ident"
+ },
+ {
+  "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+  "url": "https://arxiv.org/abs/2609.10964",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediately"
+ },
+ {
+  "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+  "url": "https://arxiv.org/abs/2609.10992",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.10992v1 Announce Type: new Abstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current privacy-preserving methods typically employ context-agnostic static rules, causing severe utility deg"
+ },
+ {
+  "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
+  "url": "https://arxiv.org/abs/2609.11018",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.11018v1 Announce Type: new Abstract: The term agent in artificial intelligence lacks a standard definition, complicating the evaluation, comparison, and reproducibility of AI agent research. We address this ambiguity through a survey organized around five dimensions of agenticness: enviro"
+ },
+ {
+  "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
+  "url": "https://arxiv.org/abs/2609.11030",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.11030v1 Announce Type: new Abstract: AI agents increasingly act through tools and delegated authority, but general incident repositories rarely capture the mechanisms needed to compare public failures with agent-security evaluations. We present the Agent Incident Registry (AIR), a source-"
+ },
+ {
+  "title": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents",
+  "url": "https://arxiv.org/abs/2609.11060",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-12T04:00:00+00:00",
+  "summary": "arXiv:2609.11060v1 Announce Type: new Abstract: Persistent memory is entering production-oriented agent platforms to help long-horizon agents accumulate experience across sessions. Yet a post-task curator agent restricted to completed trajectories can preserve errors, overgeneralize partial evidence"
+ },
+ {
+  "title": "'Dario is right': Musk and Altman back Anthropic CEO on slowing AI down - Yahoo",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjk4TTdkdmFaRHVDUHBMXzJtZ25FWWJtVnRPYm15VlhFVmFydDRKZ2luM1loZEVoVjJEVHgyVk52bTZUVDA5ZkF2OS14M0g2WkNBZ2tqVDB6MGRFczZpN0V5WVladEMyT3FyeGRpUlN3dE9DRVZaamd3cXFQdFhuVmp3eGltRGwteF9YT2VsZ1FHWWFfM01TS1lzLVo2c1VIbDVNX1o0bG9STXdQSkd3b0l6YURLbGRxSmJMeUJR?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-09-12T18:21:44+00:00",
+  "summary": "'Dario is right': Musk and Altman back Anthropic CEO on slowing AI down &nbsp;&nbsp; Yahoo"
+ },
+ {
+  "title": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdl9CNzFpU1IyZjY1T2hTbFpCZUJpbFFzRVlIeFJxdFJRQVlYVkhmaEpfUDNvOGhXbkl3VFpoaGU1Q3FJaWdBTnBlSjVULUlqU0NwMGZZVDVkdmJsSVlKajVKbDVjR3VxUnpuaW14WHpCd1Nsb2ZxQnJkXzRzV2szWDNTWjdkdw?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-09-12T09:47:16+00:00",
+  "summary": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. &nbsp;&nbsp; Business Insider"
+ },
+ {
+  "title": "Have You Protested AI Recently? Anthropic May Be Watching You for Precrimes - CNET",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGE2Nm9zaGVuNUZEUVNRU2tBbzhlUmpMZTh4MHpPMVBIWnNJbHdIRkZVM1ZlME90XzZGelB5c2FhbXRRS0lZWDJtVnZGVTdoR3ltdFphcVo5aW9kbENzQk1BUG9fY1hXZ2EyX3NKVTdLaHNHNFZiTEF1Uzc1cGhma25fTUZMTXdxRXQwdEkzQWxNYV9sOGZ3QzczeUVxOVN0SzFnTGhRaUY0WG44cjF5d3NSYWRIbjVJRUhEOHB2RFQ?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-09-11T19:22:07+00:00",
+  "summary": "Have You Protested AI Recently? Anthropic May Be Watching You for Precrimes &nbsp;&nbsp; CNET"
+ },
+ {
+  "title": "Technically, There Is a Non-Zero Chance That Anything Might Kill Off Humanity in the Next Decade: A Response from Anthropic’s Claude - McSweeney’s Internet Tendency",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZEJ2M0JsM1dQX3VjVVRvcW1GQXpaY1N4Uk1YNl9ocUMwMVNacV9paTVfZDR1YklMNDdyUTVINk9wY2M0VGl6NDh1WXNyU2tUb1lTRURnQ3dfMk5XcWU1T0FHeklXaGRXMXdzVkxUcXlZX0pNcVY4a3F6MUptVHJXMlZ0dE1PeHpCcmxuZTVQc3NJcElzVG8zdUlaSkZHRUhHS0p1NDZueVRiNXl0Unp6R2dlbWFOZS1WWG9ORXpTWV81b0d4c01JN1ZZRmJqQ1R5TU50ZzVFUVk0WDQ4eEVPS3YydVBGZDd4V2FtYnFPbEpTRXNpNFBGdw?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-09-11T17:00:00+00:00",
+  "summary": "Technically, There Is a Non-Zero Chance That Anything Might Kill Off Humanity in the Next Decade: A Response from Anthropic’s Claude &nbsp;&nbsp; McSweeney’s Internet Tendency"
+ },
+ {
+  "title": "We Must Pace the Frontier - darioamodei.com",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-09-12T14:15:02+00:00",
+  "summary": "We Must Pace the Frontier &nbsp;&nbsp; darioamodei.com"
+ },
+ {
+  "title": "Anthropic CEO says AI industry needs to give safety measures time to catch up - PBS",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkE3SzFLWmJNc3RvT2QtU2JTVTl6OWVnclZUc0hiUXBhN0tlVlNjOWVvNnJ6dVBvZnlqeHBUNEV5ekxITVlQRG1fakN4NHpKWEczS0xPTWFoS3lkbUZ3R0hrTFBibnQ5SzVTOVFzWkRLZGdwRHhMUW1XRmJuTE5NWU8xUDRCZ0NKSzBEYkpxU3B1MW5iUm9Wa3h1RzJ2VklZd1doNEpmOTRpTnEySi1fZ2FGUQ?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-09-12T19:15:26+00:00",
+  "summary": "Anthropic CEO says AI industry needs to give safety measures time to catch up &nbsp;&nbsp; PBS"
+ },
+ {
+  "title": "Anthropic, OpenAI CEOs call for slowdown in AI development - Axios",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rNWpPMzdWODR2anAxbW1fZ0d4dW1EOFJ3eWpXaHlWZVhxcS1IMERlZnZHWkE4b3RoTmJLc2xjTXZBSFBCOUttLTR0WlA2VHNTWVNOa1lsMzREc1doYUNDYkVHTzhDSEI5TjB3?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-09-12T19:51:05+00:00",
+  "summary": "Anthropic, OpenAI CEOs call for slowdown in AI development &nbsp;&nbsp; Axios"
+ },
+ {
+  "title": "Top AI leaders unite to warn the technology is advancing too fast - The Washington Post",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-09-13T00:22:04+00:00",
+  "summary": "Top AI leaders unite to warn the technology is advancing too fast &nbsp;&nbsp; The Washington Post"
+ },
+ {
+  "title": "AI leaders endorse slowdown in their risky technology - Politico",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXU5VmpWekpBOWZuZU00SzJuVVN0cHBfWjRhX2pVWVFIYjhBS1JSamNjLXhLeDk3NVd4c093a3FWTDNYUkI5LVdmSmFKcjJsX051QWhwejI0SGZsQ0RMNjNXTUNDRnFNVXhUR2YtX0VHX1VmdjhpRGUwZllWdzlnWFplSkotb3o1cTZlVS01YXE2OEp1cEtSdUdVZzJJdTdteVdfajQ4Y2NNY3Y1Tm1aa1k0Tmk3RjN0YXNBdGI3aElINDQ?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-09-12T20:29:00+00:00",
+  "summary": "AI leaders endorse slowdown in their risky technology &nbsp;&nbsp; Politico"
+ },
+ {
+  "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown - The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcU1YS0xFaGIxT09LRnlVc3AxVWdtZUJrYmxiY3ctc3FxZmVCbWx6LXdxaXZkUWY1TUl4N0xnZ3A3aDA0SmFNZm5xU2hQM0I4YXQ3RHZUeWozQnJxcHJra3ZwNXJ2WEVvTzltSy1ZdHoyMUVRNm1Ua1ZWdWF0TUw1cFpLRmVyUVI2U0dBZV9welJMczBPR1ZWN0RVYkpMTk5BRDY2Q0k5OE81Y1JPM0tmc08wWXc?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-09-12T20:25:00+00:00",
+  "summary": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown &nbsp;&nbsp; The Guardian"
+ },
+ {
+  "title": "OpenAI employee takes down ChatGPT-coded RuneScape clone following Jagex cease-and-desist - PC Gamer",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckFPV2ZyczFmam40TzVlVGZwbnlfT1h1eGpNUkpBVmdGR2dBSm9sUkVlejhBTVB4Q2V0VnA5eTNDcUlrY2tobnRZWTFnOFgyd0FyZVZSVFR2VFdHdXRhbkhMazc1Q1BxUmR4MzlMRk9RT09nYUtoVjRYaHo5X1czZ3lrNE93VU5ieFhRb0pzbDI4aW1fVEEwMnRQd2c5QmhiNTd5Q1dtbTVoWjN3bXRxUGFrQmxKQnJNRmMwTF9WVzdnVHh1?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-09-11T21:07:32+00:00",
+  "summary": "OpenAI employee takes down ChatGPT-coded RuneScape clone following Jagex cease-and-desist &nbsp;&nbsp; PC Gamer"
+ },
+ {
+  "title": "Sam Altman: OpenAI won't go public this year as IPO now would come at an 'ill-advised moment' - Fortune",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMm5STnhuRG5MT1ZWUjlzeWNqVEFGTjVxaVdkX2hzdjF5VElRajFKd3B2NlkwcWxNSFgwOVczb1l1N284MVlhNTRtMFN4T1dyY1NNVmdFeDBRQVdGWmZmRjdYM0NuTTN5SXhvbi1UaE55TDhCUmdINEZ6c2VobFZQX3ptWm9sTkE3UjB0bDZzNkxlLUxzZHE3N25R?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T18:04:00+00:00",
+  "summary": "Sam Altman: OpenAI won't go public this year as IPO now would come at an 'ill-advised moment' &nbsp;&nbsp; Fortune"
+ },
+ {
+  "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says - Axios",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kOTVXM1dpbzZyS3lOVnlHTFBkQlIxZUJDTWRoZ1doeEg2TWl5czhzWnVsWWRuclZLcThWM3RjN3J0Ym5nWEdHRl9LM0cyckVyLW9aWGxMU05XbVpVcThqVEZIYndSTm04V2tLUll6QVV1YVlaUWc?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T20:41:56+00:00",
+  "summary": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says &nbsp;&nbsp; Axios"
+ },
+ {
+  "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T20:46:43+00:00",
+  "summary": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says &nbsp;&nbsp; Reuters"
+ },
+ {
+  "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers - The Hacker News",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CUjZaOGwwNllQcnBlQWZwR0hBRGJvZGg3WkVhNTRDLXByNTZvbE9yemU5eGMzdmdFSW5sWjd4RUxYZzhyM1dNdVdHT0l4MGFNeDBPZTR3bnRKRlBqcUZQQUQ5YmlyNDYtcVZzMHNjallBbzNKclFPVDlPcw?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T09:07:00+00:00",
+  "summary": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers &nbsp;&nbsp; The Hacker News"
+ },
+ {
+  "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWdEQ1p3VzJkd2E3ZmYwWmRkRWlwWEhFSm1PTjQ3Y1N1bGNPd1lXcjZncEhPVVNrd3dFT3oxd1FVbzVMZmZTVEJVZGJ6MHNxTUd0eVI5MkpuY191WG9CaUozc3AzWkhPQUlzUDh0dXFqQzlNd09CR0NrQ01NaVBERHhCUE9vcmR1UmlfMFVXdmFlcDNocnJkMkJOa0pWQ0p0SVhia1QwS3A4LVZjYXdfLWhiRTHSAboBQVVfeXFMUE44bkREVTl5S1B2R2RMNUlMSlZlT1N0RU5yeTJLaDhFd0dWZ2wwRmdaVUpWRGpYbTBtVVlITnRNLTJRcW43RlhKQzZFVTluc2E2dVhuSzNOWWtoVzFwRDFDX0wxVWszTDk5NkcxQjNaN3JCWGlpUnhTdGM4dzliVHFQam1IV2x6dW1jMkh4SkFNWjVRbzlSQVpaZEFvbE9QZHNiSWJMS3l4aDVMLVFRdk9FbGYxLXBZdjNB?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T16:22:17+00:00",
+  "summary": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast &nbsp;&nbsp; CNBC"
+ },
+ {
+  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems - OpenAI",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T22:48:16+00:00",
+  "summary": "Perplexity trusts GPT-6 Astra with end-to-end systems &nbsp;&nbsp; OpenAI"
+ },
+ {
+  "title": "‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp - The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUg2U3V2NmxnMjFYSVpTdVdQS1dyM19fUjY0S2V6MWItakVCNFF2R3pRRk8tWHJ1aG5CVnB1N3BvckRJWDZ4RjEwTUhPTnZ5U2hnZEREd0RXQXYxcW54NUZFYVVkUnNSQ0QwTWFxaWhXRGFyN0NzQ29TZVd2d2dJdEhhVXVSaVNBOEQwaExYemVPRUo2UTdKTjZ3?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T12:50:00+00:00",
+  "summary": "‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp &nbsp;&nbsp; The Guardian"
+ },
+ {
+  "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO - NPR",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2dEZVQ3TDM1QTVfdTlRQ09QSWhCWnN1ODIwQzdEUTJxTEpGLVI4Qlp0WnVfaTdEdHEyNHdQcWNoNS1FajdpaVU1WWtPcTZ1ZXJWYXBsRzlrZi1jaWZNdEY0S1MtZmQxSVRtdlZHOFV6aW54TUJHWEJDOExGY2l1V25LYmYtNUlic1B4MFNrUklaaVk?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T09:00:00+00:00",
+  "summary": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO &nbsp;&nbsp; NPR"
+ },
+ {
+  "title": "Sam Altman Says It Would Be ‘Ill-Advised’ To Take OpenAI Public In 2026 - Forbes",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0xFa3JZWDBLem5XZ3kzdmdBeUJwRGFQelFBbkI3ZVRoM2lDaXB1RmYtZTNZam1fM1RCNlp5eXA2dVhTUkRRTzBPWHNfWTlFZVhtMjNrSDl3VjJzVDNLUURDUEozUklnS0h1MFh3RV9aMFFJM2tzeENlWWhYRnlock1leng2M0JBNWxfRkRMSTNPUlFYNlVIbXo4ZnZaZGJjVU9FMkJ2TQ?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T20:31:29+00:00",
+  "summary": "Sam Altman Says It Would Be ‘Ill-Advised’ To Take OpenAI Public In 2026 &nbsp;&nbsp; Forbes"
+ },
+ {
+  "title": "Grok Models Now in Microsoft Copilot: What You Need to Know - BASENOR - Tesla Accessories",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWRoOXBXcHBSZWswR3piLU1iX3ZDc2Z0dUpWNGxhRG9FWEdBMDJjeUJGMGZPZUFVMGFpRC1uRUhEZWJaSFVIdXNPY0dyUWZUNWVOMzN5dG5OTHl4N2dVRG5Fc25DalRWMElGeFc5VDFzT1RleXBVSWpnbW9taUxFbzFCMWttaS11ekdLTzJzZkpSdTNJTnYyag?oc=5",
+  "source": "xAI",
+  "feed": "xAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T16:03:28+00:00",
+  "summary": "Grok Models Now in Microsoft Copilot: What You Need to Know &nbsp;&nbsp; BASENOR - Tesla Accessories"
+ },
+ {
+  "title": "Satya Nadella announces Grok rollout to Copilot, expanding Microsoft’s AI offering - Firstpost",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWRybU5TQ0ZqYnVGWFFGMk5wbS1kQlRpVHJ6d3pqQnE3MmRMZmFUT3kxbmhhTnVQdy1YQVVXSFJOQWdUVGFoSVc4cC1qWmp1cElETGZaYWxyanp0ZzdSUzBUUDNNRzB2cXZLZWJSVG9qZGhTcnFnbW1JNWc1Ulo1czdVU2dzN01pQ19oTGtPU21SbDVVWF9ZM3h5WU5sQlgtS0VJZnlSMVBnODlKV0k3NmhEX29BRXBtejJuc20xbW15LTjSAcgBQVVfeXFMTWEwX0VUbmdJdEM5YjNzSGpWc0NpTkYweGdEOVk0b2s2RHBwbkJyQzI0a25VSE9mLWhTVWtsLXN3NUExVXdkd0lMdGhYOWdYRHprN2tYUzBIZU9aTUFZV1JuM0ZEbEJRMW5QZDU2NTUtaUNzWmZSZFNJRDlJeDc0ZjZuQVVsT2ZnaDZLUjdlOGVzdDQzd3hyX1FSVlhhMlVVMEE3dzRuZVhnRzFuc2UwNFU0TGlabGlFOFlJMVFBSTRITTdISFpZZEM?oc=5",
+  "source": "xAI",
+  "feed": "xAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T17:28:46+00:00",
+  "summary": "Satya Nadella announces Grok rollout to Copilot, expanding Microsoft’s AI offering &nbsp;&nbsp; Firstpost"
+ },
+ {
+  "title": "Can AI Build a Startup in 72 Hours? Elon Musk's Team Will Livestream the Test - BeInCrypto",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DMGc2QnNhcGdETDZaQmFJU3BQTzdJNVFnSDNoVmppOVpaNEFOeEl6UmFhYVVucG5ibFppeGthbXpZYzdhVUdyeFlsX3l0WkxpdWdHRkh6eElTSGxKVVAtSHhINnM4SWYxdXVN?oc=5",
+  "source": "xAI",
+  "feed": "xAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T13:23:00+00:00",
+  "summary": "Can AI Build a Startup in 72 Hours? Elon Musk's Team Will Livestream the Test &nbsp;&nbsp; BeInCrypto"
+ },
+ {
+  "title": "Microsoft adds grok models to Copilot across Word, Excel and PowerPoint - The News International",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHFhSHhLTGpQUHBEZWNvMjQyN0pzUDVMUmJWUVRjVldyRUx5QnJPQWhnSl90YlZCUy1Fdi1VVjhuczJhS2ozRFlYdFcwZExEb0RWeW1qTWdGaVM4a3pZNnl4TVJOVDQzMGt1TC1NTFlQVXBndUJVNDVsdXF3VV9TZGhmVHNhUTloV0taMWI5d08tRGp4ckxHUEE0UFBTMV9McnBFQWloSXlwZGg3TlBZVDJB0gGuAUFVX3lxTE9kZ0Y4VGwyQ0dJcm1ZUW5UV294WW5FR2tfRGtzdzh3c0hBcURxSVFDSl8zV0xIZ3pDNEt2UmFZU0pZa1VVWWtJY0hnOEY5a3VSR3RTRVNkZC1udFpNSXBtT0pqT0dfMllMWHVWTDJSYWpTOGRUQWhEN3E1UWtUbUF4RDlYUW9LQlNQaVJPenRNQzY0WTAtNVBhOXFoVVVTb203SF90bm83UXl6RXlEZw?oc=5",
+  "source": "xAI",
+  "feed": "xAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T17:44:00+00:00",
+  "summary": "Microsoft adds grok models to Copilot across Word, Excel and PowerPoint &nbsp;&nbsp; The News International"
+ },
+ {
+  "title": "Elon Musk’s SpaceX AI team to build a company live using Grok bot - The News International",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUW9mNTBPR19UNGxCTXFVX3lFQUltbWY2Y2gxQ2s5bGlDVkQ5UllBVnIwZzhCY25ZN2xBcjctTGRDX1hrdXhtNzdMMjRWWUpLNEhfeF9VOExTekF2cE5JSGVlN1hCNG55eWVheTQ4Z21jX3VKWmZGZ0hoV0JKMnNIRGcyb2dRcjBOTkdtblVWWEJyT1oySGpnSG5nU19kMndrYnhuTmR30gGiAUFVX3lxTE1yN09fU20xLWVmMlhjdGFYYVNWMzJ0eG8wV1V0RVhJQXpZNXpYemJmUWZFRk5CR3hrOUMwc21sT1lMekVOazBJTUx0Vk96amdiWkJkTXZrdGNsNVVKMzVWWkdVbU1qQ2JYVTE1V0Fzd3RIb2xjdHpsbHJ2YTZnZ2FJQkNQczRpeW5UbEhsZkhBNENnaVBvNGJIcG5FMlFrLUxsZw?oc=5",
+  "source": "xAI",
+  "feed": "xAI (Google News)",
+  "category": "news",
+  "published": "2026-09-12T07:39:44+00:00",
+  "summary": "Elon Musk’s SpaceX AI team to build a company live using Grok bot &nbsp;&nbsp; The News International"
+ },
+ {
+  "title": "デジタル・ナレッジ、学習履歴と生成ＡＩによるキャリア形成支援システムを開発 - 月刊私塾界",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2QTNQblpZTWpHOWJ3Y0s3QVBVVGEzaUlvUzIyYVB2cVhZaGh6OVZ4ZWhKNXM3bGstLUFmVXFVUlVERkpYR0VKR29jdVJXT0VYRFE?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-09-13T00:05:44+00:00",
+  "summary": "デジタル・ナレッジ、学習履歴と生成ＡＩによるキャリア形成支援システムを開発 &nbsp;&nbsp; 月刊私塾界"
+ },
+ {
+  "title": "生成ＡＩで効率化へ 郡山でデジタルスキル講座 - 47NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EdTlYRE5nNks0OXFoWVV2akQtbkxZMDFjQTV2U1VPRlQ2STdqX00taXpId1lFRW9INEpQMTE2RG8tX3FIbXI0LXhvTQ?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-09-12T20:30:00+00:00",
+  "summary": "生成ＡＩで効率化へ 郡山でデジタルスキル講座 &nbsp;&nbsp; 47NEWS"
+ },
+ {
+  "title": "生成ＡＩで効率化へ 郡山でデジタルスキル講座 - 福島民報デジタル",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1icHZ0QUx3dy1UUkxramVJNG55RS15dkh0WU9NalBwcVpGa3FMcEJ2UkJmYWtiVl9WSzM5eDkwb0JHVXFQUEJBak5tOEs3ZEU?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-09-12T20:30:00+00:00",
+  "summary": "生成ＡＩで効率化へ 郡山でデジタルスキル講座 &nbsp;&nbsp; 福島民報デジタル"
+ },
+ {
+  "title": "生成ＡＩ 大学生の９割が利用 リポート・就活… 「思考力伸びず」指摘も - 岐阜新聞デジタル",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjcDMxX1B1dzdLYTBZdG1Vdml1TEdYSXptdFFaOUNCMWpQV0x2UDZmclFvem5MdE1oWFpWRDBzN3Y0TVRWZlZ2M1JlRGJaOThQc2dNbTdB?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-09-12T20:00:00+00:00",
+  "summary": "生成ＡＩ 大学生の９割が利用 リポート・就活… 「思考力伸びず」指摘も &nbsp;&nbsp; 岐阜新聞デジタル"
+ },
+ {
+  "title": "生成AIの利用率60％で去年比1.6倍 男女12～69歳 利用目的は調べ物・情報収集が約7割 - khb東日本放送",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3T0pQOWduMDlteVJrXzdVVk91MVV1ZzVpT0lnalZVOXMxeFpmZmU2NXJsX0g5UVZ5RmQyZUpqaG16MVBDaU10QTNTbXY4TU0?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-09-11T00:30:30+00:00",
+  "summary": "生成AIの利用率60％で去年比1.6倍 男女12～69歳 利用目的は調べ物・情報収集が約7割 &nbsp;&nbsp; khb東日本放送"
+ },
+ {
+  "title": "葛巻町が契約 岩手日報生成AI - 岩手日報",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnRXVoRlByd2NudFA4RjRieG1wWFl0UEU2Z3hBcWltMklBSFJPRENoVEZxbFhjX3FoR0JnOENxQlJtT1pkbFkzaUxwZ25fb0F0QWxwazlDY2g3Zm84ZnIwcw?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-09-12T02:11:00+00:00",
+  "summary": "葛巻町が契約 岩手日報生成AI &nbsp;&nbsp; 岩手日報"
+ },
+ {
+  "title": "Z世代の54.3％が「買い物に生成AI」 でも最も信頼する情報源はAIではなかった - DXマガジン",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MUC1IYzZDZVJDZHRNRW1jcUpPUVdaRTVZYzN6U2hzY3lMVkJVVjN4b0ZNLUtfMUVkb1I0NWxGTk12c0dNeklTVE5JU1Y?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-09-12T08:03:34+00:00",
+  "summary": "Z世代の54.3％が「買い物に生成AI」 でも最も信頼する情報源はAIではなかった &nbsp;&nbsp; DXマガジン"
+ },
+ {
+  "title": "小学生のChatGPTや生成AI頼みの教育は脳に大きな打撃?森本真理子と内田伸子が考える親子のAI活用 宿題や読書感想文で思考力を育てる家庭の学び方 - #アベプラ【平日よる9時~生放送】 - 企画 (ニュース) | 無料動画・見逃し配信を見るなら - ABEMA",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGbkc2N3A5cm1BcUJ4bXgzZWIzNnhHR2NhTHpCbEhaQ2lEQlMya29qUGw5NFdhQzJLVHlacFV4NGxlcUVIb2ZPV1FZMUNRTDd0Yk5IWVU5S3MzQQ?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-09-12T02:21:30+00:00",
+  "summary": "小学生のChatGPTや生成AI頼みの教育は脳に大きな打撃?森本真理子と内田伸子が考える親子のAI活用 宿題や読書感想文で思考力を育てる家庭の学び方 - #アベプラ【平日よる9時~生放送】 - 企画 (ニュース) | 無料動画・見逃し配信を見るなら &nbsp;&nbsp; ABEMA"
+ },
+ {
+  "title": "たまごファクトリーが契約 岩手日報生成AI - 岩手日報",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjRER2OS1ib3dEOVdHWTJPUHRkRkhqVmFCOEdpa1RIdy1zU2lZVVppZGZtOG9XRmpKVW1RSFp6UDRSVElQbDdfRGN5RW9uNUpCcmYxb2NwRjhGeDhoYy1VRw?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-09-12T02:13:00+00:00",
+  "summary": "たまごファクトリーが契約 岩手日報生成AI &nbsp;&nbsp; 岩手日報"
+ },
+ {
+  "title": "歩数計から「行動変容エンジン」へ…生成AIヘルスケア、グーグル・アップルvs国内勢 - 千葉テレビ放送株式会社",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MWHlldl9kVGRyMkVnRWw2eTM0eGR1QjdTZTFBRllNTDhTbE5qZEZMa0t3em95em5wQnp3bkpGQnVTV0VtNVJ5UlBBMXF4SUN6dURVOHRjMHZwMnh5MXhn?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-09-12T21:18:20+00:00",
+  "summary": "歩数計から「行動変容エンジン」へ…生成AIヘルスケア、グーグル・アップルvs国内勢 &nbsp;&nbsp; 千葉テレビ放送株式会社"
+ },
+ {
+  "title": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-11T00:43:00+00:00",
+  "summary": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff &nbsp;&nbsp; Bloomberg.com"
+ },
+ {
+  "title": "OpenAI Is Beefing With Mathematicians, Will No Longer Sponsor Caltech ‘Mathathon’ - Gizmodo",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakNrOFEzaXp5NVdQRFlaSmZ3cHJxN2ZxdlpVT3Vaci1pdkNIdU84emcwWmpiTTNZWDJ6MWRNSm4xLTB5ZGZtdEtBaVRXZnhpMjZQUFFVV0YxR0tRbUdvRmFCU0dIYWMwaHlJbG5QODBiQU4za01wd3F1OHI1VXQ0SXBtdWpnT1lLcllRTHptWXpvT184NUkyLTA0WGRGRlFpNkZYdkJzQ0dxYUExNEE?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T01:05:18+00:00",
+  "summary": "OpenAI Is Beefing With Mathematicians, Will No Longer Sponsor Caltech ‘Mathathon’ &nbsp;&nbsp; Gizmodo"
+ },
+ {
+  "title": "OpenAI IPO won't happen this year, says Sam Altman - coindesk.com",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1NGNkZiUV9EM25CcFl5RnNkR280OXA4djJLNElPUl82ZU9qTk9ZVEFzZkRQY2hGNTlSbGRrcERhTFRjYWl2MC1YdUg2X2ZxV05pSU5kWW5Rai1pX2NfSkZpQ2M1TmxNLU5Cc1VtUmFKT3ZOenU3VkFkdm9hMUJ1RGhoUmE0QkJQN3d0RTdPSWhxdUNJMmktLQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T21:09:31+00:00",
+  "summary": "OpenAI IPO won't happen this year, says Sam Altman &nbsp;&nbsp; coindesk.com"
+ },
+ {
+  "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026 - techcrunch.com",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDYteTJ4VHRtbkNDNEhiVHFralh2cTZ2TUZIQ0E4aVNmcEctV1dxQjVuSmxLZGdrelcweXNvSEphQ1l0bmkzSjdzZC1NeGkwSE5JNmpRY21pVG5reDhwaklRVnFXY2VoYmJuRHBfc2lXVWIwTnVycTBVNFZzdnRjRFFnY2dMb1NSaktMNkdraEVlWlJKYmY3cms3VXVTSzJqa256Q0dn?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T20:19:16+00:00",
+  "summary": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026 &nbsp;&nbsp; techcrunch.com"
+ },
+ {
+  "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year - MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1BrR21jQzFIRVlfTWN1MUZYNWhjYVFwY2c3Zmc4eDdzbXZfRnZOR1NEcDh6V2s1UUREenkwdWdvcHNFLTFLVnFxUzAyQzZLTmxuaVdzUjRzNFZBSGtPbUFGSFFaYWh4N1p5U0tySFc2UFJuUHhFVHE1SVNPMUpRWS1MSGF1SjJfNGNZQmdCWWoydXdVQXBiQ0pXVmZsVmlYLWtoRTNWRE4?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T21:50:00+00:00",
+  "summary": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year &nbsp;&nbsp; MarketWatch"
+ },
+ {
+  "title": "Two of the world’s top AI chief executives publicly agree on slowing AI development - NBC News",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVd3Q2R6NGZfdkJHREJrV2N1RDcwSTRBZy1JYTZTS05kTno2N2pqWnZBQ21XOTJ3Yl9ObERSSE94U3dkWF8wSVRtNGtHQklLbkFhUFoyUHR5dGp1MmtWX0s0enEzNktEd1ZGRzkwTktMckpUMGlFZE83UWhCVkFvVV94ZTZKUENwdUdZRS1jS2RhWVk?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T17:45:10+00:00",
+  "summary": "Two of the world’s top AI chief executives publicly agree on slowing AI development &nbsp;&nbsp; NBC News"
+ },
+ {
+  "title": "Sam Altman says OpenAI IPO won't happen in 2026, cites safety concerns - qz.com",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9waVhtd0t2aElMREtYc3dCeHBKbFZ6bUZlQTk0TDA1dDlaTDRudzFUWUhRckdpSW5YVnV2RjdDSGVEMm9YZ2I0dElhS0pMdklVWDd4d0h2eGVFR1ZURWdSLXYyNzE5ZTNKTU9HaVRB?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T20:52:05+00:00",
+  "summary": "Sam Altman says OpenAI IPO won't happen in 2026, cites safety concerns &nbsp;&nbsp; qz.com"
+ },
+ {
+  "title": "Sam Altman says this is an 'ill-advised' time to IPO, given safety concerns - Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc21TcHEtNS0ydEJtSklDQ0tuYWNyb1cxYVVQWV8wNVh1Y2FkWWViVXFHQkhqRGJCQ2Zkbm1oNkRuV1RScVpFdlpULURQdXN1MC1tUlpYV1g5STVDZ2ItbEtlejZsVXZBMGNuXzlWSWhlMTBRLURWRy1sUHhOdlJqVXRXS2daQQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T20:35:00+00:00",
+  "summary": "Sam Altman says this is an 'ill-advised' time to IPO, given safety concerns &nbsp;&nbsp; Business Insider"
+ },
+ {
+  "title": "OpenAI IPO Won’t Happen Until 2027, Sam Altman Tells Fortune - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1FpOTJLTGgxcVF4UndsN2pXV2wzNUVxU2NZc1RENmV5UXZISnRiaWx4bW1PSml0aHBqYkl3RHBDVWhra3QycmdsakVoX2pzUE42dHI2TGhva3hlYTZHZHZYTGtyMzYzaDh2RzNya3BzZzVwbWJ4N2N6alRvbG9BSVY4LWlIZ2xpbHBkZEZvalg?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T19:36:39+00:00",
+  "summary": "OpenAI IPO Won’t Happen Until 2027, Sam Altman Tells Fortune &nbsp;&nbsp; Yahoo Finance"
+ },
+ {
+  "title": "Sam Altman backs Dario Amodei’s call to slow down, and says OpenAI will do the same - thenextweb.com",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zR1QxejRKYnRHZHhaWlY3dUd0eHpvemIzOEVBSmlPMmdPUFg3S0l0NGFfQmhZM0ZVUTJYZ0k4Sy1iM3BRREU3VDJTaVVRa1B3dnpJNnBfdzE3OFFibnM5WUd3X2lPTE15QWN3R0VwTQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T19:37:48+00:00",
+  "summary": "Sam Altman backs Dario Amodei’s call to slow down, and says OpenAI will do the same &nbsp;&nbsp; thenextweb.com"
+ },
+ {
+  "title": "Elon Musk, Sam Altman agree with Anthropic CEO’s call for slowing AI development - Honolulu Star-Advertiser",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbHNzWUF1ZGV1el94aDQ5eHpJVE1KUExEalJLWk5pYXBGdm9CUHR1WU81SzZXeHBoZ2JrcHVPcFhKdjFwN01oZFQtUmRDTXZ6S2dMenJaTjQ3ZlFNam1ZY0dpLVZ1eVBTRXZmNS1rNTl1Nk9fQ0xIeEVLSTJ1UWxhNUxkU0FQYU85d0RJT2hleF82YTRkYl9zcDhyaVF3TlBSUnBXemFPbEZZVi1Lbk1TaWpPeDBpQ3RQa2p5X3ZFNjBQU0k3Sk51TWw0UGJmSW5N?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T21:07:20+00:00",
+  "summary": "Elon Musk, Sam Altman agree with Anthropic CEO’s call for slowing AI development &nbsp;&nbsp; Honolulu Star-Advertiser"
+ },
+ {
+  "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown - The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T20:00:22+00:00",
+  "summary": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown &nbsp;&nbsp; The New York Times"
+ },
+ {
+  "title": "Anthropic boss Dario Amodei calls for AI slowdown - DW.com",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1ZYk0xbVVWVzJTZ3lCblZLZ3ZxMTJwUXVYUkI3VUY1SnNhbDVNNkl2eXFQTkV1cU5sclRUYjJXSHliajREVWVHMkhWSzM4MUNxaG9aN1A5YmN4ZEJkQUFPVDFEQnhuN2NMbDN2ZXhFS1ZpVjFSUENGMGwzNnFjWC1KLWVkQ2oyMHfSAYoBQVVfeXFMTXBCX2VWUXNtVDc5Q0Fyd052UHlEeldEX0s5Tzd5UTVWdlRNajlJd1MtSDlYZkxvVEs2N1FVNlNVYWJvelg1NUR0YkJvdF8xYmQwbmxWdnZMV3VULTFTZHNURDFCLXY5bHJrR3duYUlRU0xEWDFJT0lTT3dGWDBocTFZMDVwV2JhWnVn?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T23:35:07+00:00",
+  "summary": "Anthropic boss Dario Amodei calls for AI slowdown &nbsp;&nbsp; DW.com"
+ },
+ {
+  "title": "Exclusive: Anderson Cooper asks Anthropic CEO: ‘Do you earnestly believe that AI could kill all humans?’ - CNN",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOV9tUi1JZG81b3U3VHROaDl1bEN1bzBycTN3YTRQRjZVR09PWVJSYXRERWZubFpMYUY1c2N4UUxubWdZNHZnZnBfaGlLUlluSS0yVWlvYzliVmhoZXBXWTZhbzAyRFlaeGM3MUxwUVFnek9NNnNIdWZQbExPMFBtbXNCVjA0OUc0LUtvdUlLQVNYNXBJa2RFWlVjd1luN25Mbl9ERWJHZHA?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T20:56:55+00:00",
+  "summary": "Exclusive: Anderson Cooper asks Anthropic CEO: ‘Do you earnestly believe that AI could kill all humans?’ &nbsp;&nbsp; CNN"
+ },
+ {
+  "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - AP News",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T21:50:00+00:00",
+  "summary": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up &nbsp;&nbsp; AP News"
+ },
+ {
+  "title": "Anthropic CEO Says It’s Time to Slow AI Model Advances - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlBPOGtIVFdERkFSODVUMU84NkRpM282MzgybkR1RXAxN1FMZXNON3lMZUpoMjFxU3ltWDVkT1RuNEJwcEhGR21qeVVuQjI2VkwtRG1KbE9nLVhEQjAyQjdpdjExYWRjSFRRLTJ6OHkxcmlkWkRYUS1sdV8wUGUyTEdNWWFzNGJjYWFYckxIRGZFWC1sTzJQSmtESWRCX1ZkekptTVlHWjQwakxYLUtVQ3J4SWc3UQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-13T00:09:00+00:00",
+  "summary": "Anthropic CEO Says It’s Time to Slow AI Model Advances &nbsp;&nbsp; Bloomberg.com"
+ },
+ {
+  "title": "Anthropic boss Dario Amodei calls for AI development to slow down - BBC",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrRjBnT05YelZFQXM0ejVFa0VZUDdYWENTbHowbzJSVmxwZWFpWEw2NFh4NHpjU01Ubi1jM21FQjhfWl82Z3JsczNTQnFIVFpkOWQyTXhQVzlGZw?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T21:16:47+00:00",
+  "summary": "Anthropic boss Dario Amodei calls for AI development to slow down &nbsp;&nbsp; BBC"
+ },
+ {
+  "title": "Anthropic CEO Dario Amodei says \"exponential\" growth of AI is a \"warning sign that we need to slow down\" - CBS News",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2otUFZkQndyRnVpMTlySVhTUnQ4YkVrdHhXem1oUUEtVzdMTGVaSUZjV01fOXZrRmNpb2dJM1AtUVVvT2Zmci0tbUxlaTdIOXNlQmp2QXYxN0RQd3pnYVpfTUlERlNNck1wOS1uNmVSaTZ1dS1HbmtsQjFoVFhnYVpXUnFzMkFXNWpEM0JZQQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-13T00:04:14+00:00",
+  "summary": "Anthropic CEO Dario Amodei says \"exponential\" growth of AI is a \"warning sign that we need to slow down\" &nbsp;&nbsp; CBS News"
+ },
+ {
+  "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T23:13:41+00:00",
+  "summary": "Anthropic CEO urges AI companies to slow model development amid fears over misuse &nbsp;&nbsp; Reuters"
+ },
+ {
+  "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet - MarketWatch",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa3l1V19CX2wtc3hiZE9NSmpHTnZ0ZUVwUmluRHBSZjF2RUtCa3FCOGd3OFZqTmlVeGNIQ1FDbVFIWHRSZ0piZlVTeEVFU092dnJaWWd5YkRoN0lpSDNSQ3RpQWUtU2s2UFNON2lBbE44RkM3UDE1VFdzS08yOGMtU1JDRGItRDlJMUxwcTJHNkxia0hZOHRQclVOLU56T0JDeHFhcGVIeVFlOV9kODBDblBwaDB6dmJlZXhUcElXdHlPOWh6ZHN3ZUNpNHAybURqZGtMdUdLcE5yVUo0MjNPeQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T17:20:00+00:00",
+  "summary": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet &nbsp;&nbsp; MarketWatch"
+ },
+ {
+  "title": "Biggest AI Rivals Agree They Need to Slow It Down - WSJ",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc044MVJrTFhxOFJSaHVGUUQySWtORFVvVmRSc19sWFNGYjRzYkpvVDJ4U0laZ0dKVTJ5MXp5YzdGNnMxcTYtWFBOdkJJcm9oWkk3T0ZhdlVaRDIxN2Rxem93VUU4OURNVWFZWTZHT0ZaQWJNMlExOFhpdkhrYkluN0pwZE55QWZ5Qm51LUhHNm5hQQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T21:58:00+00:00",
+  "summary": "Biggest AI Rivals Agree They Need to Slow It Down &nbsp;&nbsp; WSJ"
+ },
+ {
+  "title": "AI doom warnings are growing louder. Here’s a timeline of the concerns - NewsNation",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXNXRDVwcVh1bVNYQWd0bjQ2Qy1HaEtYdzhCT3lmODFiMnhiSS1qNjBBNDlleWVtTlg3cDJ4X0RsanlZUWZPMG5nTnNfM0RIR0hoM2pMWWhfUWIxeFJzekxPRWR3Zk9xOEtLVDRfcUc2M2s2ZUFXMlRyTDNsSVBMSnVrTEJnTjFyQ2xEaGJ0UXl2QdIBlwFBVV95cUxOS2NzT2FnUUNHbDk3TVM3NzNVTndpcmxWd0VWQllNOHJrTzRjVk9rQmhxWWVVdHhHLXQwMUprMWVCRkV2N0kyeDhlLW9yb3pfY0RNcFZhT2N4UmNYMjVYanhwN2VLX3NFUmpFcE5sMmxYUGkxaDNRYjVqQ2xGcjNqOE9LSFBYcnFsSnVpOU4xT1RfY1VnMjhR?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T18:42:55+00:00",
+  "summary": "AI doom warnings are growing louder. Here’s a timeline of the concerns &nbsp;&nbsp; NewsNation"
+ },
+ {
+  "title": "OpenAI, Anthropic and Musk converge on an unusual idea: slow the AI race - coindesk.com",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTG9QUHNsbWFDOGVZbVhtUU1XakpmQmlxbEQxZmpyOVRHMDQxUHoyRjRSdGVuY3kyRmc2c2tvM1RlN05peHFMeWQzenBMckdCajhvQm1OdUlROU1fQ2FRY0FMWWFrLWxLc2dubkRhZ2F3Q3dDUlA3MFpJMkltakJEdkhyZmxJVzFEbnVZblpYcVhIZjV2RHpvTEJlOUVvZmZjeXlfU2RVU0dnUjk0THBsUXNxMW5KNjdi?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T22:09:14+00:00",
+  "summary": "OpenAI, Anthropic and Musk converge on an unusual idea: slow the AI race &nbsp;&nbsp; coindesk.com"
+ },
+ {
+  "title": "Sam Altman and Elon Musk back calls to ‘slow down’ AI development over safety concerns - The Independent",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjZXbnVyd094Si1xR3NZbnRadnVqbmJuLXh5XzRzb2JsSHl4RVozeEhQdTFRXzM1WVZNMzBzN0pYT1hNUWNWRWtqWW1yZDMtYUhqUkRWdjc3SUZ0MHlQV0dLNXJxLTJNZjJtNE5ucXA3X216XzVhWFVyaTRPaU80Y1NVdHhoZW5SRWtkZFdxVThzQQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T21:17:00+00:00",
+  "summary": "Sam Altman and Elon Musk back calls to ‘slow down’ AI development over safety concerns &nbsp;&nbsp; The Independent"
+ },
+ {
+  "title": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown - Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWYtdEVSa2FLcE5qUkpvZTUyRlNzMFBBZGFsanBoVmt0UzJJWE1SNGJwVHRhcktRUUxIZTdGYThjTDd4am5Ca09YNTlKalkydTdreFJrWFRGR3BRZnplU2g0NVEwWDBhNmZNRS10RzRYRndKSm1yaDl0TkVWLUpNX24wLWw?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T18:14:06+00:00",
+  "summary": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown &nbsp;&nbsp; Financial Times"
+ },
+ {
+  "title": "Anthropic CEO calls on AI industry to slow down tech race, drawing support from Elon Musk, Sam Altman - Fox News",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXZzM0EzYzE5R2xhN3JYZEgzTWtTVk5lUURGRWpBbXFyZEtieEM0YVA3cXJWdEk2ZmQzMWMwRmFET2I1dHFtamt2dUdUbFk4QS1LZEFhak1jRmJIaG9WVVo1SWJZdFg5MlZBU2lDRmFXSEZPWnRpODNIQjM3WGIxX3lEUlBXcDQ3S0FTMVg0WnFYaEx1c1d4dkFBTmxoeng0aXhzdDZVb09NSTVlSXRKMklnb0JLYmpwb3fSAb8BQVVfeXFMTVpOM3lJY0Y5aUhRbWdIWDl0Vm9QQjFrcDcwWFFucThtZlhaTWZtaTVpR3Npd2taWVBKMVcybTJaVEtnQlBlVU9HUXJUUjdHYUxRcE1TYzlVWXlZZTNKNmVKUW9DTnlka2xsS2hTQVpyLUh3WWVnQ3RiWnF2bGt1UU1jOTVJZU5tWGU3U0RnYWlJcGV0RllERmFaNmdYeUFDUENpUktGYTJRTGZsYmZOUzRhOVE0ZERWRk43dEhLLXc?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T20:48:40+00:00",
+  "summary": "Anthropic CEO calls on AI industry to slow down tech race, drawing support from Elon Musk, Sam Altman &nbsp;&nbsp; Fox News"
+ },
+ {
+  "title": "Sam Altman, Elon Musk Back Anthropic CEO's Call to Slow AI Development as Safety Concerns Mount - TheWrap",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQllwRWpad2tnb09ZbUJTRXNhZUpUOXdPaGg0SGtoVTJlN3ZfWTFKSTdfSnowS1pjdHprOG9uVEJoblJLMHFtOWFTYWo5VEJXXy13aF9YN281d2dlcEZubFlMWGx4RzEwSkQ1aTl1X1phSDN6Z3hoN3NqSmU3VmpEVkRSSkNNUHQ4VnZnS201OUJVTE9J?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-09-12T19:47:16+00:00",
+  "summary": "Sam Altman, Elon Musk Back Anthropic CEO's Call to Slow AI Development as Safety Concerns Mount &nbsp;&nbsp; TheWrap"
+ },
+ {
+  "title": "ChatGPT is rolling out a new experience for teens aged 13-17, offering a safer and more age-appropriate environment for them to interact with the AI. This update includes enhanced safety features, improved content filtering, and a focus on promoting responsi - Movieguide",
+  "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQMko2eXVHM3hyMUhxeHNiXzhGR0VYSE92Z3NrRkxvSERhQUJBU05Nb180bjVSdERKUXZsWGdKUUFxbzNZcElKUmFRelZIT1ZqUTRQNzFocmUxNk9WYXNnUzZiQkJSZk5YSm9ZR0VVcVFkN0xTdi1nZGJCUVc3bWN0UE1aa0NFRnVxSTFxU1RiSFpXRFJlWi1zSGViYXVkX2NCMGlPTTE5Rml6VXhNRVdNSnd5X2xMZkdnUHJha203RHFJOXlDUHg3RkxqZHBFNkR6YWhvRlNKVExfcUNUSXQ2M243am9PRXVhcG0zZXJiSzBjZnBCTG5KN3BielIwV3R1elZLREpJSEtDS2l4aGk4N1BfZTFiQmdIWkhlSWxkSEIxSVFzaVAzX2F2VW10UFBxc1pkT2RFaUxNTHUwYWZNeDlVUDNQZWQ2bkNWcThFR1NFR0t6YnZfRVlsZUQ2Q3FYSjh0VFdoYkxrdG8?oc=5",
+  "source": "使い方",
+  "feed": "AI How-To / Tips (Google News)",
+  "category": "howto",
+  "published": "2026-09-12T09:12:04+00:00",
+  "summary": "ChatGPT is rolling out a new experience for teens aged 13-17, offering a safer and more age-appropriate environment for them to interact with the AI. This update includes enhanced safety features, improved content filtering, and a focus on promoting responsi &nbsp;&nbsp; Movieguide"
+ }
+]
