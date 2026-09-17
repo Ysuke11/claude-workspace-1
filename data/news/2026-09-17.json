@@ -1,0 +1,425 @@
+[
+ {
+  "title": "Helping older adults use AI in everyday life",
+  "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+  "source": "OpenAI",
+  "feed": "OpenAI News",
+  "category": "official",
+  "published": "2026-09-16T16:00:00+00:00",
+  "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+ },
+ {
+  "title": "Reimagining advertising with AI",
+  "url": "https://openai.com/index/reimagining-advertising-with-ai",
+  "source": "OpenAI",
+  "feed": "OpenAI News",
+  "category": "official",
+  "published": "2026-09-16T13:00:00+00:00",
+  "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+ },
+ {
+  "title": "How to connect AI usage to business value",
+  "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+  "source": "OpenAI",
+  "feed": "OpenAI News",
+  "category": "official",
+  "published": "2026-09-16T12:00:00+00:00",
+  "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+ },
+ {
+  "title": "Our framework for reporting model misalignment",
+  "url": "https://openai.com/index/model-misalignment-reporting-framework",
+  "source": "OpenAI",
+  "feed": "OpenAI News",
+  "category": "official",
+  "published": "2026-09-16T17:00:00+00:00",
+  "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+ },
+ {
+  "title": "How workers are unlocking new ways of working",
+  "url": "https://openai.com/index/unlocking-new-ways-of-working",
+  "source": "OpenAI",
+  "feed": "OpenAI News",
+  "category": "official",
+  "published": "2026-09-16T09:00:00+00:00",
+  "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
+ },
+ {
+  "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+  "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T21:07:24+00:00",
+  "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
+ },
+ {
+  "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+  "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T20:12:00+00:00",
+  "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
+ },
+ {
+  "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+  "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T18:25:25+00:00",
+  "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
+ },
+ {
+  "title": "Your AI agents can now control your Google Home devices",
+  "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T17:00:00+00:00",
+  "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language."
+ },
+ {
+  "title": "Anthropic merges Claude chat and Cowork in one interface",
+  "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T16:30:00+00:00",
+  "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+ },
+ {
+  "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+  "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T15:00:00+00:00",
+  "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass."
+ },
+ {
+  "title": "Threads’ new features let podcasters promote shows and reach listeners",
+  "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T14:24:58+00:00",
+  "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion."
+ },
+ {
+  "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+  "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T14:15:00+00:00",
+  "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition."
+ },
+ {
+  "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+  "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T14:00:00+00:00",
+  "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
+ },
+ {
+  "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+  "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T13:23:02+00:00",
+  "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
+ },
+ {
+  "title": "Former Infosys chief’s AI startup nabs another $53M",
+  "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T13:00:00+00:00",
+  "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch."
+ },
+ {
+  "title": "Amazon launches Alexa+ in India with Hindi support",
+  "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-09-16T10:34:47+00:00",
+  "summary": "Amazon is letting all customers use Alexa+ assistant in early access period."
+ },
+ {
+  "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+  "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-16T23:40:00+00:00",
+  "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as a"
+ },
+ {
+  "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+  "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-16T20:59:13+00:00",
+  "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, call"
+ },
+ {
+  "title": "The AI data center e-waste problem is huge — and getting bigger",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-16T20:40:46+00:00",
+  "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste than "
+ },
+ {
+  "title": "Apple might make servers again to cash in on the AI rush",
+  "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-16T17:20:29+00:00",
+  "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI indus"
+ },
+ {
+  "title": "Google will now let any AI agent run your smart home",
+  "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-16T17:00:00+00:00",
+  "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor you"
+ },
+ {
+  "title": "Claude comes for Gemini with its own take on Docs and Slides",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-16T16:30:00+00:00",
+  "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and C"
+ },
+ {
+  "title": "The sexy AI-powered dating app scams are here",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-16T14:45:00+00:00",
+  "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movie"
+ },
+ {
+  "title": "A brief history of AI executives calling for regulation",
+  "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-16T12:00:00+00:00",
+  "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, "
+ },
+ {
+  "title": "AI and data centers are incredibly unpopular in every poll",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-09-15T23:34:25+00:00",
+  "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1"
+ },
+ {
+  "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+  "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+  "source": "メディア",
+  "feed": "Ars Technica AI",
+  "category": "media",
+  "published": "2026-09-16T22:02:46+00:00",
+  "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
+ },
+ {
+  "title": "Building the materials foundation for AI",
+  "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+  "source": "メディア",
+  "feed": "MIT Technology Review AI",
+  "category": "media",
+  "published": "2026-09-16T12:47:34+00:00",
+  "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele"
+ },
+ {
+  "title": "AutoTailor: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents",
+  "url": "https://arxiv.org/abs/2609.13548",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13548v1 Announce Type: new Abstract: Web agents can utilize reusable tools to reduce the cost and latency of low-level browser interaction, but automatically discovered tool collections can be large, redundant, and poorly aligned with user demand. We present AutoTailor, a meta-agentic fra"
+ },
+ {
+  "title": "Toward a Decision-Assurance Layer for AI-Assisted Flight Planning in Air Traffic Management",
+  "url": "https://arxiv.org/abs/2609.13552",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13552v1 Announce Type: new Abstract: Generative AI is increasingly being used informally in Air Traffic Management (ATM) for tasks such as flight plan generation, trajectory interpretation, and constraint checking. Although these tools can reduce workload and accelerate planning, their no"
+ },
+ {
+  "title": "Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems",
+  "url": "https://arxiv.org/abs/2609.13559",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13559v1 Announce Type: new Abstract: Large Language Models (LLMs) with function-calling capabilities are becoming critical for modern agentic AI systems. Nevertheless, current deployments typically route inferences to powerful cloud-based models, incurring significant energy use and carbo"
+ },
+ {
+  "title": "A Hybrid Agentic AI Framework for Intelligent Supply Chain Analytics",
+  "url": "https://arxiv.org/abs/2609.13561",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13561v1 Announce Type: new Abstract: Efficient utilization of supply chain analytics for decision making remains a significant challenge for planners, as critical tasks such as database querying, key performance indicator (KPI) analysis, demand forecasting, and performance diagnosis requi"
+ },
+ {
+  "title": "Planning or Learning: Reliability and Cost in Multi-Asset Maintenance",
+  "url": "https://arxiv.org/abs/2609.13566",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13566v1 Announce Type: new Abstract: Industrial maintenance systems involve multiple interacting assets and shared resources, making it challenging to balance reliability and operational cost using a single decision framework. While recent work has focused on reinforcement learning (RL) f"
+ },
+ {
+  "title": "Causal multi-modal AI for personalized chemosensitivity prediction",
+  "url": "https://arxiv.org/abs/2609.13567",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13567v1 Announce Type: new Abstract: Chemotherapy improves survival for some patients with breast cancer, but doctors cannot reliably predict who. Current guidelines rely on recurrence scores as a proxy for treatment benefit, which may contribute to the overprescription of chemotherapy. H"
+ },
+ {
+  "title": "How User-AI Mistreatment Occurs and Matters in Conversational Systems?",
+  "url": "https://arxiv.org/abs/2609.13579",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13579v1 Announce Type: new Abstract: Safety research often focuses on model-generated harms, but users may also direct hostility, coercion, and adversarial pressure at models. Understanding how and when that occurs is essential for accurately interpreting model behaviour, alignment drift,"
+ },
+ {
+  "title": "FLoKD: Adaptive Knowledge Distillation for Federated Low-Rank LLM over Wireless Networks",
+  "url": "https://arxiv.org/abs/2609.13580",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13580v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated strong capabilities across a wide range of natural language processing tasks. However, conventional fine-tuning typically relies on centralized data collection, bringing in privacy concerns. Federated lear"
+ },
+ {
+  "title": "$\\tau$-Elicitation: Benchmarking multi-turn entity extraction in voice agents",
+  "url": "https://arxiv.org/abs/2609.13602",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13602v1 Announce Type: new Abstract: Voice agents often need to collect names, addresses, identifiers, dates, and times exactly, yet end-to-end benchmarks obscure where capture fails. We introduce $\\tau$-Elicitation, a 200-task voice benchmark spanning 10 entity types, controlled difficul"
+ },
+ {
+  "title": "Identity Is More Than Recall: A Benchmark for Persistent Identity in Deployed AI Agents",
+  "url": "https://arxiv.org/abs/2609.13637",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13637v1 Announce Type: new Abstract: Persistent agents need evaluations that distinguish identity facts they can recall from those they express and enact. We introduce PAI-Bench, a provider-neutral benchmark for fidelity to a versioned, update-governed identity contract. It separates reca"
+ },
+ {
+  "title": "Solar Intelligence",
+  "url": "https://arxiv.org/abs/2609.13648",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13648v1 Announce Type: new Abstract: Solar energy decision support is fragmented across dashboards that provide data without explanation, research papers are slow to parse, and general-purpose language models are not solar domain specific and answer without evidence. This paper introduces"
+ },
+ {
+  "title": "Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself",
+  "url": "https://arxiv.org/abs/2609.13657",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13657v1 Announce Type: new Abstract: Traditional recommender systems are typically trained to predict what item users will interact with next, but not why. However, offering personalized evidence for why a user might like the predicted item is an important way to enhance the service and t"
+ },
+ {
+  "title": "FedV-KGQA in Practice: Design Lessons and an Interactive Prototype",
+  "url": "https://arxiv.org/abs/2609.13661",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13661v1 Announce Type: new Abstract: Knowledge graph question answering usually assumes that one system can reach the whole graph. In practice, facts are often held by organizations that share entity identifiers but own disjoint relation types, so no single party sees a complete reasoning"
+ },
+ {
+  "title": "Cost Characterization of Vertically Partitioned Federated Knowledge Graphs",
+  "url": "https://arxiv.org/abs/2609.13664",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13664v1 Announce Type: new Abstract: Knowledge graphs are increasingly distributed across autonomous organizations that share an entity space but own disjoint subsets of relations, forming a vertical partition. Answering a multi-hop query may require combining facts from several silos, ma"
+ },
+ {
+  "title": "GeoSkill:Experience-Driven Hierarchical Skill Learning with Collaborative Revision forGeospatialAgents",
+  "url": "https://arxiv.org/abs/2609.13667",
+  "source": "arXiv",
+  "feed": "arXiv cs.AI",
+  "category": "research",
+  "published": "2026-09-16T04:00:00+00:00",
+  "summary": "arXiv:2609.13667v1 Announce Type: new Abstract: Geospatial agents are increasingly expected to support recurring and evolving analytical tasks rather than execute isolated workflows. In such settings, effective agents must distill prior execution experience into reusable geospatial procedural knowle"
+ },
+ {
+  "title": "4K remasters have an AI problem, and it's destroying the history of film",
+  "url": "https://www.howtogeek.com/4k-remasters-have-an-ai-problem-and-its-destroying-the-history-of-film/",
+  "source": "使い方",
+  "feed": "How-To Geek AI",
+  "category": "howto",
+  "published": "2026-09-16T20:15:13+00:00",
+  "summary": "AI remasters smooth and invent details on aging film, turning grain and texture into plasticized, unfamiliar imagery."
+ },
+ {
+  "title": "I stopped uploading research to NotebookLM, and my local LLM does everything Google's version promised",
+  "url": "https://www.xda-developers.com/stopped-uploading-research-to-notebooklm-local-llm-does-everything/",
+  "source": "使い方",
+  "feed": "XDA Developers",
+  "category": "howto",
+  "published": "2026-09-16T21:30:18+00:00",
+  "summary": "Google, we need to talk"
+ },
+ {
+  "title": "I used speculative decoding to make my local LLM feel instant, and now I actually prefer it to cloud APIs",
+  "url": "https://www.xda-developers.com/used-speculative-decoding-my-local-llm-feel-instant-prefer-cloud-apis/",
+  "source": "使い方",
+  "feed": "XDA Developers",
+  "category": "howto",
+  "published": "2026-09-16T20:01:17+00:00",
+  "summary": "It really made a difference."
+ },
+ {
+  "title": "Anthropic merges Claude chat and Cowork into one",
+  "url": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
+  "source": "使い方",
+  "feed": "ZDNET AI",
+  "category": "howto",
+  "published": "2026-09-16T16:30:44+00:00",
+  "summary": "From Claude to Cowork and back again – plus, Anthropic’s all-new Claude Docs."
+ }
+]
