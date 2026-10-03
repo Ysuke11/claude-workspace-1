@@ -6,6 +6,10 @@
 
 👉 [news/latest.md](news/latest.md)（毎朝7時 JST に自動更新）
 
+## 共通プロジェクト「Free」
+
+全端末から使う自由な作業スペースは [`free/`](free/) にあります。
+
 ## 仕組み
 
 ```
