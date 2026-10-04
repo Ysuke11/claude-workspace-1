@@ -1,0 +1,695 @@
+[
+ {
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "source": "Hugging Face",
+  "feed": "Hugging Face Blog",
+  "category": "official",
+  "published": "2026-10-03T22:56:48+00:00",
+  "summary": ""
+ },
+ {
+  "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+  "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-10-03T18:43:57+00:00",
+  "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+ },
+ {
+  "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+  "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-10-03T16:30:01+00:00",
+  "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
+ },
+ {
+  "title": "All the AI agents that can live in your text messages",
+  "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "source": "メディア",
+  "feed": "TechCrunch AI",
+  "category": "media",
+  "published": "2026-10-03T14:00:00+00:00",
+  "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+ },
+ {
+  "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+  "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-10-03T16:49:10+00:00",
+  "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the"
+ },
+ {
+  "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+  "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-10-03T15:00:00+00:00",
+  "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the cur"
+ },
+ {
+  "title": "An OpenAI safety employee has quit and is sounding the alarm",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+  "source": "メディア",
+  "feed": "The Verge AI",
+  "category": "media",
+  "published": "2026-10-03T14:31:56+00:00",
+  "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwo"
+ },
+ {
+  "title": "Anthropic’s answer to Dots and Muse is already inside Claude - The New Stack",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jMVNnR0YwX2pXNmkzbHFlQ09MWWVad1hSOV9wZjFtclR1Vm0tcGZORURNUTN3bFlCT25ZTlNRM3VTR3dtalhSb0czVHZmU0wxSDVvQ2ctVFZFQTdzdEVN?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-10-03T10:13:28+00:00",
+  "summary": "Anthropic’s answer to Dots and Muse is already inside Claude &nbsp;&nbsp; The New Stack"
+ },
+ {
+  "title": "Why Anthropic Invited A Hindu Monk To Discuss AI Ethics - NDTV",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYk1NOTlaYlNJY0ZwbTRPVE5TcnhlNlN1cVdXR2hLNmF6TnJmcFE2LU01TVV0X3hLWmJFRkFXWmNnXzUwOVEwbDB1bUw4Q2ZmNDI0WmJfWEgtUU81alB0X1RmMW5kNE9jQ2dleEs0WGdUWHVhR3hTbWZUS0s5REd0OUk2ZFlrUXZ4bFdkTFB1RnNkUlYtUGV5LVNKNDdoc2dUcnFDQVpBMTl1SzlVMFNVaExOQkxZbUNWN290VENsdlVjYnhDdmfSAc4BQVVfeXFMTW1WZldBRVVWM1cxYUxPaWJkQThHM0JZUU9ZcFhwMkNEczhQY3ZrenRidlA5NHI0TjA3U1FnMW12TnlBRFhDTjNVR05GcEVaZ2xPcUFuMldHdG5nV2RWOWZvZHRXUk04OFFDT0IxNFNGQjBzOVllU0RDVmUwVTF4bEUwemxPeWE1bnZpNzRlSUdiS2lVODVWUW5NN0EzS0o1Rm1IaEJwYlNjR21xbV9KSktyTmUtOGdOc1Z2TERBbVVQRk9RQXJha0tJWDczS2c?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-10-03T02:46:13+00:00",
+  "summary": "Why Anthropic Invited A Hindu Monk To Discuss AI Ethics &nbsp;&nbsp; NDTV"
+ },
+ {
+  "title": "Anthropic vs. the Pope - Reason Magazine",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1odUtiNkpuRm9oLVIxeTNZTnNMRnFYRkZrMWlSOGhndDdoYVBPOWx4ZjBKTDlfRXZoV21HcFBrYnpTbUpYUkt4akZLMGxFb3M0REhrVWljRkFhV2lPejNZMlZ3?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-10-02T13:30:02+00:00",
+  "summary": "Anthropic vs. the Pope &nbsp;&nbsp; Reason Magazine"
+ },
+ {
+  "title": "Anthropic flew Swami Sarvapriyananda to US for private Claude training meeting, Vedanta monk's video goes viral - India Today",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNlZLTjhPUExoQjR6UHJIaURxY1BRbTlIMTZaRXI4azZHelJOQUNoWm96YmQ0VURJWmpMSGItRzZ0OGduSWkwVGZmUTl1UG9xem1pV04wM01pNlNGd0VYM1ZfWUhlSzFJY0JuSWhZQjhPVnBVSVhQRGlHNG84b2hEWjAycmJ5OG8wMEwxR1V3X3dEOTRSYlRmTFFndnpremREaXR3UngxbzN4S3Y4VXFIZDNTeUhNa3loOFFLWjRlSXZqc0RzdG5LTmVOQTBLbVoyWVHSAdcBQVVfeXFMTzdrMGE3dTVLbWhqbWFqTFlGbFc0bHRjUmpVZHNST2NYM2JrZkpJVl9nb3JaajdfRXNCemQ4alVYXzJZWTRZZ25xeHpBS3RncExmR1p0RTgzbUE0VmtaclFkUG0zSGhJZnZKSEM3SndjQUNxbHNvREE0Nnk1T09NSzU2V0lIR2t4Qk5YdkdldnlKRkxrSEp3SVlDMjduN3RCQTJwUjJqLWhaUXRxZ2NSTllaVk5BT0ZXSDVGQ29sdXJlMFpqMVlTRVpnV01BUjBKRTRueWZ6YXc?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-10-02T09:37:10+00:00",
+  "summary": "Anthropic flew Swami Sarvapriyananda to US for private Claude training meeting, Vedanta monk's video goes viral &nbsp;&nbsp; India Today"
+ },
+ {
+  "title": "Anthropic invited Hindu monk to teach Claude right from wrong; company turns to Vedanta to explore cons - The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPelVYTmRsYjdmVWVCbFE2a0RhYTFFc2hySlZxV1N0LVpENWl6c2EyeFRpTTFFU29oNl9Gbk5pdWtCNDRrbHZqYWtjTmhsc3FjTGhfeTI1U3dBc1FkX1dpYm1XbUZyci1rS3dmbktpeUlNN09zYUsxUFkzYnJxckd0Y0dKUnkwbHR0b3hlLVJSRDZWaFBiVGtGSWpxNzRHcHEyQXJkdnpZTThJWHk4N19FcTJZeGpNQlBENWdwZi1vcWJreFZEbnU1TXVZLVdEXzBLMnVHbGlZSmlRT1ZBTDktZ1hEcE1qMVBkWU5zVXZjQVhFZ3NkS0lzVm1ILVNtSmhrMmxpWDlBb1otNUFJV01wcnBLck9wRnA0MDlZX1lhSEkwd0kxUnN2UGVvUzZCY2E4dkxVVk1vczdvWDlfckxrYTRQVDV3TjhPb0tr0gHQAkFVX3lxTE9USGNzRF9yX2E0LWhvc2YtNjVzM2kxVkY1eW40TDhLWTZ2RksxdWttWDl6TkhMcDJ0NU1XVzBJLWZHSVU3X1l2MXRFNWdvU282OXI3UW90bDNLVnFzRkdLcjZkR25zdk5TblAwRXNNWE9FT2NxNGVkTWprMUF3YW44VU9KWlgwNWtWM2tLM2VmYVZnd3BvcTUzc1d5VkZYdmp4eDNvT3hfdVg3aW95UDJWNEhJUnAyS0hBT1ZMVG1ZQlNXdUFaalBONU1CQWxDWWt3Z2F2TkFCTk9MeGNpNzg0d2lwUnBGSmNtRHJJSjlHaXNhSVFUNWtVbmlSY3hTWHEzSjdzYWh2TVN2bXJWcDlSODFKWXdSa3NlcktwR3ViWFNmMUNmRXRHTVZsclktZno3V1lHN2U2N3JrQWxSX2RqRHBXNjdGYWs0RWpGRFp4UA?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-10-03T03:49:22+00:00",
+  "summary": "Anthropic invited Hindu monk to teach Claude right from wrong; company turns to Vedanta to explore cons &nbsp;&nbsp; The Economic Times"
+ },
+ {
+  "title": "Anthropic will spend $100M to train 10,000 AI engineers - Cybernews",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1dyMFpjMzV4a1ByT19sZ20yS1pYdzFrLWF2STREVExubnJGeGg2c2I2QXdGcTdXV1JVVzV4QzJZbVE4SXR1LUJyRVpOa195QmdLaDRheVpkTGtFR3YzM0N6c2lhd0pIY0lhOXJfQURPT1NBcjgyZHJBcjVKdl9iMnBR?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-10-03T10:24:51+00:00",
+  "summary": "Anthropic will spend $100M to train 10,000 AI engineers &nbsp;&nbsp; Cybernews"
+ },
+ {
+  "title": "Why Anthropic invited Hindu monk Swami Sarvapriyananda for Claude training meet - Firstpost",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTmM2bUlEZzBTU2s1WTFOZG5ZUHJWZWFMR3h3d3U2NUpmdWpVNVFMTlBSU2YxbVdyc3hPYlREVVdSQ2N2NF95Z2IzVUZKU29mY2lSMjZYQ1RuSk11TmMtV084ekk5Zkh2ZzFKOXdJS3p2LUlWWDQ3VlFURGZPMGZpaGlCUjMybkJqQ0NjdlhKRGI3cGM3dHNrQTcwSU1VbW5BeTRKNk9DeFR1RE9vNkdJX2hkdHdSRlZHSWxOLVlJMmxybmtWSlg2T0530gHPAUFVX3lxTE13N2J5NjhnLXgwLVpJc0t6RHBLbHZrYUlCX1VaY3RZN3htUnU0QzhNSnJNTkJ1ZVVWZC15QzNPaS1TOE5xbUlrdmVMS01GY2JTd3VtTlh1dVBPSFNUUlp2M0lwMXZvWk40S3JfVzI0Q09rYmxGTHk4M2ZiUVJRLW1NRHVsMUZQRGYySnFMNFRqckxIQ2ljY1Q2UHJ1bnNud1NyZm13VFlNbmI4ZWZ2VUYtLXR1dFFGbm1yUnNJbExRUVEzRGRRYkhnVkcxeG5IOA?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-10-03T10:42:51+00:00",
+  "summary": "Why Anthropic invited Hindu monk Swami Sarvapriyananda for Claude training meet &nbsp;&nbsp; Firstpost"
+ },
+ {
+  "title": "Anthropic releases Claude Sonnet 5.5: Details, pricing, how to try it - Mashable",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXzZmVllHd3ZISlAtUEZSa0xkaExzZ1RfNl9LU2dGZUdiU0xNb1FLZlNlMldSc2pFWnFVbEhPbDRKbG50bXlNVVRqcEpOUEl0VTdhZXpabFg0N29fbXVMYlM5TlVSU1hDZFU1NUxnd2N3SzNVb0dvMlRQbmJtSnVDcQ?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-10-03T02:20:28+00:00",
+  "summary": "Anthropic releases Claude Sonnet 5.5: Details, pricing, how to try it &nbsp;&nbsp; Mashable"
+ },
+ {
+  "title": "OpenAI's Altman: Ascribing religion to models a \"safety issue\" - Axios",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG96X2d2YlZHeXRKVFZMamFsVklneUVYNzBnV3RJdWFndV9ONkdheE9IZktfQXU0dnF1b1BLY0VDb3c3TDk1RmUwaS1DcFJtYWNhVWZ2MTNHS21JbkE0SHVoV2lxMm1RWjNwSmJYZ0tOX054UE1mUTVCWFAxRGhJbDBfcHVWZ1ZHNXpRLW1pbw?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-10-03T16:05:10+00:00",
+  "summary": "OpenAI's Altman: Ascribing religion to models a \"safety issue\" &nbsp;&nbsp; Axios"
+ },
+ {
+  "title": "Why Anthropic Is Asking Religious Leaders About AI Consciousness - NDTV",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUU9vOGZOWG1PdUFCYk9TWkRQajMwbVNuYjZScWgwc2N1ZV9hM1AxZ3prSGdzZDlLUHZhaU5TY0JYd011M0lzWlVOM3FQaWI5UVp3eEltcktjT25LaGlaSnJodTZnOGphOEFjb1BfN1FFZmJzeGJyd3FjRzh6bGxHeUhnRzNKYVAzRlAzRXJPdVVaRzNpeldYeVFTbmtwQlZpRDhEUUFrMzJQQ0oxQlRpa1h2OTZ0OWdoemfSAcIBQVVfeXFMTTV3UjNMdDdpTElHalRiY3MyWGxjVHEyRG04emtTX2d4bEZrN3piUDhVRzhWU250LTUxQnlBbFBHU3UtLUdHRXZadk9TRTJkSHR2T0J3T1RoZ1ZucEdHZXlQSmsxWW5GbUI4S2lqOEhZQjZPNC0xeXA0RUhiLThWSzJoRnB6R05La3hOZkF1Mnp5OHlPNlFQOElFTTFfWDRXVV9MdGFJRExaWVJkODNHUkxvSzBVTUpPak5sZ2JickZhS2c?oc=5",
+  "source": "Anthropic",
+  "feed": "Anthropic (Google News)",
+  "category": "news",
+  "published": "2026-10-03T14:06:00+00:00",
+  "summary": "Why Anthropic Is Asking Religious Leaders About AI Consciousness &nbsp;&nbsp; NDTV"
+ },
+ {
+  "title": "Is ChatGPT Trendy Again? Not Quite—But Traffic Growth Is Back - Forbes",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMnI3bTlfcXBpWl9pV0lhVWdXY0NvQXBBRzRDb0hJcGMzQ0RBWHNtRFdac2NUMEx4UUgxYkJEaXRfN1poM2ZkbGN1WTk5RG1ieVZ1T3hRNHdPd0Y2dGZpLXpfbUZMU3JycWoyMWpFSkVGTVJabllyWVlMbXlKNVNHX0cxVzFrRzV2MHdKcXpaZWJQM0hpNk5UNWplR0VQbDRCR2NrRDAzWDQ?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-10-03T12:00:00+00:00",
+  "summary": "Is ChatGPT Trendy Again? Not Quite—But Traffic Growth Is Back &nbsp;&nbsp; Forbes"
+ },
+ {
+  "title": "I Quit OpenAI Because Its Culture Is Broken - The Atlantic",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-10-03T11:00:00+00:00",
+  "summary": "I Quit OpenAI Because Its Culture Is Broken &nbsp;&nbsp; The Atlantic"
+ },
+ {
+  "title": "The eternal complement - openai.com",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-10-03T17:46:27+00:00",
+  "summary": "The eternal complement &nbsp;&nbsp; openai.com"
+ },
+ {
+  "title": "OpenAI safety employee quits, says 'time for trial and error is over' - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-10-03T19:27:17+00:00",
+  "summary": "OpenAI safety employee quits, says 'time for trial and error is over' &nbsp;&nbsp; Reuters"
+ },
+ {
+  "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’ - The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-10-03T20:09:00+00:00",
+  "summary": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’ &nbsp;&nbsp; The Guardian"
+ },
+ {
+  "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ - TechCrunch",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0JlUHlOLTF6R21EV2trSHd6Si1Tckd6SXdDeXZIY1ZKRkxLZzJmRFNwamo2WXhYRTNTYWhJMWpDZTJyb01vd2NpQXZTaE9BRWxnaEFsdDYzeThJdDA0Y0RQcUhjTWlPYkx1c1NxXzRkcWgyRk54N0Y2SDJVY3ZYMUdQaEhEbzZEVkowX1VBODRsNHRMMTBPX3BUMHdwai12MUZtMVhwRVM?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-10-03T16:30:01+00:00",
+  "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ &nbsp;&nbsp; TechCrunch"
+ },
+ {
+  "title": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives - XDA",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVFIXzJjc0RvN3dZZXI2d1QyelMtbTMtZzhQWDZUVWtsSHdWYUtyanEtR0RHWGQ2NVg2YXM4Ti05eUI0R2RFZGxGWTRCTGp1V3QwZmJpTGREY3NfLUhxcWM5eXJTdUR2aHdhQWtYSjRTelVZQVZaLXJpSllUazhoVnB1MkZhUUtsZ1AxVm9DYmlqZ0wxNWVJcGZJZlJVNVExMHVDdjVaeXFJdTg?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-10-03T21:30:20+00:00",
+  "summary": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives &nbsp;&nbsp; XDA"
+ },
+ {
+  "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data - WIRED",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXF6b0Q4TTRYdTFnWVFQcHlZU0Z2T3cxOW9sdWlub0EzVnVFRVlXUmJMYm1aR05vb3I4cmdlYlJQQVdyMng2VnltNGRWMGJRSTlMZWNLSi1JYlpmZ0wwalVBWTZ5d3RQTDhvYVNIQklhQWNDVGxFUU14eTd2a2Zkek1Xd3pycHRnb1hzMDZnMkI4LU5DT0ZPX0xaWU5sd1k?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-10-02T09:45:00+00:00",
+  "summary": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data &nbsp;&nbsp; WIRED"
+ },
+ {
+  "title": "“The time for trial and error is over”: OpenAI safety researcher quits, says company culture is broken - calcalistech.com",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qY0hScFdXVWhVMnFRbVZ2bFVUYzMyOEp0djRNMkZUQ2REbDZRM0RLUXN6ODZYSS1CWExYZmp0bzctUTZEMjFGU0tBLXJyNUszVGVuOEtSdW9BUWZrdHZZNFR2OHhJQjQ?oc=5",
+  "source": "OpenAI",
+  "feed": "OpenAI (Google News)",
+  "category": "news",
+  "published": "2026-10-03T19:25:00+00:00",
+  "summary": "“The time for trial and error is over”: OpenAI safety researcher quits, says company culture is broken &nbsp;&nbsp; calcalistech.com"
+ },
+ {
+  "title": "XAI says Minnesota ban on AI ‘nudified’ photos ‘restricts free speech’; US appeals court blocks law - theweek.in",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcDBPSUFzaEdUdUVRbkVERnB4V2lFNmlVLUctRTdIdjNCTnNNRDRxY0xuMmZ3a1NTOEwwamFPeHhMUmpKaVZpaXV0ZnBjXzhMYmRIbTZGZjRmN1J2VDF0QWJUNG1KZ3ZKMXBPc0RLS2FEOGszN3d5eXZuRFlqSUhFQ25peVFXTFdLbi04SXlGaERBVWFUYnBfR0UzQWNkMkNSd01rNDkxblc3OVhUUnZFb0lIOFF0U3VUT0x3Mm15djg1eFRrSGcybGVyZGdUNkJlMTFuNXVmQ2pzM2xNYkRFUGZ0S05oaGVnMzBwUTdMVE9MdlnSAfgBQVVfeXFMTWhMRDRpMVlvNTNhbFFsN3BfUzBlV3dXdWtacF9oRVUxYU9mem9rTmFZNmgtUEU3Nk9ESk02R1lJeDV6TzVlVW1aeWZLbGdQV3Bacm5IVmRuN0VSVWdxdjRLeV9kOUdtOTVoRlJrQ1lUUGxkRW1GekVwTkZzaXlnTlJ3UloxQ1hXakJ0a3RWN3dkNTFGS2RBSzVaMG1ReW9jZzl1azdJRVJvQmFLWnprZHc3ckt4T3dpa2RvT3RHb2FWSFhRQnlhWFJ5ZmVMVng5eklpNXduTlE3YnBxZUFwbXFUTHRwRkt4UE1RZEdaNGlEeTRTakphdkk?oc=5",
+  "source": "xAI",
+  "feed": "xAI (Google News)",
+  "category": "news",
+  "published": "2026-10-03T10:43:13+00:00",
+  "summary": "XAI says Minnesota ban on AI ‘nudified’ photos ‘restricts free speech’; US appeals court blocks law &nbsp;&nbsp; theweek.in"
+ },
+ {
+  "title": "Elon Musk, entrepreneur: “There will be nothing that AI cannot do better than people, except, perhaps, for being human” - MARCA",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSDljd2h3ZUZlTk5aSjVSd0FSSFZZVGVKRkQzcDg5a0tZejNHbVhCRm81bXJybnV0a1djeWRtWGt0Mm5NMjhxSUFXUWV2SVp0VmtJeWxZTktqaEJ0dnI2ZXk0ckhWMFVHQnU4V0RZRmdGTTgzXzJoR3BaUVJGYzlreUJxTEFhTEVlcm54dlU2eE1GMjdUTER3akljbXNuYkdkQlNOTkVXZE13T0c0RERRaDVCNFFtOGZsbVdNc3ZOY2hRcFU2TDQ5alRTS0Q3dGx5d3F2VnRoTzhIMUZadmtnU2dDM05ocU4tdWVpN1B0RDZueGZvQnJz0gH3AUFVX3lxTE0wMmRZeV9Ob3llQjdnN1NTUTltRTlIU2FyVHFnejdKeW5vVkJRMFZ3akVIRmRwbDZxM09taHVDLTQ1Z0xXaE5ndDEza2REcVNhZDF2OW1qYWpodXlCaE5Ja3p5dE5BV21fbmh2OG5Kb2J5Sm1BVHczV0RnQzdfRmR6NlhiNTVQbmh2YzZXYktoOVpFV3owQ2tKVms0dnV3WVRqSGdLNFlnVHZ1WWpPSWFneDJTSVdLVUpPcUp4YTlRai0yQ2pYaDZQaXh2OWtITWRvbHBfQ2pkTlJ1VEU2am5XZHhGdEFNaUsxS09nNmZSVmloWDR4ZGM?oc=5",
+  "source": "xAI",
+  "feed": "xAI (Google News)",
+  "category": "news",
+  "published": "2026-10-03T21:27:15+00:00",
+  "summary": "Elon Musk, entrepreneur: “There will be nothing that AI cannot do better than people, except, perhaps, for being human” &nbsp;&nbsp; MARCA"
+ },
+ {
+  "title": "高市首相がAppleに要請――「自殺防止機能の搭載を」　生成AIへの相談増加を受け - ITmedia Mobile - ITmedia",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95ODlPREQ5cVRiY2gwc2xKTHNnbDk1RVFLOVJTcXpHU2VTVW5FbFJmWmtKcFJUeV9PQ1lOZlZaRWhlNjNDeUJPY3pNVnp1WXEtTUdDMk9HYWthZ3N1MThRSDJLN0c4bllDZHlCNERKVdIBaEFVX3lxTE45SmVRbUp5UjFqalpGVXlSbFJaVXJ5NExpWUxlNWh6ckZCb1lUMG94clBZUnJNR0dHb2xubGVITDFpX0xNYzhYakt2NVI3a3NlbEpXYVZScTlDa1RMRHdEemd2eTcybk15?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-10-03T08:38:00+00:00",
+  "summary": "高市首相がAppleに要請――「自殺防止機能の搭載を」 生成AIへの相談増加を受け - ITmedia Mobile &nbsp;&nbsp; ITmedia"
+ },
+ {
+  "title": "生成 ai 画像 生成 - oita-trinita.co.jp",
+  "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxObmYzTUNxdjB2enlrOGt0c2hOUnQ4OHJocTN1ZjdRcHJGOEFvc1hZczkyZHlKVGhEU3J4UU9taDU1QnJwSURNeGF5a29qb0JEbHlRZi1PWlFnNnlpUmdtZVExWHpLNFpyVTB5bFFqOU5HX0ZsalBPLVAycEI0TFFkVHJYS1E1eER3SHF5Q0I4UkwzSUpLMGRDSnRIbTNIZncyY1dGVmN1a2pHTTZNWXViRUNnMTJTWHBxVzFmUGJONXRnLWVxamZYWTJNalo1NW5zZGVkWDdmYi1TNm9qSkQ0a29PR19MZmRZQ1p2SmE0R244UG9oc1ExX0g4cmQ4aHl4QzMwSEdKRlpEbHdUbGFSYzZWT0JZNkh6ZnZQalNVc20tYWVodmxfaFNURk5Sdw?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-10-03T05:16:57+00:00",
+  "summary": "生成 ai 画像 生成 &nbsp;&nbsp; oita-trinita.co.jp"
+ },
+ {
+  "title": "生成AIが選ぶ「結婚相談所」、1位はIBJメンバーズ（言及率100%） - PR TIMES",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82MEpvN2Z2QXJiLTFlX1V6NUJEeldHUVVMbGxLcjl0SldWZUVlTHRta0hNRy1MbG14amJHcURPUHBsanF2NFJPd0QySFBHX3p2NjNrY3EwQlY0eDljQVZIMGxibWhEZ0xZMEE?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-10-03T03:00:01+00:00",
+  "summary": "生成AIが選ぶ「結婚相談所」、1位はIBJメンバーズ（言及率100%） &nbsp;&nbsp; PR TIMES"
+ },
+ {
+  "title": "生成AIの利用経験、中国9割超え 「秘書」「友人」の存在 - 日本経済新聞",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRWThUcXE4b1A0aTRuNzZ2NHByVVR2Z0h4UnBXRVBkc2xTSTFkSVZMcEdhVXdHUDhZV08wMXIzRUhaUm1CMTFCLUJma1dINXhXMml6V1ZKa3B2V05XSlpyZXhUZ3ZzeUoydzFOVw?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-10-02T02:30:00+00:00",
+  "summary": "生成AIの利用経験、中国9割超え 「秘書」「友人」の存在 &nbsp;&nbsp; 日本経済新聞"
+ },
+ {
+  "title": "画像 生成 ai - oita-trinita.co.jp",
+  "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQN1N1Qi1uYk42czhiS05KN2JZdWllcWFSNlNLT2dSNXQyRHphejhtdjJsRjVmdFYtc09YUUhfSzVGMk9tNXRRajJUdnY4S0tkdFlaaUhUMjBsUktOUTlpLTh5eTFSVVRGaVg0UnJFcTdSVkFEX2s1ZTR0S29IbVVzdU54VzNFZ1JQTjlGVVN3QlJ2M1JuMXlRbUc5ZlU1Tlc1ZGVVLUw2ZEZzdVQtazB0a0ZZdTlSTzBiZUZYSVZ6RmlxOEJfMnJUZUg3NmxDMkRqamdQUUdQbXdPaXdLZGh4VlJmMzhaa1MtRW5VQVM5WFNiM1djbENyZ1hQM1UtZmczSW5xMm1zSzRjdTZJcnZNYjEzVTJHQ1k3MXY0R0lxQlNPOFY2N093QVFn?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-10-03T05:16:57+00:00",
+  "summary": "画像 生成 ai &nbsp;&nbsp; oita-trinita.co.jp"
+ },
+ {
+  "title": "エロ 画像 生成 ai - oita-trinita.co.jp",
+  "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNT0JkZUVQTmE5YTBFV3pDeWtNY09wTnFXc1pEN1dRNEtIM0xRMjVnRG5ZeGlvS1hJQ3B4ZGJqUTllbm9UM3RYRFNjXzFTMmdCVHlwSzNCYVhrTEFxRXlqQ25idFNVSWY1Z2JweWFHMC1rWFpYZVh3V1ozRVFQMnlpYzBhVXFDbm9JSi1lT0NHa1JpeVdYdEJwM3U0eFFta0pHVDVzdFN3eVNMZ3pGTFJkdi1lMmFqU3FpRG16a18zbUd3dkdEYnM2WWRDX0Y0NGFwNGQyd3RSUkdoaXgxSGRwXzZGUWxBanVmRHJ6Q3pDZWl3NTUwVWpveEp3MEppUFJfSVlyU1J2RTlPWGNNYWt5Uzd2blhOc2xwWm9ERWt4MUt6LUYwQVBvWllwaldOVEE?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-10-03T05:16:57+00:00",
+  "summary": "エロ 画像 生成 ai &nbsp;&nbsp; oita-trinita.co.jp"
+ },
+ {
+  "title": "エロ動画生成ai - oita-trinita.co.jp",
+  "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOdEFYWlc5V0dlX3RTZnN5cFJQaW16cFdMZFZyY2RKY254VXJZVHFnOFdVWWYzUGNEMk9lb3JzN0c2US1zVkg5dEZfTXQ4Wk1MWG4wc0VQTHU0cVBtMmJVNU01VG4wX3dnZy04SG51S0hlZGhfMWtDUG1BMUd1QWpRdTRuZ3NCLTR0OF9PS25fdWs0a2tETDU1bmE1Rjg0TURfSVFvM0JLdmtYX0JrMHA3SVRvZXZvaDdEVmJvUlZoencwQ0lMYU51S1loMVVjdmJtajhiNm9FemVNa1k4LV95RVI4Z3JyS1NBUmN3QTRLTHdmTmxpclJhcHZhODlqN0xPTnVZSXVGQW9SNERLenRmTjZkRnA3NndBZVVrTFJ3NzRyVmRTZEVNQWVOVTNyNTV5?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-10-03T05:16:57+00:00",
+  "summary": "エロ動画生成ai &nbsp;&nbsp; oita-trinita.co.jp"
+ },
+ {
+  "title": "画像生成AIおすすめ比較【2026年】 - oita-trinita.co.jp",
+  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOU3pvMjBTOE4xX0pFZWF4SjBwa2JtWC1faWZ2MTJKcC0ydlM5emtWTDJHV1dxcjM2TXV6ZHdHejRrblJqaWtISUJzc2tjOWs1MjJZMk9LTXIwQmtyVHd5VkZYenlPM2ZRYXZUR2Z6TmtndkkyWXJUMVgzUDFfVThXeVN4QjM1T09YOXIxd2lncTdlRm50WGtMYjlVVjhCaDNLZ1pwYXYtd1VuRUtBd3hCVXNSd0xtNE9sbExnM3lNOERUZnVNS0xJUEl2eTVzb2FYZG1VbzJ0Si1ablhPTWp1WTRaVFVJWS1kYm9TVENwN2U2dXY0Q0RlaFNaaWJ0enhwX0QtT3A3cmh0bTJVUUYtdjVlMWtMaHBOYnZLQ05WZHphd253TkJSWXBPMDAtc2RIUXVRZkRyOTJ3bVVfaV8zSA?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-10-03T05:16:57+00:00",
+  "summary": "画像生成AIおすすめ比較【2026年】 &nbsp;&nbsp; oita-trinita.co.jp"
+ },
+ {
+  "title": "科学技術振興機構理事長（71歳）の働き方が劇的に変わった！｢音声入力｣と｢生成AI｣がもたらす驚きの知的生産革命 - toyokeizai.net",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fUU5HVWpiOEw5SEFNc19WSi1tNmtFTTUxY2NFc1M5ZjNmMDBBVEZBelFCWEhSNEVjN2VuNHFHa2NSajdwTndBempsT1ZMdXMtM2c?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-10-03T06:02:25+00:00",
+  "summary": "科学技術振興機構理事長（71歳）の働き方が劇的に変わった！｢音声入力｣と｢生成AI｣がもたらす驚きの知的生産革命 &nbsp;&nbsp; toyokeizai.net"
+ },
+ {
+  "title": "生成AIを使ったオンライン詐欺/JFC記事・動画や関連記事【今週のファクトチェック】 - factcheckcenter.jp",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NdmlyNE1JZDQtZ2pIMTVCUnpGMnk1SDhILVNxZUg5VkNDVk9kXzBVVkZWendPZmZiRGJDWWNSeUtndHVDSGt2OEoxTzlPY0VIek9KekVzVUZXUXdkcXBnNWJjdE1xaDN6dzNSTEs0RXBlVVhTRWk1R21B?oc=5",
+  "source": "AI業界",
+  "feed": "AI業界全般 (Google News 日本語)",
+  "category": "news",
+  "published": "2026-10-03T22:25:35+00:00",
+  "summary": "生成AIを使ったオンライン詐欺/JFC記事・動画や関連記事【今週のファクトチェック】 &nbsp;&nbsp; factcheckcenter.jp"
+ },
+ {
+  "title": "OpenAI Vs Anthropic: Sam Altman Takes A Jab Over \"Religious Force\" - NDTV",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcExYb3hQYWZtNUtZS1JtVGg3bVVMTVphWEpLSlQ0Y3dWQ1UxZk5OMkdrNGpucEFwZ0pYaU1WLXgya0xkMDBWb1l4MEJSZ1IzbUVlX25Pc3BXV3M3Z3hGUVc3U29fSkJxMFJNNWlxeDlXeXlKLUhpaWx1N0ZFQXdlYjE5N1h0a1R3UU9XMjlFYk9qa0Fkal9GOHlVZVFzRU5RSGVVdElISFZoR1VrMUFMbWoxQXNUMDVi0gHAAUFVX3lxTE40Q3c1N21GMmF4Z0NsdUcyOXFNMHgxTzZZYjBBUEtPQ25pTGEybTk1QkZ3RFpkN1g3ZUlnMWJoc2ZrcGxxRVpmdXZfdEZuVlB1RDBxdGE4V0JaQm9qekpKT08tLTRlSTV4VVBfdTZxeGh6Y3ZfMG5Jc0RxbTZuRW1VZmF6VDgwTHZzVVNmZThKOW1qdnViaVBweFZqRUNHRkdZWnhqSWx2cVBGTnlNR3JWTHJwb08zNU9kTnRZMnhxNw?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T16:29:08+00:00",
+  "summary": "OpenAI Vs Anthropic: Sam Altman Takes A Jab Over \"Religious Force\" &nbsp;&nbsp; NDTV"
+ },
+ {
+  "title": "Meet the new movie villains: Zuckerberg, Musk and Altman - Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oRTFKQXp3Q2VaQUlZS0trRENKUmJ3VW9rT3YtSzFocm16eVpaOV8wMWFLdHc5bU1QUnBVTFA3X2QtTkx6bFlxQmprM1dQYXRxZHdxX004QlRYMzJXWXhYcWZ5M3BkQzhNWlJHZmJRby0?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T04:00:20+00:00",
+  "summary": "Meet the new movie villains: Zuckerberg, Musk and Altman &nbsp;&nbsp; Financial Times"
+ },
+ {
+  "title": "OpenAI agent hacks another Australian government system - Cybernews",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHVzcnJyeTJ2N1doR0F0cmtCUGV1Slh5OUZFTVpEV0JxdnpIVkxzTjJpNG1vM2FMNUlVc3hhTmo5WmJkb293amJQUms3N01HUmRxNjRfZFNETkNFeUJMYUtmS2RySk05MjFLQkZQN0N3WlBZM1V0bC1MRlIwaG5jdw?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T17:23:46+00:00",
+  "summary": "OpenAI agent hacks another Australian government system &nbsp;&nbsp; Cybernews"
+ },
+ {
+  "title": "Sam Altman: Don't Treat AI Like a 'Religious Force' - Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeDNqM2d2WnBUNWcxb1Fwd0RQUnJ2SDZIdFFaUE12YlFiNkNIWUl6U2taNjc0SEcxY2x4amVJN3pHUVMyUDFuR3R6RjJmcms1WVc0N3RGSS1WZWN2dnNfWGZFUzdNekNuVms2OW1KOHFCbE9yQ0dkX2o0NEIzblFTUDBMQWVyLXY3Nkc4MUNBOGY?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T19:45:00+00:00",
+  "summary": "Sam Altman: Don't Treat AI Like a 'Religious Force' &nbsp;&nbsp; Business Insider"
+ },
+ {
+  "title": "OpenAI CEO Sam Altman Reveals The \"Strangest And Best\" Part Of His Day - NDTV",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnZSNFdiOUdGWWpkYWxGZk9rT1VMYXJGX0RNRjFleUxRWks4a2pGbVpfZ3JuM2lSZkZkQ1NLWG90ODNuVC1WU01wZVBjVTdUeUFwNXBpaWpLdFNoRHJqRURhZU55NDdrNF9JeEZMa1JyS2F1ZkxRVGdtcmVYR21aa2thU0pHRVVjRHRFRXVSc09nWF9VVHRSVzNvS0tKdTlmb2lCSVgyajk2UdIBsgFBVV95cUxQeC1NXzVjdWYtNGEyY2hZMDd3NGlWRkhmZGhEaGRBRDB5ZzJoZFF5YVpFanN6Z3lqSnAySS0tSGROUHc1WkVDX0txZU5tTmVxUDl0N0x2SnF5aVY3VDdVV25YRFRGZkMtZmRXOGR2SHRHUldFd2FwSm9JS2dOZHhyM2FrVHRmbWVpNjg3Sm1ReExyQjFHUjVCb19ibTA5VFQ2RGFfRG5qRENGX0NRVnphODR3?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-04T01:19:17+00:00",
+  "summary": "OpenAI CEO Sam Altman Reveals The \"Strangest And Best\" Part Of His Day &nbsp;&nbsp; NDTV"
+ },
+ {
+  "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore - the-decoder.com",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWlpemt5Yy1HUkxfQkhidW9ib3BCRlFCdE1zU0RIQzRPTG84SEM4NmNNa1RUNVVfTGpoMjRrMmY0WTJRdkhIbERYZ1YxQjRxQnByY1I2QlRSOXVlbmtLcjJTMVlnUHBZOHZDOE01V0ZmMVJkMUgwRVliTnBJbmVmRmdQcmg5YThtaEU5amhRajBQVFdWemZtR2VURnBMR3NQN0pZ?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T19:26:24+00:00",
+  "summary": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore &nbsp;&nbsp; the-decoder.com"
+ },
+ {
+  "title": "Sam Altman Discusses the Development of Artificial Intelligence and Its Impact on Daily Life - Nacionale News",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdibHlqZUszbGxRb2tzVTE4bkxWUGFWcG9PdXZNS3lwQkh4eHpUX1dOTjN1OXRHaVg4eXpnaTl2c0JjTXFsSFFqY0tFaFlIMkJXSTNBUmtTMFVTQkdHY2trOUp4aklKY2R0cHpMeWpXOEg5VDlNa0QwVU5RVGlJbTR2RUhwYWNKTUVBelNzVVpQMy1vZXc?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T02:21:53+00:00",
+  "summary": "Sam Altman Discusses the Development of Artificial Intelligence and Its Impact on Daily Life &nbsp;&nbsp; Nacionale News"
+ },
+ {
+  "title": "Luca Guadagnino Is ‘Not Afraid’ of Sam Altman Backlash to ‘Artificial’: ‘People That Have a Lot of Power’ Should Be ‘Aware That You Must Be Responsible’ - IMDb",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZSFBZNS1SMXZuQjUzRllGN2l5RzFUYjB2UDFxcGxrakZaSndTTnRXQlVtbTdpbEt1Y1FkNXJILXpWSUlhVkluNlZBNlMtVVVSMVRMWmFwdUFsbjVNcldaMlRkQ0FVZzdoV3c?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-02T14:13:24+00:00",
+  "summary": "Luca Guadagnino Is ‘Not Afraid’ of Sam Altman Backlash to ‘Artificial’: ‘People That Have a Lot of Power’ Should Be ‘Aware That You Must Be Responsible’ &nbsp;&nbsp; IMDb"
+ },
+ {
+  "title": "If AI Is Crashing, The Story Should Be Jail In, Not Bail Out – OpEd - Eurasia Review",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjRYYmNrRTRieTZwZGg0ZzA1MDY2Q3dFSWt2UDR1eTFleG5TOHRMRm1vejFyTHFQRnpYRkpqTUplQy1UcEpqSEFWQXNaamVremhLOEFFQ2czVldRVjdyaG9BWFFMVHUzR2t2Wk56anctYi1sczM4RE1UM1BiejdCNm1nNTU4dThJR1VkYkRwNjh3SVlXQUU0a0JKS05YSzlGeFhjU2ZR?oc=5",
+  "source": "著名人の発信",
+  "feed": "Sam Altman / OpenAI経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T07:30:01+00:00",
+  "summary": "If AI Is Crashing, The Story Should Be Jail In, Not Bail Out – OpEd &nbsp;&nbsp; Eurasia Review"
+ },
+ {
+  "title": "AI slop is coming for Hollywood. Some of it is already better. - Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0VlM1NqeDRadjNZVGJHMXZJeGRGXzdrNUtaZmdJdGJXUEpwMGlXc1V6QWRlNHgyTmFIeHMzWlhORnZnMW0taF83YklKUW11YTEyR2NfQnI1UlFYUTBmSkJ5bFJudjZ5MGdFN3BTSWJFVEdGUERYRDlnUXdVR3FHYmVTTWxmVFpPSUlESV9WV0VMVmFGT1E?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T09:30:14+00:00",
+  "summary": "AI slop is coming for Hollywood. Some of it is already better. &nbsp;&nbsp; Business Insider"
+ },
+ {
+  "title": "Dario Amodei's $2 Trillion Bet: Inside the White House AI Theater and Anthropic's $500B Debt Bomb - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXSUtjSlU3N19ZLUZfcHp1N1NmMXI2alJBRkItMWVrM2FSOEQwb252MExGUjJfNlhGampoQnVZcE4xbXZ3WUZnbUU2U2VzMlpUTjJpRDJjVHdKbWM?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-02T21:08:00+00:00",
+  "summary": "Dario Amodei's $2 Trillion Bet: Inside the White House AI Theater and Anthropic's $500B Debt Bomb &nbsp;&nbsp; finance.biggo.com"
+ },
+ {
+  "title": "Anthropic's Dario Amodei: AI's most visible CEO and enigma - The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQzg3ZkFJdFl1a29jUmc1ZEtKc0Q5dkw5R1FRMXRpRjVkX1RSa0pVZkZ0dDF0WVZmUnk0TllQYnRNV29CRzZnMDJJemtsTDk3UjBxLWotclRoczlTXzh3alZ0YlFuR0RuckFIQU9aRExVeDd3QkJ1ODdmaXEwMEhYZFNZVUFRNXIwVy1UMkZ5ZmZzdUxIZG9nX0V0cE5ZdDVxc1lmbzhlN2JGanRVLU5nYTFyUVZNQXNkWjZKMml6SWpVMmdrZXZzR25rRDdUYWplT2dNQ9IB2gFBVV95cUxPVWFNQm9mcVVRRk04THhiNXgtclVCdUJqbHNtSzhCWEpOVWVQS1ItSUFpczVFSkdneDZGUTNXQ2NiR3hZRmJlRHl1d2xWSE1mb0NLSHpmTWpEWURRMHdLcFFDVFJzZzF0TkJsZ3BRY29ZOW42dzlvVU5XTXJrbE5POVF6em4takR2N3dvVmdqUWUwN1VuMGViYmFRQlc3SG9VblhjNTMyNXNCQmluUkJzaHJ4aWtpWUhZbG0zckVjWDdLM05fSE9NVjhfajNEVnl5NFNhX3l1TW1aQQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "Dario Amodei / Anthropic経営陣 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-02T02:36:04+00:00",
+  "summary": "Anthropic's Dario Amodei: AI's most visible CEO and enigma &nbsp;&nbsp; The Economic Times"
+ },
+ {
+  "title": "Godfather of AI Yann LeCun does not believe that AI will kill humans; 'blames' humans for AI Agents hacki - timesofindia.indiatimes.com",
+  "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOazNWRGJLVlVMbXpWeV9VRUp5bU83QnVuOTdlcG1ORFlKZXZ2NkdadW9fNTNZQkJLVDJpaDFsU1hGSDJtdlFrNVMzYVlFZ0ZTWXVyeEcwTnZwczJmRVlKSDBzZGNSN1hRV2gxUWFZYUp6UWNrU21LOUdWdVBvQ2tuVGZQXzdPeXQ3MDNEblEzd1Bab0hOb0VZWXNYWHdBVE1IdnBpVWN4UUtrMFBYZDZ5d1NOa3c3MEhGREN5MGJCY3U5STE0ZGt1LWlHdHVkZk1mM3VCSDFFZndlalpLcEFfY0RiT3lkM01hUUFjNmotcFE5aUpHNFgzbEV4OW9leGp1c2xULVFaY1p6QXIwdE9rUS1yYXdzRnRtMmMyVlBRcThFdWhTSkl5SVVNLUd5OXlvanJwLTVWR2FkRm10d2NXYTdIcVZRa19DY2NwLWpjRzhqN2h6LVRjcGZqWTBOenpsR2Q5VXpBMlFFcXk4VVpnMTc0dVNyNkhZczBnZzZLYThJVmxwTVlXbWZ2NEg3QdIBkwNBVV95cUxNVFdmUk5BWjBjbU5aVkpsd1BzMi1Wd3BXRmtMU1lTTUwxTUVJRlcydTNJWGROV1l3Y1hCLXpzbGlzUDlQY0tFNG56S0JsaGQ2SnY5azVqRXdBbHg2b2x4a2lWWmNuQnZuRUw1LXBBVHpvZnBjZ1hkVDZDYkVnbVRMOHR5aTd0dGZVZGx4ZGE0ekVHNERwbUxuS3NYZEFSZlh2ZmZYRFFOZFlRdTIzMU5jQkdMdU9fNWdaeFcwTl9RMkE5eTR3M1ZPQlFUTTd1eGpjTzhqajJUb0xRR3hIMkRXdUdZN0dIcURJbEwzLWxoODJjb3NxUUJFLURXXy00ZEhuLTJldDdSSVd0c093eGhzbkJhTzc4emF0OU9xQ2ZBb2RZejlLcHZtT3pXTzV6cUVncmxfX1MtVmFBdWFpd05ZSVZldXVXby16a0NoUXJJTU41WnV5WXpLa0RNVnlSN1Qzdm9qandHRGs3OU82ZmZtZURiMElPM2R0d0NaN2tHN21UWGI5QUltZ0EtTkUyTEFrNVBV?oc=5",
+  "source": "著名人の発信",
+  "feed": "AI研究リーダー (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T06:24:00+00:00",
+  "summary": "Godfather of AI Yann LeCun does not believe that AI will kill humans; 'blames' humans for AI Agents hacki &nbsp;&nbsp; timesofindia.indiatimes.com"
+ },
+ {
+  "title": "Yann LeCun Calls Elon Musk’s xAI ‘Kind Of A Failure’ – Casts Doubt On Ability to Compete Against OpenAI, Anthropic - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMThxaUdIUktLbHFnSFpua2NmeHNiNFhHQ1pEYlBEcmNrUEY0cHp0T2pUWWw3MFZROHVJRWpzcHp2TGhlTUFzRjZpb3VKaWwxZ1ZNdVBjUXBINUhSUmVYM2hKX3BQRmRDVmM1ajdxLThOdS1kb1ozdGJGNmlSd0I4bkpLMUowbGgwVTh5QXBlOFFybVdSNkVZTmNPVW1HZTFITElPMUVENi1tM1E?oc=5",
+  "source": "著名人の発信",
+  "feed": "AI研究リーダー (Google News)",
+  "category": "leaders",
+  "published": "2026-10-02T05:13:08+00:00",
+  "summary": "Yann LeCun Calls Elon Musk’s xAI ‘Kind Of A Failure’ – Casts Doubt On Ability to Compete Against OpenAI, Anthropic &nbsp;&nbsp; Stocktwits"
+ },
+ {
+  "title": "Elon Musk Said SpaceX AI Revenue Would Pass Everything Else by September. Did It? - 24/7 Wall St.",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjhQc3RmNFdXZVZwS25TQXUtcE9Pb2VibnVRYUU0MkZsbHpMby1VQjM1eEM3RHczQ2JNWi0tLWRfZl9RSjMtX2VJMUdhQTk1UzV2dEJOVFQzRHNka3BwakEyUzFZWVQ5dkRudDQ0UmtPakNwTzhEWno1ZTd0aUoxckhldmNWZ0pBb1lrQWtQOFFUcUJfZTZBRkdSTkgxSGxYVHZ2UzZzQWUtNFd5b3N3Z0l1R1h2a2FRT0VJRkhrWXA?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T21:00:00+00:00",
+  "summary": "Elon Musk Said SpaceX AI Revenue Would Pass Everything Else by September. Did It? &nbsp;&nbsp; 24/7 Wall St."
+ },
+ {
+  "title": "This Week's Top Five Stories in AI - AI Magazine",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdWNyOE5MT0l4VHZfOXc4c1JONWI5T2xDZ1F0VTdMUUhoRHpsRTVYd0VkUjNvVGN4S3RSQUYxd0FIUEM1X3Y4QUlZd1FaNU12SnBnYkxTQlpId0pjN1JkY085em5WSmoyRFlIdDdIQjFrNHUxaW5TZ3V6WnFtaG51VnVn?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T08:08:14+00:00",
+  "summary": "This Week's Top Five Stories in AI &nbsp;&nbsp; AI Magazine"
+ },
+ {
+  "title": "Global tech policymakers agree to embrace AI in science - NBC News",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1Z5aDNBWUxWX1NCcXQ2dXJQaTBkSS1zTF9QcUdqZ3dxQjhzaXVZYmMxYTZLTV9xM2JJLTNfTnk4VkdCTjVWNWlFQjhoN09CTkJOWERIQ01ZdE9PRUhnY3RQdGQ1WGhLZTJTS3p3X0JYVnROOFAtZC1tVl9VQWZjOTZidVpuVjBOZWpmeVQtNS1nRl9JaXRGaA?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T13:00:41+00:00",
+  "summary": "Global tech policymakers agree to embrace AI in science &nbsp;&nbsp; NBC News"
+ },
+ {
+  "title": "Elon Musk’s SpaceXAI expected to testify at City Council AI hearing after subpoena - amNewYork",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1LU1ydHY5aVZyRS1WZTQyckp3QWxHc1NJdUVxLXhSajdrWkdDN2t0MjZ6Y1lJR1dkQldzQzdNOFFxZkM3dGFNYy1PRGJ0RUNUWnRFMDg0eUVLODhoQTlhT3lDcnBOUHpZaDVzWHh5MVZaZnQ4?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T12:39:19+00:00",
+  "summary": "Elon Musk’s SpaceXAI expected to testify at City Council AI hearing after subpoena &nbsp;&nbsp; amNewYork"
+ },
+ {
+  "title": "Elon Musk Grok AI Predicts a Wild End to 2026 for Bitcoin - Cryptonews",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQnB6dGRldTJQQ2Y1eDJ1NmpoSzE2MHB5NmFDcERxY0l1NU9PRnFyZk1wM1M2dlZqSVVXSXVnekdHcktJRmhSdTd6bWQtbnAzM0ZjNnZWZjRSQnB2YVE1NVRkSUlyVExtZFU3TmdTcm5pTEcxZWtrYjlPd2wyLWsxTkVwRmNDd1ZwTDlkdWs1VQ?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T14:00:00+00:00",
+  "summary": "Elon Musk Grok AI Predicts a Wild End to 2026 for Bitcoin &nbsp;&nbsp; Cryptonews"
+ },
+ {
+  "title": "Bernie Sanders Slams Trump’s AI ‘Oligarchs’ as Elon Musk, Jeff Bezos, Mark Zuckerberg and Jensen Huang’s Wealth Tops $1.7 Trillion: ‘You’re Asking Us To Trust The People…’ - Yahoo",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONXhFN1pwV0xqNUpNWE1hcV9TOFVoQ01CQldzcGdhNERBLWdSMElTa2FMTmdQWkNVTW5LR3F6UFVtMEh6YlhENm1EQWpFeEpHZ1JQSzNNV3BsSXNFWkN0OTZXZ0JmUmpJbEJKOWpaMVluRDcxTUpXWk1HWE9OOHJwX1dmN2VNc1E1VUxBeEtmZU9aSDg?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T01:30:00+00:00",
+  "summary": "Bernie Sanders Slams Trump’s AI ‘Oligarchs’ as Elon Musk, Jeff Bezos, Mark Zuckerberg and Jensen Huang’s Wealth Tops $1.7 Trillion: ‘You’re Asking Us To Trust The People…’ &nbsp;&nbsp; Yahoo"
+ },
+ {
+  "title": "xAI Wins Court Order Halting Minnesota AI Fake Nude Ban - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkh5ZnVPWGhab2pFSGx3aFZjVzVsSzdTck1udXItWU1NaUdvaUxyWEI1NFVIczYxdVFrazJGOXRScGJONHNlM2szU3dLMXozR0JpSnVxZFViTDJyc3V4SXM1bmlKTnZJNjhCanUzd1Z5YVpPNm1PRmJwcXNhTHI1dUUxQkhpbWwwclZEcWRqRXo?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T05:57:01+00:00",
+  "summary": "xAI Wins Court Order Halting Minnesota AI Fake Nude Ban &nbsp;&nbsp; Benzinga"
+ },
+ {
+  "title": "Elon Musk trashed Anthropic's AI as 'evil.' Now its deal with his SpaceX has nearly doubled — to as much as $84.5B - moneywise.com",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE5XQjNTYVJVM1hOMTkzcW5NUExMdC1wU2lpMWZnR09MRjZwc19rbl9aNUtEYjByZ2RMdHlGX3RkRVdRLTQwcVhhQUE2OXdtdzZ6MHV1RkJRckdwdWtMWHc3b2V1cmtJRE5kRmg1SDhWdWU2Q0lkTTluME53UGNLUV8wWDhhMDVSMmY4?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T09:30:49+00:00",
+  "summary": "Elon Musk trashed Anthropic's AI as 'evil.' Now its deal with his SpaceX has nearly doubled — to as much as $84.5B &nbsp;&nbsp; moneywise.com"
+ },
+ {
+  "title": "James Altucher: The Real Ceiling on Artificial Intelligence Isn't Chips or Code. It's Electricity, and He Says Elon Musk Just Found a Way Around It. - The Manila Times",
+  "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNVk5qQXNsYnlreHN5OE41UW9Cbm0tY1YteUV2QmFzZXh5ZjdqR0ZKZ3NGRVlSUXRXbDl4dHdPZDgxSXBySXBodWdwcXF6VHV3NFBmR0xuQWdWVTRuckZyMUVTMXNNc2tpUV9hSDZZWXNxUU9lZ3NnVWpkR0stWDlneUwyTHZFeXhPVExTUS1uY1FmM1NHdHlMTURSQjBIOGl1cXhyWlBSTHpMWXJpQzJNWTBlamNTVk9PX3oyVFJkamlPSEdVeFBueXprUU5fZXZDbEFsalBSVGxMNWQ2UEk2QUIwWkdQdVVnQ05DVHFicGVDcUgweEJSbnpKTXhkcjc4Z01kNTYtNE5iV0J4d0t1UVhGUGFjRUV6LXRzUXljTUxFQnNkNmVfVFhzMlNiQS1pWFA3N0xSTnUyLXRn0gHCAkFVX3lxTE9WdVpEV0NOb0h3V2ItemhOMXozNVUybGRQY2VNTHREWGM5cWhkbkw2Tm5zeElJWlFKb0hZQVNFeFB6bWJoazVmNUQtLWFLS1VHZE9qcUgxUzBGYXlKZXpKVm4ydXFIMTFPTVkzUDlxaFdDbHd4WnhMNjhhWjU3MGtZc1ZxYjRVc2FSZm5IZWF1YzVMNEI0YVpjb0xXdkpxcDRDakRWWTFoYmlmdERZR0ZPYnRTQUlPczBGU01OQkxLTlV1TFAzdFJVSmhyZWZQWlBMTDdNTU56UUJ4VjBMMjNoNlJXaWZoTlZYLWV3Qjd2cjU3VVNCTXpZbC1WZ0xxQjZWSDdwelJpRjVjTFQ3V1VKb3FOZE1OYjViZGxGX1lHQzVYWi1ZaGwzTmMxR2RxdGNPNnVsNXlqV1lZMGpJcG1kT2c?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T12:12:48+00:00",
+  "summary": "James Altucher: The Real Ceiling on Artificial Intelligence Isn't Chips or Code. It's Electricity, and He Says Elon Musk Just Found a Way Around It. &nbsp;&nbsp; The Manila Times"
+ },
+ {
+  "title": "Trump Reportedly Asked Elon Musk's Grok What Would Happen if Nicolas Maduro Fell — Here's What the AI Told Him - Benzinga",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObEJWQjI4QzR4TXlTQzduWTlYbXpLVjd0cXVycGtDeGtKdVBpVktvUUprTHBEX0RUdG9uYkhvMVF1UWpBX1JlTjJSRmpoVHFJMkwtOHpUTGNZMmYteEZKVVJWQlNKdEQ2Uk1FcEhGTF94c2N3dzRpaXNZUUczc3NfTndjYjE4ck11UnZDdE5wajZESmd3S0M0ci1uY29WRVZ1ZENkVHBmZTRvb3BKRVdlcC1ZZkl5RUdyczdONjhmN05IM1RVcmJXbHNSNlFFTDZtcFRNaUp5SzNGSGFReFlhbFItcy0yanhxRXRWLUNnLW4xdw?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-02T10:22:36+00:00",
+  "summary": "Trump Reportedly Asked Elon Musk's Grok What Would Happen if Nicolas Maduro Fell — Here's What the AI Told Him &nbsp;&nbsp; Benzinga"
+ },
+ {
+  "title": "SPCX Stock Climbs Overnight: Musk Teases ‘Big Deal’ Nvidia AI Milestone — Industry Insider Flags Up To 25% Higher Power - Stocktwits",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRld3bTR4TEFVWU95XzlqQ1FlcmE1NjZIQm9feVFiY2IxVDRjcnhFenRxbUZCV2dPbGdkRTR4U19IRVBQVmhTWnZFXzIzMDdGdVNjVlRZbDFvaTAtbC1xbGg3R3B3Y1dTLVVBcnQ0Skhham92OVJLQ0RwUkFJeDZaRi0wUkZ6V1lKRUxWM2owZTVPZGlFMEVLYkxiQTlfLUkwTFJtV0o1XzVGWTdQRzNzNVhrZEZsS0pTbVFtWnIyeUlYMk1lZ3BV?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-02T10:42:36+00:00",
+  "summary": "SPCX Stock Climbs Overnight: Musk Teases ‘Big Deal’ Nvidia AI Milestone — Industry Insider Flags Up To 25% Higher Power &nbsp;&nbsp; Stocktwits"
+ },
+ {
+  "title": "SpaceX's AI revenue expected to surpass other s... - Pluang",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkhYSHhWT05ZcmtMc0dkWjRwVHEwWjlEbWtMelpjVUxYa09QNnoyTXhhaGx6bUYzNTdGOEs1RDIwOVpEZENRc1lkeFl5V2JDZEFGR1RqbGVsSjJBTEgyVVNiWE9DcGUxdmlJaXNCdExvcUJWemZqdmVUTllpMVlBWUNibGtvZjFjWEZWSjFLWHRiZ2VtY3BkQ3JB?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-03T21:15:32+00:00",
+  "summary": "SpaceX's AI revenue expected to surpass other s... &nbsp;&nbsp; Pluang"
+ },
+ {
+  "title": "Breaking up (with Elon Musk) is hard to do - theverge.com",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9La0NMZkw5bWdOWVpIXzNIOG9RQmRBVjlMdXBacnNVZmRaaU1wTGNXTl9MNXMyOUxTbE1LZDE3WWlwb0JMbXVFR09lWGN3MDhTNEhkRml5LXlUWlhBQ0pYX3BQcWxJZVFWLVlKUEZ4bmRrN2VfV0Z0d0ln?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-02T17:37:36+00:00",
+  "summary": "Breaking up (with Elon Musk) is hard to do &nbsp;&nbsp; theverge.com"
+ },
+ {
+  "title": "Did Trump order Maduro’s kidnapping based on Grok’s advice? - Euronews.com",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3ZXZEw3TXkxbHU1Uk10Y0FLc1RmZFNJOHN2VW5tX1llWGdwczRQd2ZDVUFTSTNBNzRTYVYycC1pOWhNeERSUmlYa0RYN0pUOF9xbzZObWdDWERoMm10TnR2N3pMRFhXTmVFTDh3Y1o1My1KeThpaTRiSjhTM2dfeThpN1hrQ0tubVRDVVowTHh0N3dXbWEw?oc=5",
+  "source": "著名人の発信",
+  "feed": "テック企業トップのAI発言 (Google News)",
+  "category": "leaders",
+  "published": "2026-10-02T09:13:23+00:00",
+  "summary": "Did Trump order Maduro’s kidnapping based on Grok’s advice? &nbsp;&nbsp; Euronews.com"
+ },
+ {
+  "title": "OpenAIの安全担当従業員が辞職、「会社の文化が崩壊している」と主張 - au Webポータル",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41OFc1eG9ZOHduNUEtSHZTaFVkaWJEcWYtLWlfbFhxelh6RmNxRVo3Rk1kVjhLeTdXWWYzeXlXVlFOeWFXQU96WXRvS0xMR01pMGk0SDdWOG44SFRRV1MtcWxnU3g5VUMzYWpaeFB3?oc=5",
+  "source": "著名人の発信",
+  "feed": "AI著名人 (Google News 日本語)",
+  "category": "leaders",
+  "published": "2026-10-04T02:00:00+00:00",
+  "summary": "OpenAIの安全担当従業員が辞職、「会社の文化が崩壊している」と主張 &nbsp;&nbsp; au Webポータル"
+ },
+ {
+  "title": "Your smart home is probably already running AI-written code, and you can't avoid it even if you want to",
+  "url": "https://www.howtogeek.com/your-smart-home-is-probably-running-ai-written-code/",
+  "source": "使い方",
+  "feed": "How-To Geek AI",
+  "category": "howto",
+  "published": "2026-10-03T23:00:14+00:00",
+  "summary": "There's no AI-free guarantee."
+ },
+ {
+  "title": "I changed one ChatGPT setting, and it stopped giving me generic advice",
+  "url": "https://www.howtogeek.com/i-changed-one-chatgpt-setting-and-it-stopped-giving-me-generic-advice/",
+  "source": "使い方",
+  "feed": "How-To Geek AI",
+  "category": "howto",
+  "published": "2026-10-03T21:00:15+00:00",
+  "summary": "If you're tired of ChatGPT's safe, corporate buzzwords, changing one persistent profile setting permanently kills generic answers."
+ },
+ {
+  "title": "I set up Claude Code the way Spotify does to save tokens, and it cost me more",
+  "url": "https://www.xda-developers.com/claudes-token-burn-problem-borrowed-spotifys-playbook/",
+  "source": "使い方",
+  "feed": "XDA Developers",
+  "category": "howto",
+  "published": "2026-10-03T23:00:18+00:00",
+  "summary": "This wasn't the expected result, but perhaps something changed in Claude's models since Spotify wrote up its findings"
+ },
+ {
+  "title": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives",
+  "url": "https://www.xda-developers.com/these-open-source-ai-tools-got-so-good-i-finally-cancelled-my-subscriptions/",
+  "source": "使い方",
+  "feed": "XDA Developers",
+  "category": "howto",
+  "published": "2026-10-03T21:30:20+00:00",
+  "summary": "My bank can finally breathe"
+ },
+ {
+  "title": "After a month switching between Claude Code and its open-source rival, I only open Claude for one kind of task",
+  "url": "https://www.xda-developers.com/after-switching-between-claude-code-and-opencode-only-open-claude-for-one-task/",
+  "source": "使い方",
+  "feed": "XDA Developers",
+  "category": "howto",
+  "published": "2026-10-03T20:00:18+00:00",
+  "summary": "Some folders don't get to be test runs"
+ },
+ {
+  "title": "Learn Claude Code and workflow automation for $20 - BleepingComputer",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcUh3eE5lbUh2SmNzUXJ5RWRWd0x5OWFNemdPd3c2UzBRYUxlN19RQVg1OVVJOExqSUhibDhKYk9GZW0wN1BQZWpadTZuNmlMRVlGcXByS2x4LUNtWkQydVh2ZjNtaHpCWVhpSldWOS1MdHhYUDRya3duUE12aGhiX0o4X3ZpcHZ1VEN4YW1iNldIb1BwcFZQRlFn0gGfAUFVX3lxTE9lVUJRNTM4NW5LN1B2M053TVlWQjB0XzhwbDJRbkY0UHNLT2RvNFpER0pqRUk1aFdSVjVNOFBaWlkwczJEMmZHSTFQQjRqdHF0X1kyXzl4bmxkTWt2OTZtNU50SU9uOTFhZXdZTXUzNTdhRVNiUlduU1gzOE1USGxBM0lERUc3bWVBbnFqeDNSVFJlODk1UTNkaXd5TTAtOA?oc=5",
+  "source": "使い方",
+  "feed": "AIエージェント・コーディング活用 (Google News)",
+  "category": "howto",
+  "published": "2026-10-03T12:09:17+00:00",
+  "summary": "Learn Claude Code and workflow automation for $20 &nbsp;&nbsp; BleepingComputer"
+ },
+ {
+  "title": "生成AI大賞、エントリー締め切り迫る 10月5日18時まで受付中 - 日経ビジネス電子版",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhMHE3MUY4Y0paUjlyWFl6eGs4RXRwaWV4b285cnFzbjA1SlRLVGlhM2RNdkVFb2s5TlZLUjhZVmlSemx2REEtSVZ2ZDBDV21MU1prZllqZGNZVFhHU05OSFdHV2VrZms?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-10-02T02:50:00+00:00",
+  "summary": "生成AI大賞、エントリー締め切り迫る 10月5日18時まで受付中 &nbsp;&nbsp; 日経ビジネス電子版"
+ },
+ {
+  "title": "京進、生成ＡＩアプリ活用で年間約５６００時間の業務削減を試算 - shijyukukai.jp",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82SFhILTZqT2d5T2RIUDBpakNSeGR0b2t2N24xMjhOY1NHY3c2bk1uRWNwMlFVbFFPZlpsWl9LWElPNl9uTkl0TjExWkdoTFFLUGc?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-10-03T05:36:37+00:00",
+  "summary": "京進、生成ＡＩアプリ活用で年間約５６００時間の業務削減を試算 &nbsp;&nbsp; shijyukukai.jp"
+ },
+ {
+  "title": "【10/29大阪リアル開催】AI活用を支えるデータ基盤と業務変革～データを「つなぐ・整える・使う」 SSOT実践セミナー - STRAIGHT PRESS",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKN2xUUmd1RFlFY2RPMlJnUUtpTTNMaTVzMWxqVDJlbHd1Y2hYWi1PZWV6S1pLalJ2M2xfa0RlXzUtRHNscEhTcmhrb0hIdDlXT29QbE9Rdjc2dmFybTJFeG9wSDRLZ2VxdU8tNlZ4M2dSeFNW?oc=5",
+  "source": "活用事例",
+  "feed": "AI導入・活用事例 (Google News 日本語)",
+  "category": "usecase",
+  "published": "2026-10-02T18:09:53+00:00",
+  "summary": "【10/29大阪リアル開催】AI活用を支えるデータ基盤と業務変革～データを「つなぐ・整える・使う」 SSOT実践セミナー &nbsp;&nbsp; STRAIGHT PRESS"
+ },
+ {
+  "title": "The Production Bottleneck: Why AI Readiness Requires Full-Stack Infrastructure Integration - CXOToday.com",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSG56cW1jd050RThxaXdCUkJ1NHcwSjVGUzJiZktfYXZmX0dXVDJROEhSZnNyWHMtVUVob2o1NDQ2T1JPR0kybldkLVpoZEEzOWV6bnFRZ3N2YkZhOWtQS3pLOWgxQ202N0hMYXYxVnBuMXlSMXVGQWJJSy1SNEVtZGFOYl9BWk5oQ045NVZBcVZRc1VFOVZ1T2lpLXl1UzVWNUs5X3RmZFM1a1l0Y1hnYzhxOTZNYjdBTk0zSVVxSkJOeUU?oc=5",
+  "source": "活用事例",
+  "feed": "Enterprise AI use cases (Google News)",
+  "category": "usecase",
+  "published": "2026-10-03T13:12:24+00:00",
+  "summary": "The Production Bottleneck: Why AI Readiness Requires Full-Stack Infrastructure Integration &nbsp;&nbsp; CXOToday.com"
+ }
+]
