@@ -77,5 +77,8 @@ Claude Code で作った成果物を OpenAI Codex にレビューさせる仕組
 1. 環境変数 `OPENAI_API_KEY` に OpenAI の API キーを追加
 2. Network access を Custom にし、Allowed domains に `api.openai.com` を追加（パッケージマネージャーの既定リストは残す）
 
+OpenAI 公式の Codex プラグイン（`codex@openai-codex`）も `.claude/settings.json` で有効化済みです。
+`/codex:setup`・`/codex:review`・`/codex:adversarial-review`・`/codex:rescue` が使えます。
+
 Codex CLI はセッション開始時に `.claude/hooks/install-codex.sh` が自動でインストールします。
 レビュー結果は `.codex-reports/`（Git 管理外）にも保存されます。
