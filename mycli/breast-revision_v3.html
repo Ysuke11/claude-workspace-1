@@ -735,26 +735,44 @@ body.menu-open .drawer { opacity: 1; visibility: visible; }
 /* ==========================================================
    v2 追加：他院修正（シリコンバッグ修正 強化）用コンポーネント
    ========================================================== */
-.urgent-box {
-  margin: 40px 0;
-  padding: 24px 28px;
-  border: 2px solid var(--bgcolor3);
-  background: #fdf3f0;
+.triage {
+  margin: 72px 0;
+  padding: 40px 0 8px;
+  border-top: 1px solid var(--color2);
 }
-.urgent-box .urgent-title {
+.triage .triage-title {
+  font-size: 22px;
+  line-height: 1.6;
   font-weight: 700;
-  color: var(--bgcolor3);
-  font-size: 17px;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
-.urgent-box ul { margin: 8px 0 12px; display: flex; flex-wrap: wrap; gap: 8px; }
-.urgent-box li {
-  font-size: 14px;
-  padding: 4px 12px;
-  background: #fff;
-  border: 1px solid #f0c7bb;
+.triage .triage-lead { max-width: 40em; }
+.triage-rows { margin-top: 32px; }
+.triage-row {
+  display: grid;
+  grid-template-columns: 9em 1fr;
+  gap: 24px;
+  padding: 24px 0 24px 20px;
+  border-top: 1px solid var(--bgcolor4);
+  border-left: 2px solid transparent;
 }
-.urgent-box p { font-size: 14px; }
+.triage-row:last-child { border-bottom: 1px solid var(--bgcolor4); }
+.triage-row.is-urgent { border-left-color: #7b2d34; }
+.triage-level { font-weight: 700; }
+.triage-row.is-urgent .triage-level { color: #7b2d34; }
+.triage-symptoms li { position: relative; padding-left: 1.1em; }
+.triage-symptoms li::before { content: "・"; position: absolute; left: 0; }
+.triage-action { margin-top: 12px; font-size: 15px; }
+.triage-action a {
+  display: inline-block;
+  padding: 2px 0;
+  border-bottom: 1px solid currentColor;
+  font-weight: 700;
+}
+.triage-tel { margin-top: 8px; font-size: 14px; line-height: 2; }
+.triage-tel a { border-bottom: 1px solid var(--color2); }
+.triage-tel span { margin-right: 1em; white-space: nowrap; }
+.triage > p:last-child { margin-top: 16px; }
 
 .symptom-nav {
   display: grid;
@@ -924,7 +942,9 @@ body.menu-open .drawer { opacity: 1; visibility: visible; }
   .layer-grid { grid-template-columns: repeat(2, 1fr); }
   .prepare-list { grid-template-columns: 1fr; }
   .table-hint { display: block; }
-  .urgent-box { padding: 20px 18px; }
+  .triage .triage-title { font-size: 19px; }
+  .triage-row { grid-template-columns: 1fr; gap: 8px; padding-left: 16px; }
+  .triage-tel span { display: block; }
 }
 </style>
 </head>
@@ -1029,11 +1049,41 @@ body.menu-open .drawer { opacity: 1; visibility: visible; }
         </nav>
 
         <!-- v2追加：緊急性のある症状 -->
-        <div class="urgent-box fade-in" role="note" aria-label="早めの受診が必要な症状">
-          <p class="urgent-title">急な腫れ・赤み・熱感・強い痛み・傷からの排液などがある方へ</p>
-          <p>豊胸後にこのような症状が出た場合は、通常のご相談とは分けて、自己判断で様子を見ず早めに医療機関を受診してください。手術から時間が経ってからの腫れやしこり、急な左右差も、放置せずご相談ください。</p>
-          <p><span class="draft-note">要確認：当日受入・時間外対応・紹介基準（確認後に専用CTAを設置）</span></p>
-        </div>
+        <section class="triage fade-in" aria-labelledby="triage-lp">
+          <h2 class="triage-title" id="triage-lp">急な腫れや熱感、強い痛みがある方へ</h2>
+          <p class="triage-lead">急な腫れ、赤みや熱感、発熱、傷からの排液、急激に強くなる痛みは、感染や血腫などの確認が必要なサインです。不安なまま様子を見ず、まずはお電話で現在の症状をお聞かせください。</p>
+          <div class="triage-rows">
+            <div class="triage-row is-urgent">
+              <p class="triage-level">緊急</p>
+              <div>
+                <ul class="triage-symptoms">
+                  <li>急激に腫れてきた</li>
+                  <li>赤みや熱感がある</li>
+                  <li>発熱している</li>
+                  <li>傷から液が出ている</li>
+                  <li>痛みが急に強くなった</li>
+                </ul>
+                <p class="triage-action"><a href="tel:0364502056">症状について電話で相談する</a></p>
+                <p class="triage-tel"><span>東京・恵比寿院 <a href="tel:0364502056">03-6450-2056</a></span><span>大阪・梅田院 <a href="tel:0666768915">06-6676-8915</a></span><span>（10:00-19:00）</span></p>
+              </div>
+            </div>
+            <div class="triage-row">
+              <p class="triage-level">早めの相談</p>
+              <div>
+                <p>新たなしこり、進行する硬さ、続く痛み、形や左右差の変化</p>
+                <p class="triage-action"><a href="#">診察を予約する</a></p>
+              </div>
+            </div>
+            <div class="triage-row">
+              <p class="triage-level">計画的な相談</p>
+              <div>
+                <p>抜去や入れ替えの検討、サイズ変更、症状のない状態確認</p>
+                <p class="triage-action"><a href="#">カウンセリングを予約する</a></p>
+              </div>
+            </div>
+          </div>
+          <p><span class="draft-note">要確認：当日受入・時間外対応・受付のトリアージ基準、緊急連絡を電話のみとするか（確認後に掲載）</span></p>
+        </section>
 
         <!-- v2追加：症状から探す（シリコンバッグ） -->
         <section class="fade-in">
@@ -1267,7 +1317,9 @@ body.menu-open .drawer { opacity: 1; visibility: visible; }
 
         <!-- v2 制作メモ（公開時は削除） -->
         <div class="revision-log">
-          <p class="log-title">v2 改訂メモ（2026/10/08・公開前に削除）</p>
+          <p class="log-title">改訂メモ（公開前に削除）</p>
+          <p><strong>v3（2026/10/08）</strong>：「05_デザイン調査・改善方針」4章に基づき、緊急症状エリアを赤枠＋症状チップから、緊急／早めの相談／計画的な相談の3段階案内（ニュートラル背景・緊急行のみボルドー罫線・緊急は電話導線）に変更。その他は変更なし。</p>
+          <p><strong>v2（2026/10/08）</strong></p>
           <ul>
             <li>OT深掘り調査報告書・レビュー論点整理に基づき、シリコンバッグ修正を「症状→原因→検査→治療比較→限界→相談」の導線に再構成（詳細ページ #page-bag）。</li>
             <li>緊急性のある症状の案内、症状別ナビゲーションを追加。当日受入等は医師確認まで「要確認」。</li>
@@ -1333,20 +1385,41 @@ body.menu-open .drawer { opacity: 1; visibility: visible; }
         </ul></div>
 
         <!-- 緊急性のある症状 -->
-        <div class="urgent-box fade-in" role="note" aria-label="早めの受診が必要な症状">
-          <p class="urgent-title">次のような症状がある方は、通常のご相談とは分けて早めに医療機関を受診してください</p>
-          <ul>
-            <li>急な腫れ</li>
-            <li>赤み・熱感</li>
-            <li>強い痛み</li>
-            <li>発熱</li>
-            <li>傷からの排液</li>
-            <li>急な左右差</li>
-            <li>新たなしこり</li>
-          </ul>
-          <p>これらの症状は、血腫・感染・液体の貯留（漿液腫）などのほか、まれにインプラントに関連する病気でも起こることがあります。多くは別の原因によるものですが、自己判断で様子を見ず、診察を受けることが大切です。</p>
-          <p><span class="draft-note">要確認：当日受入・時間外対応・紹介基準（確認後に専用CTAを設置）</span></p>
-        </div>
+        <section class="triage fade-in" aria-labelledby="triage-bag">
+          <h2 class="triage-title" id="triage-bag">急な腫れや熱感、強い痛みがある方へ</h2>
+          <p class="triage-lead">急な腫れ、赤みや熱感、発熱、傷からの排液、急激に強くなる痛みは、感染や血腫などの確認が必要なサインです。不安なまま様子を見ず、まずはお電話で現在の症状をお聞かせください。</p>
+          <div class="triage-rows">
+            <div class="triage-row is-urgent">
+              <p class="triage-level">緊急</p>
+              <div>
+                <ul class="triage-symptoms">
+                  <li>急激に腫れてきた</li>
+                  <li>赤みや熱感がある</li>
+                  <li>発熱している</li>
+                  <li>傷から液が出ている</li>
+                  <li>痛みが急に強くなった</li>
+                </ul>
+                <p class="triage-action"><a href="tel:0364502056">症状について電話で相談する</a></p>
+                <p class="triage-tel"><span>東京・恵比寿院 <a href="tel:0364502056">03-6450-2056</a></span><span>大阪・梅田院 <a href="tel:0666768915">06-6676-8915</a></span><span>（10:00-19:00）</span></p>
+              </div>
+            </div>
+            <div class="triage-row">
+              <p class="triage-level">早めの相談</p>
+              <div>
+                <p>新たなしこり、進行する硬さ、続く痛み、形や左右差の変化</p>
+                <p class="triage-action"><a href="#">診察を予約する</a></p>
+              </div>
+            </div>
+            <div class="triage-row">
+              <p class="triage-level">計画的な相談</p>
+              <div>
+                <p>抜去や入れ替えの検討、サイズ変更、症状のない状態確認</p>
+                <p class="triage-action"><a href="#">カウンセリングを予約する</a></p>
+              </div>
+            </div>
+          </div>
+          <p><span class="draft-note">要確認：当日受入・時間外対応・受付のトリアージ基準、緊急連絡を電話のみとするか（確認後に掲載）</span></p>
+        </section>
 
         <!-- 悩み・症状別ナビゲーション -->
         <section class="fade-in">
