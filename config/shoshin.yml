@@ -1,0 +1,47 @@
+# 初診アップ分析エージェントの設定
+#
+# 環境変数で上書きできる項目:
+#   GOOGLE_CLOUD_PROJECT  → bigquery.project_id
+#   ANTHROPIC_API_KEY     → Claude API の認証（必須）
+
+bigquery:
+  # 空にすると GOOGLE_CLOUD_PROJECT 環境変数、それも無ければ ADC の既定プロジェクトを使う
+  project_id: ""
+  location: "asia-northeast1"
+
+  # 分析対象を絞りたい場合にデータセット名を列挙する。空なら全データセットを探索対象にする。
+  # 例: ["karte", "reservation", "analytics_123456789", "ads"]
+  allowed_datasets: []
+
+  # 探索時に無視するデータセット（一時テーブル置き場など）
+  denied_datasets: []
+
+  limits:
+    # 1クエリあたりのスキャン上限。dry run で超過したクエリは実行前に拒否する。
+    max_bytes_billed: 5000000000      # 5 GB
+    # エージェントに返す最大行数（超過分は切り捨てて件数だけ伝える）
+    max_rows: 200
+    # セル1つあたりの最大文字数
+    max_cell_chars: 300
+    query_timeout_seconds: 180
+    # 1回の実行で許可するクエリ本数
+    max_queries_per_run: 60
+
+claude:
+  model: "claude-opus-5"
+  # low | medium | high | xhigh | max
+  effort: "high"
+  max_tokens: 16000
+  # 証拠集めフェーズの最大往復数
+  max_turns: 40
+
+business:
+  type: "動物病院"
+  name: ""                      # 病院名（レポートの見出しに使う。空でも可）
+  goal: "初診（新規来院）件数の増加"
+  # 商圏の目安。地域別分析の解釈に使う。
+  trade_area_km: 3
+  # 院として既知の前提・制約があれば書く。プロンプトにそのまま渡される。
+  notes:
+    - "商圏が狭いため、地域別（住所・郵便番号）の初診シェアを重視する"
+    - "初診を増やすだけでなく、初診→再診の転換率も同時に評価する"
