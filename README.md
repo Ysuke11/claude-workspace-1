@@ -60,3 +60,25 @@ python scripts/collect_ai_news.py
   query: 検索キーワード
   category: news
 ```
+
+## Codex 連携（Claude Code × OpenAI Codex）
+
+Claude Code で作った成果物を OpenAI Codex にレビューさせる仕組みです。
+
+| コマンド（Claude Code 内） | 内容 |
+|---|---|
+| `/codex review` | コード差分を Codex がレビュー |
+| `/codex check path/to/file.md` | 資料のファクトチェック |
+| `/codex ask "質問"` | 設計などの相談 |
+| `/codex rescue "指示"` | 修正を Codex に任せる |
+
+初回のみ、クラウド環境の設定（セッションのタイトルバーの環境メニュー → Edit）で次を行います。
+
+1. 環境変数 `OPENAI_API_KEY` に OpenAI の API キーを追加
+2. Network access を Custom にし、Allowed domains に `api.openai.com` を追加（パッケージマネージャーの既定リストは残す）
+
+OpenAI 公式の Codex プラグイン（`codex@openai-codex`）も `.claude/settings.json` で有効化済みです。
+`/codex:setup`・`/codex:review`・`/codex:adversarial-review`・`/codex:rescue` が使えます。
+
+Codex CLI はセッション開始時に `.claude/hooks/install-codex.sh` が自動でインストールします。
+レビュー結果は `.codex-reports/`（Git 管理外）にも保存されます。
